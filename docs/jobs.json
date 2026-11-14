@@ -1,6 +1,445 @@
 {
- "generated_at": "2026-11-14T12:37:50+00:00",
+ "generated_at": "2026-11-14T12:59:00+00:00",
  "jobs": [
+  {
+   "id": "aa5cea182a65",
+   "company": "Goldman Sachs",
+   "type": "Bank & Finance",
+   "title": "The Core Engineering-L2-Hyderabad-Associate-Software Engineering",
+   "location": "The Core Engineering-L2-Hyderabad-Associate-Software Engineering\nHyderabad·India\n·Associate\nSoftware Engineering\nshare\nShare\nbookmark_border\nSave",
+   "city": "Hyderabad",
+   "exp": "Not stated",
+   "url": "https://higher.gs.com/roles/188637",
+   "ext_id": "https://higher.gs.com/roles/188637",
+   "desc": "",
+   "keywords": [],
+   "first_seen": "2026-11-14T12:59:00+00:00"
+  },
+  {
+   "id": "6fe94e4993fb",
+   "company": "Goldman Sachs",
+   "type": "Bank & Finance",
+   "title": "The Core Engineering-L2-Hyderabad-Analyst-Software Engineering",
+   "location": "The Core Engineering-L2-Hyderabad-Analyst-Software Engineering\nHyderabad·India\n·Analyst\nSoftware Engineering\nshare\nShare\nbookmark_border\nSave",
+   "city": "Hyderabad",
+   "exp": "Not stated",
+   "url": "https://higher.gs.com/roles/188638",
+   "ext_id": "https://higher.gs.com/roles/188638",
+   "desc": "",
+   "keywords": [],
+   "first_seen": "2026-11-14T12:59:00+00:00"
+  },
+  {
+   "id": "cc56cee17e16",
+   "company": "Goldman Sachs",
+   "type": "Bank & Finance",
+   "title": "The Core Engineering-L2-Hyderabad-Vice President-Software Engineering",
+   "location": "The Core Engineering-L2-Hyderabad-Vice President-Software Engineering\nHyderabad·India\n·Vice President\nSoftware Engineering\nshare\nShare\nbookmark_border\nSave",
+   "city": "Hyderabad",
+   "exp": "Not stated",
+   "url": "https://higher.gs.com/roles/188636",
+   "ext_id": "https://higher.gs.com/roles/188636",
+   "desc": "",
+   "keywords": [],
+   "first_seen": "2026-11-14T12:59:00+00:00"
+  },
+  {
+   "id": "9bf939b2cea2",
+   "company": "Citi",
+   "type": "Bank & Finance",
+   "title": "Full Stack Java and Angular Developer",
+   "location": "Hybrid\nFull Stack Java and Angular Developer\nChennai, Tamil Nadu, India",
+   "city": "Chennai",
+   "exp": "Not stated",
+   "url": "https://jobs.citi.com/job/chennai/full-stack-java-and-angular-developer/287/103245945984",
+   "ext_id": "a-and-angular-developer/287/103245945984",
+   "desc": "",
+   "keywords": [
+    "Java",
+    "Angular"
+   ],
+   "first_seen": "2026-11-14T12:59:00+00:00"
+  },
+  {
+   "id": "bec34057b495",
+   "company": "BNY",
+   "type": "Bank & Finance",
+   "title": "Vice President, Full-Stack Engineer",
+   "location": "Pune, MH, India",
+   "city": "Pune",
+   "exp": "Not stated",
+   "url": "https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BNY-Careers/job/80565",
+   "ext_id": "80565",
+   "desc": "",
+   "keywords": [],
+   "first_seen": "2026-11-14T12:59:00+00:00"
+  },
+  {
+   "id": "d88eb62e9a38",
+   "company": "BNY",
+   "type": "Bank & Finance",
+   "title": "Vice President, Full-Stack Engineer",
+   "location": "Pune, MH, India",
+   "city": "Pune",
+   "exp": "Not stated",
+   "url": "https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BNY-Careers/job/75925",
+   "ext_id": "75925",
+   "desc": "",
+   "keywords": [],
+   "first_seen": "2026-11-14T12:59:00+00:00"
+  },
+  {
+   "id": "68fb19b93231",
+   "company": "BNY",
+   "type": "Bank & Finance",
+   "title": "Vice President, Full-Stack Engineer",
+   "location": "Pune, MH, India",
+   "city": "Pune",
+   "exp": "Not stated",
+   "url": "https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BNY-Careers/job/77213",
+   "ext_id": "77213",
+   "desc": "",
+   "keywords": [],
+   "first_seen": "2026-11-14T12:59:00+00:00"
+  },
+  {
+   "id": "0985c4c874b4",
+   "company": "BNY",
+   "type": "Bank & Finance",
+   "title": "Vice President, Full-Stack Engineer",
+   "location": "Pune, MH, India",
+   "city": "Pune",
+   "exp": "Not stated",
+   "url": "https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BNY-Careers/job/75655",
+   "ext_id": "75655",
+   "desc": "",
+   "keywords": [],
+   "first_seen": "2026-11-14T12:59:00+00:00"
+  },
+  {
+   "id": "9d153371d585",
+   "company": "BNY",
+   "type": "Bank & Finance",
+   "title": "Vice President, Full-Stack Engineer",
+   "location": "Pune, MH, India",
+   "city": "Pune",
+   "exp": "Not stated",
+   "url": "https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BNY-Careers/job/79507",
+   "ext_id": "79507",
+   "desc": "",
+   "keywords": [],
+   "first_seen": "2026-11-14T12:59:00+00:00"
+  },
+  {
+   "id": "dbf053d755a8",
+   "company": "BNY",
+   "type": "Bank & Finance",
+   "title": "Vice President, Full-Stack Engineer",
+   "location": "Pune, MH, India",
+   "city": "Pune",
+   "exp": "Not stated",
+   "url": "https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BNY-Careers/job/82939",
+   "ext_id": "82939",
+   "desc": "",
+   "keywords": [],
+   "first_seen": "2026-11-14T12:59:00+00:00"
+  },
+  {
+   "id": "475733da9fa0",
+   "company": "BNY",
+   "type": "Bank & Finance",
+   "title": "Vice President, Full-Stack Engineer",
+   "location": "Pune, MH, India",
+   "city": "Pune",
+   "exp": "Not stated",
+   "url": "https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BNY-Careers/job/82052",
+   "ext_id": "82052",
+   "desc": "",
+   "keywords": [],
+   "first_seen": "2026-11-14T12:59:00+00:00"
+  },
+  {
+   "id": "b15fa92e9153",
+   "company": "BNY",
+   "type": "Bank & Finance",
+   "title": "Vice President, Full-Stack Engineer",
+   "location": "Pune, MH, India",
+   "city": "Pune",
+   "exp": "Not stated",
+   "url": "https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BNY-Careers/job/80730",
+   "ext_id": "80730",
+   "desc": "",
+   "keywords": [],
+   "first_seen": "2026-11-14T12:59:00+00:00"
+  },
+  {
+   "id": "6953ec2cb7de",
+   "company": "BNY",
+   "type": "Bank & Finance",
+   "title": "Vice President, Full-Stack Engineer",
+   "location": "Pune, MH, India",
+   "city": "Pune",
+   "exp": "Not stated",
+   "url": "https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BNY-Careers/job/79776",
+   "ext_id": "79776",
+   "desc": "",
+   "keywords": [],
+   "first_seen": "2026-11-14T12:59:00+00:00"
+  },
+  {
+   "id": "b42db40691e0",
+   "company": "BNY",
+   "type": "Bank & Finance",
+   "title": "Vice President, Full-Stack Engineer",
+   "location": "Pune, MH, India",
+   "city": "Pune",
+   "exp": "Not stated",
+   "url": "https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BNY-Careers/job/75329",
+   "ext_id": "75329",
+   "desc": "",
+   "keywords": [],
+   "first_seen": "2026-11-14T12:59:00+00:00"
+  },
+  {
+   "id": "fe907acda59b",
+   "company": "BNY",
+   "type": "Bank & Finance",
+   "title": "Vice President, Full-Stack Engineer",
+   "location": "Pune, MH, India",
+   "city": "Pune",
+   "exp": "Not stated",
+   "url": "https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BNY-Careers/job/80400",
+   "ext_id": "80400",
+   "desc": "",
+   "keywords": [],
+   "first_seen": "2026-11-14T12:59:00+00:00"
+  },
+  {
+   "id": "0266ed5fcaa8",
+   "company": "BNY",
+   "type": "Bank & Finance",
+   "title": "Vice President, Full-Stack Engineer",
+   "location": "Pune, MH, India",
+   "city": "Pune",
+   "exp": "Not stated",
+   "url": "https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BNY-Careers/job/80399",
+   "ext_id": "80399",
+   "desc": "",
+   "keywords": [],
+   "first_seen": "2026-11-14T12:59:00+00:00"
+  },
+  {
+   "id": "0dea9c2a9798",
+   "company": "BNY",
+   "type": "Bank & Finance",
+   "title": "Vice President, Full-Stack Engineer",
+   "location": "Pune, MH, India",
+   "city": "Pune",
+   "exp": "Not stated",
+   "url": "https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BNY-Careers/job/81172",
+   "ext_id": "81172",
+   "desc": "",
+   "keywords": [],
+   "first_seen": "2026-11-14T12:59:00+00:00"
+  },
+  {
+   "id": "868d0d53561a",
+   "company": "BNY",
+   "type": "Bank & Finance",
+   "title": "Vice President, Full-Stack Engineer",
+   "location": "Pune, MH, India",
+   "city": "Pune",
+   "exp": "Not stated",
+   "url": "https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BNY-Careers/job/80999",
+   "ext_id": "80999",
+   "desc": "",
+   "keywords": [],
+   "first_seen": "2026-11-14T12:59:00+00:00"
+  },
+  {
+   "id": "222fa9d29c8a",
+   "company": "BNY",
+   "type": "Bank & Finance",
+   "title": "Vice President, Full-Stack Engineer",
+   "location": "Pune, MH, India",
+   "city": "Pune",
+   "exp": "Not stated",
+   "url": "https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BNY-Careers/job/80323",
+   "ext_id": "80323",
+   "desc": "",
+   "keywords": [],
+   "first_seen": "2026-11-14T12:59:00+00:00"
+  },
+  {
+   "id": "e7d24ba497e4",
+   "company": "BNY",
+   "type": "Bank & Finance",
+   "title": "Vice President, Full-Stack Engineer",
+   "location": "Pune, MH, India",
+   "city": "Pune",
+   "exp": "Not stated",
+   "url": "https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BNY-Careers/job/80325",
+   "ext_id": "80325",
+   "desc": "",
+   "keywords": [],
+   "first_seen": "2026-11-14T12:59:00+00:00"
+  },
+  {
+   "id": "66050ad390d3",
+   "company": "PayPal",
+   "type": "Bank & Finance",
+   "title": "Software Engineer",
+   "location": "Software Engineer\nBangalore, Karnataka, India\nSoftware Engineering\nHybrid\nPosted 2 days ago",
+   "city": "Bengaluru",
+   "exp": "Not stated",
+   "url": "https://paypal.eightfold.ai/careers/job/274923287904",
+   "ext_id": "al.eightfold.ai/careers/job/274923287904",
+   "desc": "",
+   "keywords": [],
+   "first_seen": "2026-11-14T12:59:00+00:00"
+  },
+  {
+   "id": "562a75c24a56",
+   "company": "Microsoft",
+   "type": "GCC",
+   "title": "Software Engineer - MBO",
+   "location": "India",
+   "city": "",
+   "exp": "Not stated",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557073410?lc=India&q=software+engineer",
+   "ext_id": "93557073410?lc=India&q=software+engineer",
+   "desc": "",
+   "keywords": [],
+   "first_seen": "2026-11-14T12:59:00+00:00"
+  },
+  {
+   "id": "e2b5062ed34c",
+   "company": "Google",
+   "type": "GCC",
+   "title": "Learn more about Software Engineer, PhD, Google Cloud Platform",
+   "location": "India",
+   "city": "",
+   "exp": "Not stated",
+   "url": "https://www.google.com/about/careers/applications/jobs/results/88871666280473286-software-engineer-phd-google-cloud-platform?location=India&q=software%20engineer",
+   "ext_id": "orm?location=India&q=software%20engineer",
+   "desc": "",
+   "keywords": [],
+   "first_seen": "2026-11-14T12:59:00+00:00"
+  },
+  {
+   "id": "47b56e0796b9",
+   "company": "Google",
+   "type": "GCC",
+   "title": "Learn more about Software Engineer, PhD, Early Career, 2026",
+   "location": "India",
+   "city": "",
+   "exp": "Not stated",
+   "url": "https://www.google.com/about/careers/applications/jobs/results/107018346561446598-software-engineer-phd-early-career-2026?location=India&q=software%20engineer",
+   "ext_id": "026?location=India&q=software%20engineer",
+   "desc": "",
+   "keywords": [],
+   "first_seen": "2026-11-14T12:59:00+00:00"
+  },
+  {
+   "id": "2071d2d459e1",
+   "company": "Google",
+   "type": "GCC",
+   "title": "Learn more about Software Engineer, PhD, Early Career, 2026",
+   "location": "India",
+   "city": "",
+   "exp": "Not stated",
+   "url": "https://www.google.com/about/careers/applications/jobs/results/108281679147082438-software-engineer-phd-early-career-2026?location=India&q=software%20engineer",
+   "ext_id": "026?location=India&q=software%20engineer",
+   "desc": "",
+   "keywords": [],
+   "first_seen": "2026-11-14T12:59:00+00:00"
+  },
+  {
+   "id": "51534c7ab6bb",
+   "company": "Google",
+   "type": "GCC",
+   "title": "Learn more about Software Engineer, PhD, Early Career, 2026",
+   "location": "India",
+   "city": "",
+   "exp": "Not stated",
+   "url": "https://www.google.com/about/careers/applications/jobs/results/120415858164933318-software-engineer-phd-early-career-2026?location=India&q=software%20engineer",
+   "ext_id": "026?location=India&q=software%20engineer",
+   "desc": "",
+   "keywords": [],
+   "first_seen": "2026-11-14T12:59:00+00:00"
+  },
+  {
+   "id": "1df495eb700f",
+   "company": "Google",
+   "type": "GCC",
+   "title": "Learn more about Software Engineer, PhD, Early Career, Networking, 2026 Start",
+   "location": "India",
+   "city": "",
+   "exp": "Not stated",
+   "url": "https://www.google.com/about/careers/applications/jobs/results/126485952255140550-software-engineer-phd-early-career-networking-2026-start?location=India&q=software%20engineer",
+   "ext_id": "art?location=India&q=software%20engineer",
+   "desc": "",
+   "keywords": [],
+   "first_seen": "2026-11-14T12:59:00+00:00"
+  },
+  {
+   "id": "c55cde9fe0a6",
+   "company": "Google",
+   "type": "GCC",
+   "title": "Learn more about Software Engineer, Persistent Disk, PhD, Early Career, 2026",
+   "location": "India",
+   "city": "",
+   "exp": "Not stated",
+   "url": "https://www.google.com/about/careers/applications/jobs/results/95785531123606214-software-engineer-persistent-disk-phd-early-career-2026?location=India&q=software%20engineer",
+   "ext_id": "026?location=India&q=software%20engineer",
+   "desc": "",
+   "keywords": [],
+   "first_seen": "2026-11-14T12:59:00+00:00"
+  },
+  {
+   "id": "77c660e38d68",
+   "company": "Google",
+   "type": "GCC",
+   "title": "Learn more about Software Engineer, Fleet Analytics, PhD, Early Career, 2026",
+   "location": "India",
+   "city": "",
+   "exp": "Not stated",
+   "url": "https://www.google.com/about/careers/applications/jobs/results/141496697866855110-software-engineer-fleet-analytics-phd-early-career-2026?location=India&q=software%20engineer",
+   "ext_id": "026?location=India&q=software%20engineer",
+   "desc": "",
+   "keywords": [],
+   "first_seen": "2026-11-14T12:59:00+00:00"
+  },
+  {
+   "id": "0f27396983f5",
+   "company": "Intuit",
+   "type": "GCC",
+   "title": "Software Engineering",
+   "location": "India",
+   "city": "",
+   "exp": "Not stated",
+   "url": "https://www.intuit.com/careers/teams/software-engineering/",
+   "ext_id": ".com/careers/teams/software-engineering/",
+   "desc": "",
+   "keywords": [],
+   "first_seen": "2026-11-14T12:59:00+00:00"
+  },
+  {
+   "id": "21f8d260030e",
+   "company": "Zensar",
+   "type": "Service",
+   "title": "Full Stack Automation",
+   "location": "India",
+   "city": "",
+   "exp": "Not stated",
+   "url": "https://fa-etvl-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/149128",
+   "ext_id": "149128",
+   "desc": "Solid understanding of duties performed within entire software development life cycle, tools, and language(s) to include: •Collaborate with Product Owners/BA’s/Architects in refinement and defining story acceptance criteria for controls based software utilized in automated systems for material movement •Analyze system requirements and review technical specifications to assess, evaluate, and create testing requirements for all software components for functional and end-to-end scenarios •Follows and coaches best practices for construction and utilization of Hybrid Testing Framework (data-driven, Keyword Driven) to support both Dev and DevOps in Test/Behavior driven designs and DevOps CI/CD pipelines for test automation/integration. •Collaborate and contribute to automation test system architecture, methodologies, and processes using industry best practices and innovation of testing framework •Design, construct, and maintain automated test reporting infrastructure for providing technical,",
+   "keywords": [
+    "CI/CD"
+   ],
+   "first_seen": "2026-11-14T12:59:00+00:00"
+  },
   {
    "id": "db09bf57dc46",
    "company": "Deutsche Bank",
@@ -578,40 +1017,6 @@
    "first_seen": "2026-11-14T12:37:50+00:00"
   },
   {
-   "id": "4583b0057f04",
-   "company": "Amazon",
-   "type": "GCC",
-   "title": "WiFi Software Development Engineer, eero",
-   "location": "IN, TN, Chennai",
-   "city": "Chennai",
-   "exp": "3+ yrs",
-   "url": "https://www.amazon.jobs/en/jobs/10558339/wifi-software-development-engineer-eero",
-   "ext_id": "10558339",
-   "desc": "- 3+ years of computer science fundamentals (object-oriented design, data structures, algorithm design, problem solving and complexity analysis) experience - 3+ years of full software development life cycle, including coding standards, code reviews, source control management, build processes, testing, and operations experience - Experience programming with at least one software programming language - Proven experience in WiFi software development, particularly with 802.11 protocols. - Familiarity with 802.11, 802.3, DHCP, IPv4, IPv6, Linux bridge, and network stack internals. We are looking for a Software Development Engineer to join our team at eero. The ideal candidate will be passionate about networking, with a deep understanding of Ethernet, network security protocols,",
-   "keywords": [
-    "Data Structures",
-    "Linux"
-   ],
-   "first_seen": "2026-11-14T12:37:50+00:00"
-  },
-  {
-   "id": "ed1786bcd0d5",
-   "company": "Amazon",
-   "type": "GCC",
-   "title": "WiFi Software Development Engineer, eero",
-   "location": "IN, TN, Chennai",
-   "city": "Chennai",
-   "exp": "3+ yrs",
-   "url": "https://www.amazon.jobs/en/jobs/10558338/wifi-software-development-engineer-eero",
-   "ext_id": "10558338",
-   "desc": "- 3+ years of computer science fundamentals (object-oriented design, data structures, algorithm design, problem solving and complexity analysis) experience - 3+ years of full software development life cycle, including coding standards, code reviews, source control management, build processes, testing, and operations experience - Experience programming with at least one software programming language - Proven experience in WiFi software development, particularly with 802.11 protocols. - Familiarity with 802.11, 802.3, DHCP, IPv4, IPv6, Linux bridge, and network stack internals. We are looking for a Software Development Engineer to join our team at eero. The ideal candidate will be passionate about networking, with a deep understanding of Ethernet, network security protocols,",
-   "keywords": [
-    "Data Structures",
-    "Linux"
-   ],
-   "first_seen": "2026-11-14T12:37:50+00:00"
-  },
-  {
    "id": "a3a36dd956f2",
    "company": "Amazon",
    "type": "GCC",
@@ -1034,29 +1439,6 @@
    "first_seen": "2026-11-14T12:37:50+00:00"
   },
   {
-   "id": "71b63b53e1ca",
-   "company": "Databricks",
-   "type": "Product",
-   "title": "Software Engineer, Infrastructure",
-   "location": "Bengaluru, India",
-   "city": "Bengaluru",
-   "exp": "3+ yrs",
-   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8829029002",
-   "ext_id": "8829029002",
-   "desc": "GAQ327R265 About the Role At Databricks Information Technology, we are a product-led organisation transforming the way we work, from how easy it is to use our IT services to the applications we develop to help us scale seamlessly amid incredible growth. As an IT Software Engineer (Infrastructure) , you will be a core technical contributor on the IT CorpEng Infrastructure team, owning and driving the evolution of our core infrastructure and observability platforms. This role requires a strong software engineering mindset, deep technical breadth across SRE and infrastructure worlds, and the ability to deliver high-quality, scalable solutions for currently \"immature\" system problems. You will be responsible for building resilient, scalable, and automated infrastructure that empowers our development teams. As a member of the team, you will bridge the gap between software engineering and systems architecture, ensuring our AWS environment is cost-optimised, secure, and highly available. The impact you will have: Automate: Develop and deploy production-grade infrastructure on cloud platforms (AWS preferred) using Infrastructure as Code tools like Terraform or Pulumi. Orchestration: Deploy, manage, and scale containerised workloads using Kubernetes (EKS/AKS), focusing on security, reliability, and resource efficiency. CI/CD Excellence: Build and maintain robust deployment pipelines using GitHub Actions, including both cloud-hosted and self-hosted runners for specialised build require",
-   "keywords": [
-    "Python",
-    "AWS",
-    "Azure",
-    "GCP",
-    "Docker",
-    "Kubernetes",
-    "CI/CD",
-    "Terraform"
-   ],
-   "first_seen": "2026-11-14T12:37:50+00:00"
-  },
-  {
    "id": "53b0edaf62fb",
    "company": "GitLab",
    "type": "Product",
@@ -1122,1082 +1504,1190 @@
   {
    "name": "Goldman Sachs",
    "type": "Bank & Finance",
-   "ats": "link",
    "url": "https://higher.gs.com/roles",
-   "status": "link-only",
-   "count": 0,
+   "system": "",
+   "method": "page",
+   "status": "ok",
+   "count": 3,
    "error": "",
-   "checked_at": "2026-11-14T12:37:50+00:00"
+   "checked_at": "2026-11-14T12:59:00+00:00"
   },
   {
    "name": "JPMorgan Chase",
    "type": "Bank & Finance",
-   "ats": "link",
-   "url": "https://careers.jpmorgan.com/in/en/home",
-   "status": "link-only",
+   "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/jobs?location=India",
+   "system": "oracle",
+   "method": "feed",
+   "status": "ok",
    "count": 0,
    "error": "",
-   "checked_at": "2026-11-14T12:37:50+00:00"
+   "checked_at": "2026-11-14T12:59:00+00:00"
   },
   {
    "name": "Morgan Stanley",
    "type": "Bank & Finance",
-   "ats": "link",
    "url": "https://www.morganstanley.com/careers/career-opportunities-search",
-   "status": "link-only",
+   "system": "",
+   "method": "",
+   "status": "failed",
    "count": 0,
-   "error": "",
-   "checked_at": "2026-11-14T12:37:50+00:00"
+   "error": "eightfold: HTTP 403 '{\"message\": \"Not authorized for PCSX\"}\\n' | browser: Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.morganstanley.com/careers/career-opportunities-search\nCall log:\n  - navigating to \"https://www.morganstanley.com/careers/career-op",
+   "checked_at": "2026-11-14T12:59:00+00:00"
   },
   {
    "name": "Citi",
    "type": "Bank & Finance",
-   "ats": "link",
    "url": "https://jobs.citi.com/search-jobs/India",
-   "status": "link-only",
-   "count": 0,
+   "system": "workday",
+   "method": "page",
+   "status": "ok",
+   "count": 1,
    "error": "",
-   "checked_at": "2026-11-14T12:37:50+00:00"
+   "checked_at": "2026-11-14T12:59:00+00:00"
   },
   {
    "name": "Deutsche Bank",
    "type": "Bank & Finance",
-   "ats": "workday",
    "url": "https://careers.db.com/",
+   "system": "workday",
+   "method": "feed",
    "status": "ok",
    "count": 5,
    "error": "",
-   "checked_at": "2026-11-14T12:37:50+00:00"
+   "checked_at": "2026-11-14T12:59:00+00:00"
   },
   {
    "name": "Barclays",
    "type": "Bank & Finance",
-   "ats": "link",
    "url": "https://search.jobs.barclays/search-jobs/India",
-   "status": "link-only",
+   "system": "workday",
+   "method": "feed",
+   "status": "ok",
    "count": 0,
    "error": "",
-   "checked_at": "2026-11-14T12:37:50+00:00"
+   "checked_at": "2026-11-14T12:59:00+00:00"
   },
   {
    "name": "HSBC",
    "type": "Bank & Finance",
-   "ats": "workday",
-   "url": "https://www.hsbc.com/careers",
-   "status": "failed",
+   "url": "https://www.hsbc.com/careers/find-a-job",
+   "system": "",
+   "method": "page",
+   "status": "ok",
    "count": 0,
-   "error": "422 Client Error: Unprocessable Entity for url: https://hsbc.wd3.myworkdayjobs.com/wday/cxs/hsbc/External/jobs",
-   "checked_at": "2026-11-14T12:37:50+00:00"
+   "error": "",
+   "checked_at": "2026-11-14T12:59:00+00:00"
   },
   {
    "name": "Wells Fargo",
    "type": "Bank & Finance",
-   "ats": "workday",
    "url": "https://www.wellsfargojobs.com/",
-   "status": "failed",
+   "system": "",
+   "method": "page",
+   "status": "ok",
    "count": 0,
-   "error": "422 Client Error: Unprocessable Entity for url: https://wellsfargo.wd1.myworkdayjobs.com/wday/cxs/wellsfargo/WF_External_Careers/jobs",
-   "checked_at": "2026-11-14T12:37:50+00:00"
+   "error": "",
+   "checked_at": "2026-11-14T12:59:00+00:00"
   },
   {
    "name": "Standard Chartered",
    "type": "Bank & Finance",
-   "ats": "link",
    "url": "https://jobs.standardchartered.com/",
-   "status": "link-only",
+   "system": "SuccessFactors",
+   "method": "page",
+   "status": "ok",
    "count": 0,
    "error": "",
-   "checked_at": "2026-11-14T12:37:50+00:00"
+   "checked_at": "2026-11-14T12:59:00+00:00"
   },
   {
    "name": "BNY",
    "type": "Bank & Finance",
-   "ats": "workday",
    "url": "https://www.bny.com/corporate/global/en/careers.html",
-   "status": "failed",
-   "count": 0,
-   "error": "422 Client Error: Unprocessable Entity for url: https://bnymellon.wd1.myworkdayjobs.com/wday/cxs/bnymellon/BNY_Mellon_Talent/jobs",
-   "checked_at": "2026-11-14T12:37:50+00:00"
+   "system": "oracle",
+   "method": "feed",
+   "status": "ok",
+   "count": 16,
+   "error": "",
+   "checked_at": "2026-11-14T12:59:00+00:00"
   },
   {
    "name": "State Street",
    "type": "Bank & Finance",
-   "ats": "workday",
    "url": "https://www.statestreet.com/careers",
-   "status": "failed",
+   "system": "workday",
+   "method": "page",
+   "status": "ok",
    "count": 0,
-   "error": "Expecting value: line 1 column 1 (char 0)",
-   "checked_at": "2026-11-14T12:37:50+00:00"
+   "error": "",
+   "checked_at": "2026-11-14T12:59:00+00:00"
   },
   {
    "name": "Fidelity Investments",
    "type": "Bank & Finance",
-   "ats": "workday",
    "url": "https://jobs.fidelity.com/",
-   "status": "failed",
+   "system": "",
+   "method": "page",
+   "status": "ok",
    "count": 0,
-   "error": "Expecting value: line 1 column 1 (char 0)",
-   "checked_at": "2026-11-14T12:37:50+00:00"
+   "error": "",
+   "checked_at": "2026-11-14T12:59:00+00:00"
   },
   {
    "name": "Capital One",
    "type": "Bank & Finance",
-   "ats": "workday",
    "url": "https://www.capitalonecareers.com/",
+   "system": "workday",
+   "method": "feed",
    "status": "ok",
    "count": 0,
    "error": "",
-   "checked_at": "2026-11-14T12:37:50+00:00"
+   "checked_at": "2026-11-14T12:59:00+00:00"
   },
   {
    "name": "American Express",
    "type": "Bank & Finance",
-   "ats": "link",
-   "url": "https://aexp.eightfold.ai/careers",
-   "status": "link-only",
+   "url": "https://aexp.eightfold.ai/careers?query=software+engineer&location=India",
+   "system": "",
+   "method": "",
+   "status": "failed",
    "count": 0,
-   "error": "",
-   "checked_at": "2026-11-14T12:37:50+00:00"
+   "error": "eightfold: HTTP 404 '<!DOCTYPE html>\\n<html lang=\"en\">\\n\\n  <head>\\n    <meta charset=\"utf-8\">\\n' | eightfold: HTTP 404 '<!DOCTYPE html>\\n<html lang=\"en\">\\n\\n  <head>\\n    <meta charset=\"utf-8\">\\n' | browser: page showed no job list (needs a custom scraper) ei",
+   "checked_at": "2026-11-14T12:59:00+00:00"
   },
   {
    "name": "Visa",
    "type": "Bank & Finance",
-   "ats": "link",
    "url": "https://corporate.visa.com/en/jobs/",
-   "status": "link-only",
+   "system": "",
+   "method": "",
+   "status": "failed",
    "count": 0,
-   "error": "",
-   "checked_at": "2026-11-14T12:37:50+00:00"
+   "error": " | browser: page showed no job list (needs a custom scraper) workday: Not JSON: '<!DOCTYPE html>\\n<html lang=\"en\" dir=\"ltr\">\\n<head>\\n    <meta http-equiv'",
+   "checked_at": "2026-11-14T12:59:00+00:00"
   },
   {
    "name": "Mastercard",
    "type": "Bank & Finance",
-   "ats": "workday",
    "url": "https://careers.mastercard.com/",
-   "status": "failed",
+   "system": "workday",
+   "method": "page",
+   "status": "ok",
    "count": 0,
-   "error": "Expecting value: line 1 column 1 (char 0)",
-   "checked_at": "2026-11-14T12:37:50+00:00"
+   "error": "",
+   "checked_at": "2026-11-14T12:59:00+00:00"
   },
   {
    "name": "PayPal",
    "type": "Bank & Finance",
-   "ats": "workday",
-   "url": "https://paypal.eightfold.ai/careers",
-   "status": "failed",
-   "count": 0,
-   "error": "Expecting value: line 1 column 1 (char 0)",
-   "checked_at": "2026-11-14T12:37:50+00:00"
+   "url": "https://paypal.eightfold.ai/careers?query=software+engineer&location=India",
+   "system": "eightfold",
+   "method": "page",
+   "status": "ok",
+   "count": 1,
+   "error": "",
+   "checked_at": "2026-11-14T12:59:00+00:00"
   },
   {
    "name": "HDFC Bank",
    "type": "Bank & Finance",
-   "ats": "link",
    "url": "https://www.hdfcbank.com/personal/about-us/careers",
-   "status": "link-only",
+   "system": "",
+   "method": "page",
+   "status": "ok",
    "count": 0,
    "error": "",
-   "checked_at": "2026-11-14T12:37:50+00:00"
+   "checked_at": "2026-11-14T12:59:00+00:00"
   },
   {
    "name": "ICICI Bank",
    "type": "Bank & Finance",
-   "ats": "link",
    "url": "https://www.icicicareers.com/",
-   "status": "link-only",
+   "system": "",
+   "method": "page",
+   "status": "ok",
    "count": 0,
    "error": "",
-   "checked_at": "2026-11-14T12:37:50+00:00"
+   "checked_at": "2026-11-14T12:59:00+00:00"
   },
   {
    "name": "Axis Bank",
    "type": "Bank & Finance",
-   "ats": "link",
    "url": "https://www.axisbank.com/careers",
-   "status": "link-only",
+   "system": "",
+   "method": "page",
+   "status": "ok",
    "count": 0,
    "error": "",
-   "checked_at": "2026-11-14T12:37:50+00:00"
+   "checked_at": "2026-11-14T12:59:00+00:00"
   },
   {
    "name": "Kotak Mahindra Bank",
    "type": "Bank & Finance",
-   "ats": "link",
    "url": "https://www.kotak.com/en/careers.html",
-   "status": "link-only",
+   "system": "oracle",
+   "method": "feed",
+   "status": "ok",
    "count": 0,
    "error": "",
-   "checked_at": "2026-11-14T12:37:50+00:00"
+   "checked_at": "2026-11-14T12:59:00+00:00"
   },
   {
    "name": "Bajaj Finserv",
    "type": "Bank & Finance",
-   "ats": "link",
    "url": "https://www.bajajfinserv.in/careers",
-   "status": "link-only",
+   "system": "",
+   "method": "",
+   "status": "failed",
    "count": 0,
-   "error": "",
-   "checked_at": "2026-11-14T12:37:50+00:00"
+   "error": " | browser: page showed no job list (needs a custom scraper) ",
+   "checked_at": "2026-11-14T12:59:00+00:00"
   },
   {
    "name": "Microsoft",
    "type": "GCC",
-   "ats": "link",
    "url": "https://jobs.careers.microsoft.com/global/en/search?lc=India&q=software%20engineer",
-   "status": "link-only",
-   "count": 0,
+   "system": "eightfold",
+   "method": "page",
+   "status": "ok",
+   "count": 1,
    "error": "",
-   "checked_at": "2026-11-14T12:37:50+00:00"
+   "checked_at": "2026-11-14T12:59:00+00:00"
   },
   {
    "name": "Amazon",
    "type": "GCC",
-   "ats": "amazon",
    "url": "https://www.amazon.jobs/en/search?base_query=software+development+engineer&loc_query=India",
+   "system": "amazon",
+   "method": "feed",
    "status": "ok",
-   "count": 56,
+   "count": 54,
    "error": "",
-   "checked_at": "2026-11-14T12:37:50+00:00"
+   "checked_at": "2026-11-14T12:59:00+00:00"
   },
   {
    "name": "Google",
    "type": "GCC",
-   "ats": "link",
    "url": "https://www.google.com/about/careers/applications/jobs/results/?location=India&q=software%20engineer",
-   "status": "link-only",
-   "count": 0,
+   "system": "",
+   "method": "page",
+   "status": "ok",
+   "count": 7,
    "error": "",
-   "checked_at": "2026-11-14T12:37:50+00:00"
+   "checked_at": "2026-11-14T12:59:00+00:00"
   },
   {
    "name": "Walmart Global Tech",
    "type": "GCC",
-   "ats": "workday",
    "url": "https://careers.walmart.com/",
-   "status": "failed",
+   "system": "",
+   "method": "page",
+   "status": "ok",
    "count": 0,
-   "error": "422 Client Error: Unprocessable Entity for url: https://walmart.wd5.myworkdayjobs.com/wday/cxs/walmart/WalmartExternal/jobs",
-   "checked_at": "2026-11-14T12:37:50+00:00"
+   "error": "",
+   "checked_at": "2026-11-14T12:59:00+00:00"
   },
   {
    "name": "Target",
    "type": "GCC",
-   "ats": "workday",
    "url": "https://india.target.com/careers",
-   "status": "failed",
+   "system": "",
+   "method": "page",
+   "status": "ok",
    "count": 0,
-   "error": "Expecting value: line 1 column 1 (char 0)",
-   "checked_at": "2026-11-14T12:37:50+00:00"
+   "error": "",
+   "checked_at": "2026-11-14T12:59:00+00:00"
   },
   {
    "name": "Lowe's",
    "type": "GCC",
-   "ats": "link",
    "url": "https://talent.lowes.com/us/en",
-   "status": "link-only",
+   "system": "Phenom",
+   "method": "page",
+   "status": "ok",
    "count": 0,
    "error": "",
-   "checked_at": "2026-11-14T12:37:50+00:00"
+   "checked_at": "2026-11-14T12:59:00+00:00"
   },
   {
    "name": "Intuit",
    "type": "GCC",
-   "ats": "link",
    "url": "https://jobs.intuit.com/search-jobs/India",
-   "status": "link-only",
-   "count": 0,
+   "system": "Radancy",
+   "method": "page",
+   "status": "ok",
+   "count": 1,
    "error": "",
-   "checked_at": "2026-11-14T12:37:50+00:00"
+   "checked_at": "2026-11-14T12:59:00+00:00"
   },
   {
    "name": "Adobe",
    "type": "GCC",
-   "ats": "workday",
    "url": "https://careers.adobe.com/",
-   "status": "failed",
+   "system": "workday",
+   "method": "page",
+   "status": "ok",
    "count": 0,
-   "error": "Expecting value: line 1 column 1 (char 0)",
-   "checked_at": "2026-11-14T12:37:50+00:00"
+   "error": "",
+   "checked_at": "2026-11-14T12:59:00+00:00"
   },
   {
    "name": "Salesforce",
    "type": "GCC",
-   "ats": "workday",
    "url": "https://careers.salesforce.com/",
+   "system": "workday",
+   "method": "feed",
    "status": "ok",
    "count": 7,
    "error": "",
-   "checked_at": "2026-11-14T12:37:50+00:00"
+   "checked_at": "2026-11-14T12:59:00+00:00"
   },
   {
    "name": "Oracle",
    "type": "GCC",
-   "ats": "link",
    "url": "https://careers.oracle.com/jobs/#en/sites/jobsearch/jobs?location=India",
-   "status": "link-only",
+   "system": "",
+   "method": "page",
+   "status": "ok",
    "count": 0,
    "error": "",
-   "checked_at": "2026-11-14T12:37:50+00:00"
+   "checked_at": "2026-11-14T12:59:00+00:00"
   },
   {
    "name": "SAP Labs India",
    "type": "GCC",
-   "ats": "link",
    "url": "https://jobs.sap.com/search/?q=software+developer&locationsearch=India",
-   "status": "link-only",
+   "system": "SuccessFactors",
+   "method": "",
+   "status": "failed",
    "count": 0,
-   "error": "",
-   "checked_at": "2026-11-14T12:37:50+00:00"
+   "error": " | browser: page showed no job list (needs a custom scraper) ",
+   "checked_at": "2026-11-14T12:59:00+00:00"
   },
   {
    "name": "Cisco",
    "type": "GCC",
-   "ats": "link",
    "url": "https://jobs.cisco.com/",
-   "status": "link-only",
+   "system": "Phenom",
+   "method": "page",
+   "status": "ok",
    "count": 0,
    "error": "",
-   "checked_at": "2026-11-14T12:37:50+00:00"
+   "checked_at": "2026-11-14T12:59:00+00:00"
   },
   {
    "name": "Intel",
    "type": "GCC",
-   "ats": "workday",
    "url": "https://jobs.intel.com/",
+   "system": "",
+   "method": "",
    "status": "failed",
    "count": 0,
-   "error": "Expecting value: line 1 column 1 (char 0)",
-   "checked_at": "2026-11-14T12:37:50+00:00"
+   "error": "workday: Not JSON: '<!DOCTYPE html>\\n<html lang=\"en\" dir=\"ltr\">\\n<head>\\n    <meta http-equiv' | browser: page showed no job list (needs a custom scraper) workday: Not JSON: '<!DOCTYPE html>\\n<html lang=\"en\" dir=\"ltr\">\\n<head>\\n    <meta http-equiv'",
+   "checked_at": "2026-11-14T12:59:00+00:00"
   },
   {
    "name": "NVIDIA",
    "type": "GCC",
-   "ats": "workday",
    "url": "https://www.nvidia.com/en-in/about-nvidia/careers/",
-   "status": "failed",
+   "system": "eightfold",
+   "method": "page",
+   "status": "ok",
    "count": 0,
-   "error": "Expecting value: line 1 column 1 (char 0)",
-   "checked_at": "2026-11-14T12:37:50+00:00"
+   "error": "",
+   "checked_at": "2026-11-14T12:59:00+00:00"
   },
   {
    "name": "Qualcomm",
    "type": "GCC",
-   "ats": "workday",
    "url": "https://careers.qualcomm.com/",
-   "status": "failed",
+   "system": "eightfold",
+   "method": "page",
+   "status": "ok",
    "count": 0,
-   "error": "422 Client Error: Unprocessable Entity for url: https://qualcomm.wd5.myworkdayjobs.com/wday/cxs/qualcomm/External/jobs",
-   "checked_at": "2026-11-14T12:37:50+00:00"
+   "error": "",
+   "checked_at": "2026-11-14T12:59:00+00:00"
   },
   {
    "name": "AMD",
    "type": "GCC",
-   "ats": "link",
    "url": "https://careers.amd.com/careers-home/jobs",
-   "status": "link-only",
+   "system": "iCIMS",
+   "method": "page",
+   "status": "ok",
    "count": 0,
    "error": "",
-   "checked_at": "2026-11-14T12:37:50+00:00"
+   "checked_at": "2026-11-14T12:59:00+00:00"
   },
   {
    "name": "Micron",
    "type": "GCC",
-   "ats": "link",
    "url": "https://careers.micron.com/careers",
-   "status": "link-only",
+   "system": "workday",
+   "method": "page",
+   "status": "ok",
    "count": 0,
    "error": "",
-   "checked_at": "2026-11-14T12:37:50+00:00"
+   "checked_at": "2026-11-14T12:59:00+00:00"
   },
   {
    "name": "Dell",
    "type": "GCC",
-   "ats": "workday",
    "url": "https://jobs.dell.com/",
-   "status": "failed",
+   "system": "",
+   "method": "page",
+   "status": "ok",
    "count": 0,
-   "error": "422 Client Error: Unprocessable Entity for url: https://dell.wd1.myworkdayjobs.com/wday/cxs/dell/External/jobs",
-   "checked_at": "2026-11-14T12:37:50+00:00"
+   "error": "",
+   "checked_at": "2026-11-14T12:59:00+00:00"
   },
   {
    "name": "Broadcom",
    "type": "GCC",
-   "ats": "workday",
    "url": "https://www.broadcom.com/company/careers",
-   "status": "failed",
+   "system": "workday",
+   "method": "page",
+   "status": "ok",
    "count": 0,
-   "error": "Expecting value: line 1 column 1 (char 0)",
-   "checked_at": "2026-11-14T12:37:50+00:00"
+   "error": "",
+   "checked_at": "2026-11-14T12:59:00+00:00"
   },
   {
    "name": "Synopsys",
    "type": "GCC",
-   "ats": "link",
    "url": "https://careers.synopsys.com/",
-   "status": "link-only",
+   "system": "Radancy",
+   "method": "page",
+   "status": "ok",
    "count": 0,
    "error": "",
-   "checked_at": "2026-11-14T12:37:50+00:00"
+   "checked_at": "2026-11-14T12:59:00+00:00"
   },
   {
    "name": "Cadence",
    "type": "GCC",
-   "ats": "workday",
    "url": "https://cadence.wd1.myworkdayjobs.com/External_Careers",
+   "system": "",
+   "method": "",
    "status": "failed",
    "count": 0,
-   "error": "Expecting value: line 1 column 1 (char 0)",
-   "checked_at": "2026-11-14T12:37:50+00:00"
+   "error": "workday: Not JSON: '<!DOCTYPE html>\\n<html lang=\"en\" dir=\"ltr\">\\n<head>\\n    <meta http-equiv' | browser: page showed no job list (needs a custom scraper) workday: Not JSON: '<!DOCTYPE html>\\n<html lang=\"en\" dir=\"ltr\">\\n<head>\\n    <meta http-equiv'",
+   "checked_at": "2026-11-14T12:59:00+00:00"
   },
   {
    "name": "Autodesk",
    "type": "GCC",
-   "ats": "workday",
    "url": "https://www.autodesk.com/careers",
+   "system": "",
+   "method": "",
    "status": "failed",
    "count": 0,
-   "error": "Expecting value: line 1 column 1 (char 0)",
-   "checked_at": "2026-11-14T12:37:50+00:00"
+   "error": "workday: Not JSON: '<!DOCTYPE html>\\n<html lang=\"en\" dir=\"ltr\">\\n<head>\\n    <meta http-equiv' | browser: page showed no job list (needs a custom scraper) ",
+   "checked_at": "2026-11-14T12:59:00+00:00"
   },
   {
    "name": "Atlassian",
    "type": "GCC",
-   "ats": "link",
    "url": "https://www.atlassian.com/company/careers/all-jobs?location=India",
-   "status": "link-only",
+   "system": "atlassian",
+   "method": "feed",
+   "status": "ok",
    "count": 0,
    "error": "",
-   "checked_at": "2026-11-14T12:37:50+00:00"
+   "checked_at": "2026-11-14T12:59:00+00:00"
   },
   {
    "name": "Uber",
    "type": "GCC",
-   "ats": "link",
    "url": "https://www.uber.com/global/en/careers/list/",
-   "status": "link-only",
+   "system": "",
+   "method": "",
+   "status": "failed",
    "count": 0,
-   "error": "",
-   "checked_at": "2026-11-14T12:37:50+00:00"
+   "error": " | browser: page showed no job list (needs a custom scraper) ",
+   "checked_at": "2026-11-14T12:59:00+00:00"
   },
   {
    "name": "ServiceNow",
    "type": "GCC",
-   "ats": "smartrecruiters",
    "url": "https://careers.servicenow.com/",
+   "system": "smartrecruiters",
+   "method": "feed",
    "status": "ok",
    "count": 0,
    "error": "",
-   "checked_at": "2026-11-14T12:37:50+00:00"
+   "checked_at": "2026-11-14T12:59:00+00:00"
   },
   {
    "name": "Workday",
    "type": "GCC",
-   "ats": "workday",
    "url": "https://www.workday.com/en-us/company/careers.html",
-   "status": "failed",
+   "system": "workday",
+   "method": "page",
+   "status": "ok",
    "count": 0,
-   "error": "Expecting value: line 1 column 1 (char 0)",
-   "checked_at": "2026-11-14T12:37:50+00:00"
+   "error": "",
+   "checked_at": "2026-11-14T12:59:00+00:00"
   },
   {
    "name": "Thomson Reuters",
    "type": "GCC",
-   "ats": "workday",
    "url": "https://careers.thomsonreuters.com/",
+   "system": "",
+   "method": "",
    "status": "failed",
    "count": 0,
-   "error": "Expecting value: line 1 column 1 (char 0)",
-   "checked_at": "2026-11-14T12:37:50+00:00"
+   "error": "workday: Not JSON: '<!DOCTYPE html>\\n<html lang=\"en\" dir=\"ltr\">\\n<head>\\n    <meta http-equiv' | browser: page showed no job list (needs a custom scraper) workday: Not JSON: '<!DOCTYPE html>\\n<html lang=\"en\" dir=\"ltr\">\\n<head>\\n    <meta http-equiv'",
+   "checked_at": "2026-11-14T12:59:00+00:00"
   },
   {
    "name": "Flipkart",
    "type": "Product",
-   "ats": "link",
    "url": "https://www.flipkartcareers.com/",
-   "status": "link-only",
+   "system": "",
+   "method": "page",
+   "status": "ok",
    "count": 0,
    "error": "",
-   "checked_at": "2026-11-14T12:37:50+00:00"
+   "checked_at": "2026-11-14T12:59:00+00:00"
   },
   {
    "name": "Swiggy",
    "type": "Product",
-   "ats": "link",
    "url": "https://careers.swiggy.com/",
-   "status": "link-only",
+   "system": "",
+   "method": "page",
+   "status": "ok",
    "count": 0,
    "error": "",
-   "checked_at": "2026-11-14T12:37:50+00:00"
+   "checked_at": "2026-11-14T12:59:00+00:00"
   },
   {
    "name": "Zomato",
    "type": "Product",
-   "ats": "link",
    "url": "https://www.zomato.com/careers",
-   "status": "link-only",
+   "system": "",
+   "method": "",
+   "status": "failed",
    "count": 0,
-   "error": "",
-   "checked_at": "2026-11-14T12:37:50+00:00"
+   "error": " | browser: Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.zomato.com/careers\nCall log:\n  - navigating to \"https://www.zomato.com/careers\", waiting until \"domcontentloaded\"\n",
+   "checked_at": "2026-11-14T12:59:00+00:00"
   },
   {
    "name": "Ola",
    "type": "Product",
-   "ats": "link",
    "url": "https://www.olacabs.com/careers",
-   "status": "link-only",
+   "system": "",
+   "method": "",
+   "status": "failed",
    "count": 0,
-   "error": "",
-   "checked_at": "2026-11-14T12:37:50+00:00"
+   "error": " | browser: page showed no job list (needs a custom scraper) ",
+   "checked_at": "2026-11-14T12:59:00+00:00"
   },
   {
    "name": "Freshworks",
    "type": "Product",
-   "ats": "link",
    "url": "https://www.freshworks.com/company/careers/",
-   "status": "link-only",
+   "system": "smartrecruiters",
+   "method": "feed",
+   "status": "ok",
    "count": 0,
    "error": "",
-   "checked_at": "2026-11-14T12:37:50+00:00"
+   "checked_at": "2026-11-14T12:59:00+00:00"
   },
   {
    "name": "Zoho",
    "type": "Product",
-   "ats": "link",
    "url": "https://www.zoho.com/careers/",
-   "status": "link-only",
+   "system": "Zoho Recruit",
+   "method": "page",
+   "status": "ok",
    "count": 0,
    "error": "",
-   "checked_at": "2026-11-14T12:37:50+00:00"
+   "checked_at": "2026-11-14T12:59:00+00:00"
   },
   {
    "name": "Postman",
    "type": "Product",
-   "ats": "greenhouse",
    "url": "https://www.postman.com/company/careers/",
-   "status": "failed",
+   "system": "",
+   "method": "page",
+   "status": "ok",
    "count": 0,
-   "error": "404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/postman/jobs?content=true",
-   "checked_at": "2026-11-14T12:37:50+00:00"
+   "error": "",
+   "checked_at": "2026-11-14T12:59:00+00:00"
   },
   {
    "name": "BrowserStack",
    "type": "Product",
-   "ats": "greenhouse",
    "url": "https://www.browserstack.com/careers",
-   "status": "failed",
+   "system": "workday",
+   "method": "feed",
+   "status": "ok",
    "count": 0,
-   "error": "404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/browserstack/jobs?content=true",
-   "checked_at": "2026-11-14T12:37:50+00:00"
+   "error": "greenhouse: HTTP 404 '{\"status\":404,\"error\":\"Job not found\"}'",
+   "checked_at": "2026-11-14T12:59:00+00:00"
   },
   {
    "name": "Druva",
    "type": "Product",
-   "ats": "greenhouse",
    "url": "https://www.druva.com/about/careers",
+   "system": "greenhouse",
+   "method": "feed",
    "status": "ok",
    "count": 0,
    "error": "",
-   "checked_at": "2026-11-14T12:37:50+00:00"
+   "checked_at": "2026-11-14T12:59:00+00:00"
   },
   {
    "name": "Nutanix",
    "type": "Product",
-   "ats": "workday",
    "url": "https://www.nutanix.com/company/careers",
-   "status": "failed",
+   "system": "",
+   "method": "page",
+   "status": "ok",
    "count": 0,
-   "error": "422 Client Error: Unprocessable Entity for url: https://nutanix.wd1.myworkdayjobs.com/wday/cxs/nutanix/Nutanix_Careers/jobs",
-   "checked_at": "2026-11-14T12:37:50+00:00"
+   "error": "",
+   "checked_at": "2026-11-14T12:59:00+00:00"
   },
   {
    "name": "Rubrik",
    "type": "Product",
-   "ats": "greenhouse",
    "url": "https://www.rubrik.com/company/careers",
+   "system": "greenhouse",
+   "method": "feed",
    "status": "ok",
    "count": 2,
    "error": "",
-   "checked_at": "2026-11-14T12:37:50+00:00"
+   "checked_at": "2026-11-14T12:59:00+00:00"
   },
   {
    "name": "Databricks",
    "type": "Product",
-   "ats": "greenhouse",
    "url": "https://www.databricks.com/company/careers",
+   "system": "greenhouse",
+   "method": "feed",
    "status": "ok",
-   "count": 1,
+   "count": 0,
    "error": "",
-   "checked_at": "2026-11-14T12:37:50+00:00"
+   "checked_at": "2026-11-14T12:59:00+00:00"
   },
   {
    "name": "Stripe",
    "type": "Product",
-   "ats": "greenhouse",
    "url": "https://stripe.com/jobs",
+   "system": "greenhouse",
+   "method": "feed",
    "status": "ok",
    "count": 0,
    "error": "",
-   "checked_at": "2026-11-14T12:37:50+00:00"
+   "checked_at": "2026-11-14T12:59:00+00:00"
   },
   {
    "name": "Cloudflare",
    "type": "Product",
-   "ats": "greenhouse",
    "url": "https://www.cloudflare.com/careers/",
+   "system": "greenhouse",
+   "method": "feed",
    "status": "ok",
    "count": 0,
    "error": "",
-   "checked_at": "2026-11-14T12:37:50+00:00"
+   "checked_at": "2026-11-14T12:59:00+00:00"
   },
   {
    "name": "Datadog",
    "type": "Product",
-   "ats": "greenhouse",
    "url": "https://careers.datadoghq.com/",
+   "system": "greenhouse",
+   "method": "feed",
    "status": "ok",
    "count": 0,
    "error": "",
-   "checked_at": "2026-11-14T12:37:50+00:00"
+   "checked_at": "2026-11-14T12:59:00+00:00"
   },
   {
    "name": "MongoDB",
    "type": "Product",
-   "ats": "greenhouse",
    "url": "https://www.mongodb.com/company/careers",
+   "system": "greenhouse",
+   "method": "feed",
    "status": "ok",
    "count": 0,
    "error": "",
-   "checked_at": "2026-11-14T12:37:50+00:00"
+   "checked_at": "2026-11-14T12:59:00+00:00"
   },
   {
    "name": "Okta",
    "type": "Product",
-   "ats": "greenhouse",
    "url": "https://www.okta.com/company/careers/",
+   "system": "greenhouse",
+   "method": "feed",
    "status": "ok",
    "count": 0,
    "error": "",
-   "checked_at": "2026-11-14T12:37:50+00:00"
+   "checked_at": "2026-11-14T12:59:00+00:00"
   },
   {
    "name": "GitLab",
    "type": "Product",
-   "ats": "greenhouse",
    "url": "https://about.gitlab.com/jobs/",
+   "system": "greenhouse",
+   "method": "feed",
    "status": "ok",
    "count": 3,
    "error": "",
-   "checked_at": "2026-11-14T12:37:50+00:00"
+   "checked_at": "2026-11-14T12:59:00+00:00"
   },
   {
    "name": "Twilio",
    "type": "Product",
-   "ats": "greenhouse",
    "url": "https://www.twilio.com/en-us/company/jobs",
+   "system": "greenhouse",
+   "method": "feed",
    "status": "ok",
    "count": 0,
    "error": "",
-   "checked_at": "2026-11-14T12:37:50+00:00"
+   "checked_at": "2026-11-14T12:59:00+00:00"
   },
   {
    "name": "Coinbase",
    "type": "Product",
-   "ats": "greenhouse",
    "url": "https://www.coinbase.com/careers",
+   "system": "greenhouse",
+   "method": "feed",
    "status": "ok",
    "count": 0,
    "error": "",
-   "checked_at": "2026-11-14T12:37:50+00:00"
+   "checked_at": "2026-11-14T12:59:00+00:00"
   },
   {
    "name": "Pinterest",
    "type": "Product",
-   "ats": "greenhouse",
    "url": "https://www.pinterestcareers.com/",
+   "system": "greenhouse",
+   "method": "feed",
    "status": "ok",
    "count": 0,
    "error": "",
-   "checked_at": "2026-11-14T12:37:50+00:00"
+   "checked_at": "2026-11-14T12:59:00+00:00"
   },
   {
    "name": "Airbnb",
    "type": "Product",
-   "ats": "greenhouse",
    "url": "https://careers.airbnb.com/",
+   "system": "greenhouse",
+   "method": "feed",
    "status": "ok",
    "count": 0,
    "error": "",
-   "checked_at": "2026-11-14T12:37:50+00:00"
+   "checked_at": "2026-11-14T12:59:00+00:00"
   },
   {
    "name": "Elastic",
    "type": "Product",
-   "ats": "greenhouse",
    "url": "https://www.elastic.co/careers",
+   "system": "greenhouse",
+   "method": "feed",
    "status": "ok",
    "count": 0,
    "error": "",
-   "checked_at": "2026-11-14T12:37:50+00:00"
+   "checked_at": "2026-11-14T12:59:00+00:00"
   },
   {
    "name": "ThoughtSpot",
    "type": "Product",
-   "ats": "greenhouse",
    "url": "https://www.thoughtspot.com/careers",
-   "status": "failed",
+   "system": "",
+   "method": "page",
+   "status": "ok",
    "count": 0,
-   "error": "404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/thoughtspot/jobs?content=true",
-   "checked_at": "2026-11-14T12:37:50+00:00"
+   "error": "",
+   "checked_at": "2026-11-14T12:59:00+00:00"
   },
   {
    "name": "TCS",
    "type": "Service",
-   "ats": "link",
    "url": "https://www.tcs.com/careers/india",
-   "status": "link-only",
+   "system": "",
+   "method": "",
+   "status": "failed",
    "count": 0,
-   "error": "",
-   "checked_at": "2026-11-14T12:37:50+00:00"
+   "error": " | browser: page showed no job list (needs a custom scraper) ",
+   "checked_at": "2026-11-14T12:59:00+00:00"
   },
   {
    "name": "Infosys",
    "type": "Service",
-   "ats": "link",
    "url": "https://www.infosys.com/careers/apply.html",
-   "status": "link-only",
+   "system": "",
+   "method": "",
+   "status": "failed",
    "count": 0,
-   "error": "",
-   "checked_at": "2026-11-14T12:37:50+00:00"
+   "error": " | browser: page showed no job list (needs a custom scraper) ",
+   "checked_at": "2026-11-14T12:59:00+00:00"
   },
   {
    "name": "Wipro",
    "type": "Service",
-   "ats": "link",
    "url": "https://careers.wipro.com/",
-   "status": "link-only",
+   "system": "SuccessFactors",
+   "method": "page",
+   "status": "ok",
    "count": 0,
    "error": "",
-   "checked_at": "2026-11-14T12:37:50+00:00"
+   "checked_at": "2026-11-14T12:59:00+00:00"
   },
   {
    "name": "HCLTech",
    "type": "Service",
-   "ats": "link",
    "url": "https://www.hcltech.com/careers",
-   "status": "link-only",
+   "system": "SuccessFactors",
+   "method": "",
+   "status": "failed",
    "count": 0,
-   "error": "",
-   "checked_at": "2026-11-14T12:37:50+00:00"
+   "error": " | browser: Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.hcltech.com/careers\nCall log:\n  - navigating to \"https://www.hcltech.com/careers\", waiting until \"domcontentloaded\"\n",
+   "checked_at": "2026-11-14T12:59:00+00:00"
   },
   {
    "name": "Tech Mahindra",
    "type": "Service",
-   "ats": "link",
    "url": "https://careers.techmahindra.com/",
-   "status": "link-only",
+   "system": "",
+   "method": "page",
+   "status": "ok",
    "count": 0,
    "error": "",
-   "checked_at": "2026-11-14T12:37:50+00:00"
+   "checked_at": "2026-11-14T12:59:00+00:00"
   },
   {
    "name": "Cognizant",
    "type": "Service",
-   "ats": "link",
    "url": "https://careers.cognizant.com/india/en",
-   "status": "link-only",
+   "system": "",
+   "method": "page",
+   "status": "ok",
    "count": 0,
    "error": "",
-   "checked_at": "2026-11-14T12:37:50+00:00"
+   "checked_at": "2026-11-14T12:59:00+00:00"
   },
   {
    "name": "Accenture",
    "type": "Service",
-   "ats": "link",
    "url": "https://www.accenture.com/in-en/careers/jobsearch",
-   "status": "link-only",
+   "system": "workday",
+   "method": "page",
+   "status": "ok",
    "count": 0,
    "error": "",
-   "checked_at": "2026-11-14T12:37:50+00:00"
+   "checked_at": "2026-11-14T12:59:00+00:00"
   },
   {
    "name": "Capgemini",
    "type": "Service",
-   "ats": "link",
    "url": "https://www.capgemini.com/in-en/careers/",
-   "status": "link-only",
+   "system": "Phenom",
+   "method": "page",
+   "status": "ok",
    "count": 0,
    "error": "",
-   "checked_at": "2026-11-14T12:37:50+00:00"
+   "checked_at": "2026-11-14T12:59:00+00:00"
   },
   {
    "name": "LTIMindtree",
    "type": "Service",
-   "ats": "link",
    "url": "https://www.ltimindtree.com/careers/",
-   "status": "link-only",
+   "system": "",
+   "method": "page",
+   "status": "ok",
    "count": 0,
    "error": "",
-   "checked_at": "2026-11-14T12:37:50+00:00"
+   "checked_at": "2026-11-14T12:59:00+00:00"
   },
   {
    "name": "Persistent Systems",
    "type": "Service",
-   "ats": "link",
    "url": "https://www.persistent.com/careers/",
-   "status": "link-only",
+   "system": "",
+   "method": "",
+   "status": "failed",
    "count": 0,
-   "error": "",
-   "checked_at": "2026-11-14T12:37:50+00:00"
+   "error": " | browser: Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.persistent.com/careers/\nCall log:\n  - navigating to \"https://www.persistent.com/careers/\", waiting until \"domcontentloaded\"\n",
+   "checked_at": "2026-11-14T12:59:00+00:00"
   },
   {
    "name": "Mphasis",
    "type": "Service",
-   "ats": "link",
    "url": "https://careers.mphasis.com/",
-   "status": "link-only",
+   "system": "",
+   "method": "page",
+   "status": "ok",
    "count": 0,
    "error": "",
-   "checked_at": "2026-11-14T12:37:50+00:00"
+   "checked_at": "2026-11-14T12:59:00+00:00"
   },
   {
    "name": "Hexaware",
    "type": "Service",
-   "ats": "link",
    "url": "https://hexaware.com/careers/",
-   "status": "link-only",
+   "system": "",
+   "method": "",
+   "status": "failed",
    "count": 0,
-   "error": "",
-   "checked_at": "2026-11-14T12:37:50+00:00"
+   "error": " | browser: page showed no job list (needs a custom scraper) ",
+   "checked_at": "2026-11-14T12:59:00+00:00"
   },
   {
    "name": "Zensar",
    "type": "Service",
-   "ats": "link",
    "url": "https://www.zensar.com/careers",
-   "status": "link-only",
-   "count": 0,
+   "system": "oracle",
+   "method": "feed",
+   "status": "ok",
+   "count": 1,
    "error": "",
-   "checked_at": "2026-11-14T12:37:50+00:00"
+   "checked_at": "2026-11-14T12:59:00+00:00"
   },
   {
    "name": "Coforge",
    "type": "Service",
-   "ats": "link",
    "url": "https://careers.coforge.com/",
-   "status": "link-only",
+   "system": "",
+   "method": "",
+   "status": "failed",
    "count": 0,
-   "error": "",
-   "checked_at": "2026-11-14T12:37:50+00:00"
+   "error": " | browser: Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://careers.coforge.com/\nCall log:\n  - navigating to \"https://careers.coforge.com/\", waiting until \"domcontentloaded\"\n",
+   "checked_at": "2026-11-14T12:59:00+00:00"
   },
   {
    "name": "Birlasoft",
    "type": "Service",
-   "ats": "link",
    "url": "https://www.birlasoft.com/careers",
-   "status": "link-only",
+   "system": "",
+   "method": "page",
+   "status": "ok",
    "count": 0,
    "error": "",
-   "checked_at": "2026-11-14T12:37:50+00:00"
+   "checked_at": "2026-11-14T12:59:00+00:00"
   },
   {
    "name": "Razorpay",
    "type": "Startup",
-   "ats": "greenhouse",
    "url": "https://razorpay.com/jobs/",
+   "system": "greenhouse",
+   "method": "feed",
    "status": "ok",
    "count": 0,
    "error": "",
-   "checked_at": "2026-11-14T12:37:50+00:00"
+   "checked_at": "2026-11-14T12:59:00+00:00"
   },
   {
    "name": "PhonePe",
    "type": "Startup",
-   "ats": "link",
    "url": "https://www.phonepe.com/careers/",
-   "status": "link-only",
+   "system": "",
+   "method": "page",
+   "status": "ok",
    "count": 0,
    "error": "",
-   "checked_at": "2026-11-14T12:37:50+00:00"
+   "checked_at": "2026-11-14T12:59:00+00:00"
   },
   {
    "name": "CRED",
    "type": "Startup",
-   "ats": "lever",
    "url": "https://careers.cred.club/",
+   "system": "lever",
+   "method": "feed",
    "status": "ok",
    "count": 0,
    "error": "",
-   "checked_at": "2026-11-14T12:37:50+00:00"
+   "checked_at": "2026-11-14T12:59:00+00:00"
   },
   {
    "name": "Groww",
    "type": "Startup",
-   "ats": "greenhouse",
    "url": "https://groww.in/careers",
+   "system": "greenhouse",
+   "method": "feed",
    "status": "ok",
    "count": 0,
    "error": "",
-   "checked_at": "2026-11-14T12:37:50+00:00"
+   "checked_at": "2026-11-14T12:59:00+00:00"
   },
   {
    "name": "Zerodha",
    "type": "Startup",
-   "ats": "link",
    "url": "https://zerodha.com/careers/",
-   "status": "link-only",
+   "system": "",
+   "method": "page",
+   "status": "ok",
    "count": 0,
    "error": "",
-   "checked_at": "2026-11-14T12:37:50+00:00"
+   "checked_at": "2026-11-14T12:59:00+00:00"
   },
   {
    "name": "Meesho",
    "type": "Startup",
-   "ats": "lever",
    "url": "https://www.meesho.io/jobs",
+   "system": "lever",
+   "method": "feed",
    "status": "ok",
    "count": 0,
    "error": "",
-   "checked_at": "2026-11-14T12:37:50+00:00"
+   "checked_at": "2026-11-14T12:59:00+00:00"
   },
   {
    "name": "Paytm",
    "type": "Startup",
-   "ats": "lever",
    "url": "https://jobs.lever.co/paytm",
+   "system": "lever",
+   "method": "feed",
    "status": "ok",
    "count": 0,
    "error": "",
-   "checked_at": "2026-11-14T12:37:50+00:00"
+   "checked_at": "2026-11-14T12:59:00+00:00"
   },
   {
    "name": "Slice",
    "type": "Startup",
-   "ats": "link",
    "url": "https://www.sliceit.com/careers",
-   "status": "link-only",
+   "system": "",
+   "method": "page",
+   "status": "ok",
    "count": 0,
    "error": "",
-   "checked_at": "2026-11-14T12:37:50+00:00"
+   "checked_at": "2026-11-14T12:59:00+00:00"
   },
   {
    "name": "Jupiter",
    "type": "Startup",
-   "ats": "link",
    "url": "https://jupiter.money/careers/",
-   "status": "link-only",
+   "system": "",
+   "method": "page",
+   "status": "ok",
    "count": 0,
    "error": "",
-   "checked_at": "2026-11-14T12:37:50+00:00"
+   "checked_at": "2026-11-14T12:59:00+00:00"
   },
   {
    "name": "Zepto",
    "type": "Startup",
-   "ats": "link",
    "url": "https://www.zeptonow.com/careers",
-   "status": "link-only",
+   "system": "",
+   "method": "",
+   "status": "failed",
    "count": 0,
-   "error": "",
-   "checked_at": "2026-11-14T12:37:50+00:00"
+   "error": " | browser: page showed no job list (needs a custom scraper) ",
+   "checked_at": "2026-11-14T12:59:00+00:00"
   },
   {
    "name": "Dream11",
    "type": "Startup",
-   "ats": "link",
    "url": "https://www.dreamsports.group/careers",
-   "status": "link-only",
+   "system": "lever",
+   "method": "page",
+   "status": "ok",
    "count": 0,
    "error": "",
-   "checked_at": "2026-11-14T12:37:50+00:00"
+   "checked_at": "2026-11-14T12:59:00+00:00"
   },
   {
    "name": "Juspay",
    "type": "Startup",
-   "ats": "link",
    "url": "https://juspay.in/careers",
-   "status": "link-only",
+   "system": "",
+   "method": "page",
+   "status": "ok",
    "count": 0,
    "error": "",
-   "checked_at": "2026-11-14T12:37:50+00:00"
+   "checked_at": "2026-11-14T12:59:00+00:00"
   },
   {
    "name": "Cars24",
    "type": "Startup",
-   "ats": "link",
    "url": "https://www.cars24.com/careers/",
-   "status": "link-only",
+   "system": "",
+   "method": "page",
+   "status": "ok",
    "count": 0,
    "error": "",
-   "checked_at": "2026-11-14T12:37:50+00:00"
+   "checked_at": "2026-11-14T12:59:00+00:00"
   },
   {
    "name": "Urban Company",
    "type": "Startup",
-   "ats": "link",
    "url": "https://www.urbancompany.com/careers",
-   "status": "link-only",
+   "system": "",
+   "method": "page",
+   "status": "ok",
    "count": 0,
    "error": "",
-   "checked_at": "2026-11-14T12:37:50+00:00"
+   "checked_at": "2026-11-14T12:59:00+00:00"
   },
   {
    "name": "PhysicsWallah",
    "type": "Startup",
-   "ats": "link",
    "url": "https://www.pw.live/careers",
-   "status": "link-only",
+   "system": "",
+   "method": "",
+   "status": "failed",
    "count": 0,
-   "error": "",
-   "checked_at": "2026-11-14T12:37:50+00:00"
+   "error": " | browser: page showed no job list (needs a custom scraper) ",
+   "checked_at": "2026-11-14T12:59:00+00:00"
   },
   {
    "name": "Lenskart",
    "type": "Startup",
-   "ats": "link",
    "url": "https://www.lenskart.com/careers",
-   "status": "link-only",
+   "system": "",
+   "method": "page",
+   "status": "ok",
    "count": 0,
    "error": "",
-   "checked_at": "2026-11-14T12:37:50+00:00"
+   "checked_at": "2026-11-14T12:59:00+00:00"
   },
   {
    "name": "Nykaa",
    "type": "Startup",
-   "ats": "link",
    "url": "https://www.nykaa.com/careers",
-   "status": "link-only",
+   "system": "",
+   "method": "",
+   "status": "failed",
    "count": 0,
-   "error": "",
-   "checked_at": "2026-11-14T12:37:50+00:00"
+   "error": " | browser: Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.nykaa.com/careers\nCall log:\n  - navigating to \"https://www.nykaa.com/careers\", waiting until \"domcontentloaded\"\n",
+   "checked_at": "2026-11-14T12:59:00+00:00"
   },
   {
    "name": "BharatPe",
    "type": "Startup",
-   "ats": "link",
    "url": "https://bharatpe.com/careers",
-   "status": "link-only",
+   "system": "",
+   "method": "page",
+   "status": "ok",
    "count": 0,
    "error": "",
-   "checked_at": "2026-11-14T12:37:50+00:00"
+   "checked_at": "2026-11-14T12:59:00+00:00"
   },
   {
    "name": "Navi",
    "type": "Startup",
-   "ats": "link",
    "url": "https://navi.com/careers",
-   "status": "link-only",
+   "system": "",
+   "method": "",
+   "status": "failed",
    "count": 0,
-   "error": "",
-   "checked_at": "2026-11-14T12:37:50+00:00"
+   "error": " | browser: page showed no job list (needs a custom scraper) ",
+   "checked_at": "2026-11-14T12:59:00+00:00"
   },
   {
    "name": "ShareChat",
    "type": "Startup",
-   "ats": "link",
    "url": "https://sharechat.com/careers",
-   "status": "link-only",
+   "system": "",
+   "method": "page",
+   "status": "ok",
    "count": 0,
    "error": "",
-   "checked_at": "2026-11-14T12:37:50+00:00"
+   "checked_at": "2026-11-14T12:59:00+00:00"
   }
  ]
 }
