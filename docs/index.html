@@ -7,8 +7,7 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600&display=swap" rel="stylesheet">
 <style>
-:root{--bg:#e9edf3;--panel:#fff;--ink:#12203a;--mute:#5b6a82;--line:#d3dae5;--accent:#2b3a8f;--new:#c98a00;--ok:#1a7f55;--bad:#b3261e}
-@media (prefers-color-scheme:dark){:root{--bg:#0f1624;--panel:#17203280;--ink:#e6ebf5;--mute:#93a1ba;--line:#2a364d;--accent:#8fa2ff;--new:#f0b429;--ok:#4cc38a;--bad:#ff8a80}}
+:root{color-scheme:light;--bg:#f6f8fb;--panel:#fff;--ink:#14213d;--mute:#5b6a82;--line:#dfe5ee;--accent:#2b3a8f;--new:#b87800;--ok:#17724d;--bad:#b3261e}
 *{box-sizing:border-box}
 body{margin:0;background:var(--bg);color:var(--ink);font:15px/1.5 "IBM Plex Sans",system-ui,sans-serif}
 header{padding:28px 24px 8px;max-width:1200px;margin:auto}
@@ -41,7 +40,7 @@ a.btn{background:var(--accent);color:#fff}button.btn{background:transparent;colo
 table{width:100%;border-collapse:collapse;background:var(--panel);border:1px solid var(--line);border-radius:10px;overflow:hidden}
 td,th{padding:9px 12px;border-bottom:1px solid var(--line);text-align:left;font-size:14px}
 th{color:var(--mute);font-weight:500}
-.s-ok{color:var(--ok)}.s-failed{color:var(--bad)}.s-link-only{color:var(--mute)}
+.s-ok{color:var(--ok)}.s-failed{color:var(--bad)}td a{color:var(--accent)}.err{display:block;font-size:12px;color:var(--mute);max-width:420px;overflow-wrap:anywhere}
 #toast{position:fixed;bottom:20px;left:50%;transform:translateX(-50%);background:var(--ink);color:var(--bg);padding:10px 16px;border-radius:8px;display:none}
 @media(max-width:820px){main{grid-template-columns:1fr}aside{position:static}.row{grid-template-columns:1fr}.act{justify-content:flex-start}}
 </style>
@@ -57,6 +56,7 @@ th{color:var(--mute);font-weight:500}
     <div><label>Company type</label><div class="chips" id="types"></div></div>
     <div><label for="city">City</label><select id="city"><option value="">All cities</option></select></div>
     <label class="chk"><input type="checkbox" id="onlyNew"> Only new in the last 24 hours</label>
+    <label class="chk"><input type="checkbox" id="hideUnstated"> Only jobs that state ≤ 2 years</label>
     <label class="chk"><input type="checkbox" id="hideApplied"> Hide jobs I’ve applied to</label>
   </aside>
   <section>
@@ -73,7 +73,7 @@ const $ = s => document.querySelector(s);
 const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
 const store = {get(k){try{return JSON.parse(localStorage.getItem(k))}catch{return null}}, set(k,v){try{localStorage.setItem(k,JSON.stringify(v))}catch{}}};
 let D = {jobs:[], companies:[], generated_at:null}, applied = store.get("applied") || {};
-const F = {q:"", type:"", city:"", onlyNew:false, hideApplied:false, tab:"jobs"};
+const F = {q:"", type:"", city:"", onlyNew:false, hideApplied:false, hideUnstated:false, tab:"jobs"};
 
 function tailorPrompt(j){
   return `Tailor my resume for the job below. Use the resume saved in this project (or the one I attach).
@@ -108,16 +108,16 @@ function ago(iso){if(!iso)return"never";const h=Math.round((Date.now()-new Date(
 function filtered(){
   const q = F.q.toLowerCase();
   return D.jobs.filter(j =>
-    (!F.type || j.type===F.type) && (!F.city || j.city===F.city) && (!F.onlyNew || isNew(j)) && !(F.hideApplied && applied[j.id]) &&
+    (!F.type || j.type===F.type) && (!F.city || j.city===F.city) && (!F.onlyNew || isNew(j)) && !(F.hideApplied && applied[j.id]) && !(F.hideUnstated && j.exp==="Not stated") &&
     (!q || (j.title+" "+j.company+" "+j.keywords.join(" ")).toLowerCase().includes(q)));
 }
 function render(){
   const out = $("#out");
   if(F.tab==="cos"){
-    out.innerHTML = D.companies.length ? `<table><tr><th>Company</th><th>Type</th><th>Status</th><th>Jobs</th><th></th></tr>` +
+    out.innerHTML = D.companies.length ? `<table><tr><th>Company</th><th>Type</th><th>How it’s read</th><th>Jobs</th><th>Careers site</th></tr>` +
       D.companies.map(c=>`<tr><td>${esc(c.name)}</td><td>${esc(c.type)}</td>
-      <td class="s-${c.status}" title="${esc(c.error)}">${c.status==="ok"?"Scraped":c.status==="failed"?"Scraper failed (showing last known jobs)":"Check manually"}</td>
-      <td>${c.status==="link-only"?"–":c.count}</td><td><a href="${esc(c.url)}" target="_blank" rel="noopener">Careers site</a></td></tr>`).join("") + `</table>`
+      <td class="s-${c.status}">${c.status==="ok"?(c.method==="feed"?"Live feed":"Read from page")+(c.system?" ("+esc(c.system)+")":""):"Failed"}${c.status==="failed"&&c.error?`<span class="err">${esc(c.error)}</span>`:""}</td>
+      <td>${c.count}</td><td><a href="${esc(c.url)}" target="_blank" rel="noopener">Open</a></td></tr>`).join("") + `</table>`
       : `<div class="empty">No data yet. Run the “Refresh jobs” workflow once from the Actions tab.</div>`;
     return;
   }
@@ -149,7 +149,7 @@ document.addEventListener("click", e=>{
 });
 document.addEventListener("change", e=>{
   if(e.target.dataset.applied){applied[e.target.dataset.applied]=e.target.checked||undefined;store.set("applied",applied)}
-  if(e.target.id==="city")F.city=e.target.value; if(e.target.id==="onlyNew")F.onlyNew=e.target.checked; if(e.target.id==="hideApplied")F.hideApplied=e.target.checked;
+  if(e.target.id==="city")F.city=e.target.value; if(e.target.id==="onlyNew")F.onlyNew=e.target.checked; if(e.target.id==="hideApplied")F.hideApplied=e.target.checked; if(e.target.id==="hideUnstated")F.hideUnstated=e.target.checked;
   render();
 });
 $("#q").addEventListener("input", e=>{F.q=e.target.value;render()});
