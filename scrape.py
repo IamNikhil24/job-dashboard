@@ -283,7 +283,12 @@ def browser_stage(pending):
         return {}
     found = {}
     with sync_playwright() as p:
-        browser = p.chromium.launch()
+        try:
+            browser = p.chromium.launch()
+        except Exception as e:
+            for st, _ in pending:
+                st.update(status="failed", error=(st["error"] + " | browser unavailable: " + str(e)[:80])[:260])
+            return {}
         ctx = browser.new_context(user_agent=UA["User-Agent"], locale="en-IN", viewport={"width": 1366, "height": 900})
         for st, c in pending:
             try:
