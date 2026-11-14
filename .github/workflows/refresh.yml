@@ -8,12 +8,15 @@ permissions:
 concurrency: refresh
 jobs:
   scrape:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
+    timeout-minutes: 90
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with: { python-version: "3.12" }
       - run: pip install -r requirements.txt
+      - run: playwright install --with-deps chromium
+        continue-on-error: true
       - run: python scrape.py
       - name: Commit updated jobs file
         run: |
