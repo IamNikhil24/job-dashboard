@@ -1,109 +1,111 @@
-# name|type|ats|slug|careers_url   (ats: greenhouse, lever, smartrecruiters, workday [slug=tenant:wdN:site], amazon, link)
-Goldman Sachs|Bank & Finance|link||https://higher.gs.com/roles
-JPMorgan Chase|Bank & Finance|link||https://careers.jpmorgan.com/in/en/home
-Morgan Stanley|Bank & Finance|link||https://www.morganstanley.com/careers/career-opportunities-search
-Citi|Bank & Finance|link||https://jobs.citi.com/search-jobs/India
-Deutsche Bank|Bank & Finance|workday|db:wd3:DBWebsite|https://careers.db.com/
-Barclays|Bank & Finance|link||https://search.jobs.barclays/search-jobs/India
-HSBC|Bank & Finance|workday|hsbc:wd3:External|https://www.hsbc.com/careers
-Wells Fargo|Bank & Finance|workday|wellsfargo:wd1:WF_External_Careers|https://www.wellsfargojobs.com/
-Standard Chartered|Bank & Finance|link||https://jobs.standardchartered.com/
-BNY|Bank & Finance|workday|bnymellon:wd1:BNY_Mellon_Talent|https://www.bny.com/corporate/global/en/careers.html
-State Street|Bank & Finance|workday|statestreet:wd1:Global|https://www.statestreet.com/careers
-Fidelity Investments|Bank & Finance|workday|fmr:wd1:FidelityCareers|https://jobs.fidelity.com/
-Capital One|Bank & Finance|workday|capitalone:wd12:Capital_One|https://www.capitalonecareers.com/
-American Express|Bank & Finance|link||https://aexp.eightfold.ai/careers
-Visa|Bank & Finance|link||https://corporate.visa.com/en/jobs/
-Mastercard|Bank & Finance|workday|mastercard:wd1:CorporateCareers|https://careers.mastercard.com/
-PayPal|Bank & Finance|workday|paypal:wd1:jobs|https://paypal.eightfold.ai/careers
-HDFC Bank|Bank & Finance|link||https://www.hdfcbank.com/personal/about-us/careers
-ICICI Bank|Bank & Finance|link||https://www.icicicareers.com/
-Axis Bank|Bank & Finance|link||https://www.axisbank.com/careers
-Kotak Mahindra Bank|Bank & Finance|link||https://www.kotak.com/en/careers.html
-Bajaj Finserv|Bank & Finance|link||https://www.bajajfinserv.in/careers
-Microsoft|GCC|link||https://jobs.careers.microsoft.com/global/en/search?lc=India&q=software%20engineer
-Amazon|GCC|amazon||https://www.amazon.jobs/en/search?base_query=software+development+engineer&loc_query=India
-Google|GCC|link||https://www.google.com/about/careers/applications/jobs/results/?location=India&q=software%20engineer
-Walmart Global Tech|GCC|workday|walmart:wd5:WalmartExternal|https://careers.walmart.com/
-Target|GCC|workday|target:wd5:targetcareers|https://india.target.com/careers
-Lowe's|GCC|link||https://talent.lowes.com/us/en
-Intuit|GCC|link||https://jobs.intuit.com/search-jobs/India
-Adobe|GCC|workday|adobe:wd5:external_experienced|https://careers.adobe.com/
-Salesforce|GCC|workday|salesforce:wd12:External_Career_Site|https://careers.salesforce.com/
-Oracle|GCC|link||https://careers.oracle.com/jobs/#en/sites/jobsearch/jobs?location=India
-SAP Labs India|GCC|link||https://jobs.sap.com/search/?q=software+developer&locationsearch=India
-Cisco|GCC|link||https://jobs.cisco.com/
-Intel|GCC|workday|intel:wd1:External|https://jobs.intel.com/
-NVIDIA|GCC|workday|nvidia:wd5:NVIDIAExternalCareerSite|https://www.nvidia.com/en-in/about-nvidia/careers/
-Qualcomm|GCC|workday|qualcomm:wd5:External|https://careers.qualcomm.com/
-AMD|GCC|link||https://careers.amd.com/careers-home/jobs
-Micron|GCC|link||https://careers.micron.com/careers
-Dell|GCC|workday|dell:wd1:External|https://jobs.dell.com/
-Broadcom|GCC|workday|broadcom:wd1:External_Career|https://www.broadcom.com/company/careers
-Synopsys|GCC|link||https://careers.synopsys.com/
-Cadence|GCC|workday|cadence:wd1:External_Careers|https://cadence.wd1.myworkdayjobs.com/External_Careers
-Autodesk|GCC|workday|autodesk:wd1:Ext|https://www.autodesk.com/careers
-Atlassian|GCC|link||https://www.atlassian.com/company/careers/all-jobs?location=India
-Uber|GCC|link||https://www.uber.com/global/en/careers/list/
-ServiceNow|GCC|smartrecruiters|ServiceNow|https://careers.servicenow.com/
-Workday|GCC|workday|workday:wd5:Workday|https://www.workday.com/en-us/company/careers.html
-Thomson Reuters|GCC|workday|thomsonreuters:wd5:External_Career_Site|https://careers.thomsonreuters.com/
-Flipkart|Product|link||https://www.flipkartcareers.com/
-Swiggy|Product|link||https://careers.swiggy.com/
-Zomato|Product|link||https://www.zomato.com/careers
-Ola|Product|link||https://www.olacabs.com/careers
-Freshworks|Product|link||https://www.freshworks.com/company/careers/
-Zoho|Product|link||https://www.zoho.com/careers/
-Postman|Product|greenhouse|postman|https://www.postman.com/company/careers/
-BrowserStack|Product|greenhouse|browserstack|https://www.browserstack.com/careers
-Druva|Product|greenhouse|druva|https://www.druva.com/about/careers
-Nutanix|Product|workday|nutanix:wd1:Nutanix_Careers|https://www.nutanix.com/company/careers
-Rubrik|Product|greenhouse|rubrik|https://www.rubrik.com/company/careers
-Databricks|Product|greenhouse|databricks|https://www.databricks.com/company/careers
-Stripe|Product|greenhouse|stripe|https://stripe.com/jobs
-Cloudflare|Product|greenhouse|cloudflare|https://www.cloudflare.com/careers/
-Datadog|Product|greenhouse|datadog|https://careers.datadoghq.com/
-MongoDB|Product|greenhouse|mongodb|https://www.mongodb.com/company/careers
-Okta|Product|greenhouse|okta|https://www.okta.com/company/careers/
-GitLab|Product|greenhouse|gitlab|https://about.gitlab.com/jobs/
-Twilio|Product|greenhouse|twilio|https://www.twilio.com/en-us/company/jobs
-Coinbase|Product|greenhouse|coinbase|https://www.coinbase.com/careers
-Pinterest|Product|greenhouse|pinterest|https://www.pinterestcareers.com/
-Airbnb|Product|greenhouse|airbnb|https://careers.airbnb.com/
-Elastic|Product|greenhouse|elastic|https://www.elastic.co/careers
-ThoughtSpot|Product|greenhouse|thoughtspot|https://www.thoughtspot.com/careers
-TCS|Service|link||https://www.tcs.com/careers/india
-Infosys|Service|link||https://www.infosys.com/careers/apply.html
-Wipro|Service|link||https://careers.wipro.com/
-HCLTech|Service|link||https://www.hcltech.com/careers
-Tech Mahindra|Service|link||https://careers.techmahindra.com/
-Cognizant|Service|link||https://careers.cognizant.com/india/en
-Accenture|Service|link||https://www.accenture.com/in-en/careers/jobsearch
-Capgemini|Service|link||https://www.capgemini.com/in-en/careers/
-LTIMindtree|Service|link||https://www.ltimindtree.com/careers/
-Persistent Systems|Service|link||https://www.persistent.com/careers/
-Mphasis|Service|link||https://careers.mphasis.com/
-Hexaware|Service|link||https://hexaware.com/careers/
-Zensar|Service|link||https://www.zensar.com/careers
-Coforge|Service|link||https://careers.coforge.com/
-Birlasoft|Service|link||https://www.birlasoft.com/careers
-Razorpay|Startup|greenhouse|razorpaysoftwareprivatelimited|https://razorpay.com/jobs/
-PhonePe|Startup|link||https://www.phonepe.com/careers/
-CRED|Startup|lever|cred|https://careers.cred.club/
-Groww|Startup|greenhouse|groww|https://groww.in/careers
-Zerodha|Startup|link||https://zerodha.com/careers/
-Meesho|Startup|lever|meesho|https://www.meesho.io/jobs
-Paytm|Startup|lever|paytm|https://jobs.lever.co/paytm
-Slice|Startup|link||https://www.sliceit.com/careers
-Jupiter|Startup|link||https://jupiter.money/careers/
-Zepto|Startup|link||https://www.zeptonow.com/careers
-Dream11|Startup|link||https://www.dreamsports.group/careers
-Juspay|Startup|link||https://juspay.in/careers
-Cars24|Startup|link||https://www.cars24.com/careers/
-Urban Company|Startup|link||https://www.urbancompany.com/careers
-PhysicsWallah|Startup|link||https://www.pw.live/careers
-Lenskart|Startup|link||https://www.lenskart.com/careers
-Nykaa|Startup|link||https://www.nykaa.com/careers
-BharatPe|Startup|link||https://bharatpe.com/careers
-Navi|Startup|link||https://navi.com/careers
-ShareChat|Startup|link||https://sharechat.com/careers
+# name|type|careers_url|override   (override is optional; blank = auto-detect the hiring system)
+# override examples: greenhouse:slug  lever:slug  ashby:slug  workable:slug  smartrecruiters:slug  workday:tenant:wdN:site
+#                    eightfold:host:domain  oracle:host:siteNumber  microsoft  atlassian  amazon
+Goldman Sachs|Bank & Finance|https://higher.gs.com/roles|
+JPMorgan Chase|Bank & Finance|https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/jobs?location=India|oracle:jpmc.fa.oraclecloud.com:CX_1001
+Morgan Stanley|Bank & Finance|https://www.morganstanley.com/careers/career-opportunities-search|
+Citi|Bank & Finance|https://jobs.citi.com/search-jobs/India|
+Deutsche Bank|Bank & Finance|https://careers.db.com/|workday:db:wd3:DBWebsite
+Barclays|Bank & Finance|https://search.jobs.barclays/search-jobs/India|
+HSBC|Bank & Finance|https://www.hsbc.com/careers/find-a-job|
+Wells Fargo|Bank & Finance|https://www.wellsfargojobs.com/|workday:wellsfargo:wd1:WF_External_Careers
+Standard Chartered|Bank & Finance|https://jobs.standardchartered.com/|
+BNY|Bank & Finance|https://www.bny.com/corporate/global/en/careers.html|
+State Street|Bank & Finance|https://www.statestreet.com/careers|workday:statestreet:wd1:Global
+Fidelity Investments|Bank & Finance|https://jobs.fidelity.com/|workday:fmr:wd1:FidelityCareers
+Capital One|Bank & Finance|https://www.capitalonecareers.com/|workday:capitalone:wd12:Capital_One
+American Express|Bank & Finance|https://aexp.eightfold.ai/careers?query=software+engineer&location=India|eightfold:aexp.eightfold.ai:aexp.com
+Visa|Bank & Finance|https://corporate.visa.com/en/jobs/|
+Mastercard|Bank & Finance|https://careers.mastercard.com/|workday:mastercard:wd1:CorporateCareers
+PayPal|Bank & Finance|https://paypal.eightfold.ai/careers?query=software+engineer&location=India|eightfold:paypal.eightfold.ai:paypal.com
+HDFC Bank|Bank & Finance|https://www.hdfcbank.com/personal/about-us/careers|
+ICICI Bank|Bank & Finance|https://www.icicicareers.com/|
+Axis Bank|Bank & Finance|https://www.axisbank.com/careers|
+Kotak Mahindra Bank|Bank & Finance|https://www.kotak.com/en/careers.html|
+Bajaj Finserv|Bank & Finance|https://www.bajajfinserv.in/careers|
+Microsoft|GCC|https://jobs.careers.microsoft.com/global/en/search?lc=India&q=software%20engineer|microsoft
+Amazon|GCC|https://www.amazon.jobs/en/search?base_query=software+development+engineer&loc_query=India|amazon
+Google|GCC|https://www.google.com/about/careers/applications/jobs/results/?location=India&q=software%20engineer|
+Walmart Global Tech|GCC|https://careers.walmart.com/|workday:walmart:wd5:WalmartExternal
+Target|GCC|https://india.target.com/careers|workday:target:wd5:targetcareers
+Lowe's|GCC|https://talent.lowes.com/us/en|
+Intuit|GCC|https://jobs.intuit.com/search-jobs/India|
+Adobe|GCC|https://careers.adobe.com/|workday:adobe:wd5:external_experienced
+Salesforce|GCC|https://careers.salesforce.com/|workday:salesforce:wd12:External_Career_Site
+Oracle|GCC|https://careers.oracle.com/jobs/#en/sites/jobsearch/jobs?location=India|
+SAP Labs India|GCC|https://jobs.sap.com/search/?q=software+developer&locationsearch=India|
+Cisco|GCC|https://jobs.cisco.com/|
+Intel|GCC|https://jobs.intel.com/|workday:intel:wd1:External
+NVIDIA|GCC|https://www.nvidia.com/en-in/about-nvidia/careers/|workday:nvidia:wd5:NVIDIAExternalCareerSite
+Qualcomm|GCC|https://careers.qualcomm.com/|workday:qualcomm:wd5:External
+AMD|GCC|https://careers.amd.com/careers-home/jobs|
+Micron|GCC|https://careers.micron.com/careers|
+Dell|GCC|https://jobs.dell.com/|workday:dell:wd1:External
+Broadcom|GCC|https://www.broadcom.com/company/careers|workday:broadcom:wd1:External_Career
+Synopsys|GCC|https://careers.synopsys.com/|
+Cadence|GCC|https://cadence.wd1.myworkdayjobs.com/External_Careers|workday:cadence:wd1:External_Careers
+Autodesk|GCC|https://www.autodesk.com/careers|workday:autodesk:wd1:Ext
+Atlassian|GCC|https://www.atlassian.com/company/careers/all-jobs?location=India|atlassian
+Uber|GCC|https://www.uber.com/global/en/careers/list/|
+ServiceNow|GCC|https://careers.servicenow.com/|smartrecruiters:ServiceNow
+Workday|GCC|https://www.workday.com/en-us/company/careers.html|workday:workday:wd5:Workday
+Thomson Reuters|GCC|https://careers.thomsonreuters.com/|workday:thomsonreuters:wd5:External_Career_Site
+Flipkart|Product|https://www.flipkartcareers.com/|
+Swiggy|Product|https://careers.swiggy.com/|
+Zomato|Product|https://www.zomato.com/careers|
+Ola|Product|https://www.olacabs.com/careers|
+Freshworks|Product|https://www.freshworks.com/company/careers/|
+Zoho|Product|https://www.zoho.com/careers/|
+Postman|Product|https://www.postman.com/company/careers/|greenhouse:postman
+BrowserStack|Product|https://www.browserstack.com/careers|greenhouse:browserstack
+Druva|Product|https://www.druva.com/about/careers|greenhouse:druva
+Nutanix|Product|https://www.nutanix.com/company/careers|workday:nutanix:wd1:Nutanix_Careers
+Rubrik|Product|https://www.rubrik.com/company/careers|greenhouse:rubrik
+Databricks|Product|https://www.databricks.com/company/careers|greenhouse:databricks
+Stripe|Product|https://stripe.com/jobs|greenhouse:stripe
+Cloudflare|Product|https://www.cloudflare.com/careers/|greenhouse:cloudflare
+Datadog|Product|https://careers.datadoghq.com/|greenhouse:datadog
+MongoDB|Product|https://www.mongodb.com/company/careers|greenhouse:mongodb
+Okta|Product|https://www.okta.com/company/careers/|greenhouse:okta
+GitLab|Product|https://about.gitlab.com/jobs/|greenhouse:gitlab
+Twilio|Product|https://www.twilio.com/en-us/company/jobs|greenhouse:twilio
+Coinbase|Product|https://www.coinbase.com/careers|greenhouse:coinbase
+Pinterest|Product|https://www.pinterestcareers.com/|greenhouse:pinterest
+Airbnb|Product|https://careers.airbnb.com/|greenhouse:airbnb
+Elastic|Product|https://www.elastic.co/careers|greenhouse:elastic
+ThoughtSpot|Product|https://www.thoughtspot.com/careers|greenhouse:thoughtspot
+TCS|Service|https://www.tcs.com/careers/india|
+Infosys|Service|https://www.infosys.com/careers/apply.html|
+Wipro|Service|https://careers.wipro.com/|
+HCLTech|Service|https://www.hcltech.com/careers|
+Tech Mahindra|Service|https://careers.techmahindra.com/|
+Cognizant|Service|https://careers.cognizant.com/india/en|
+Accenture|Service|https://www.accenture.com/in-en/careers/jobsearch|
+Capgemini|Service|https://www.capgemini.com/in-en/careers/|
+LTIMindtree|Service|https://www.ltimindtree.com/careers/|
+Persistent Systems|Service|https://www.persistent.com/careers/|
+Mphasis|Service|https://careers.mphasis.com/|
+Hexaware|Service|https://hexaware.com/careers/|
+Zensar|Service|https://www.zensar.com/careers|
+Coforge|Service|https://careers.coforge.com/|
+Birlasoft|Service|https://www.birlasoft.com/careers|
+Razorpay|Startup|https://razorpay.com/jobs/|greenhouse:razorpaysoftwareprivatelimited
+PhonePe|Startup|https://www.phonepe.com/careers/|
+CRED|Startup|https://careers.cred.club/|lever:cred
+Groww|Startup|https://groww.in/careers|greenhouse:groww
+Zerodha|Startup|https://zerodha.com/careers/|
+Meesho|Startup|https://www.meesho.io/jobs|lever:meesho
+Paytm|Startup|https://jobs.lever.co/paytm|lever:paytm
+Slice|Startup|https://www.sliceit.com/careers|
+Jupiter|Startup|https://jupiter.money/careers/|
+Zepto|Startup|https://www.zeptonow.com/careers|
+Dream11|Startup|https://www.dreamsports.group/careers|
+Juspay|Startup|https://juspay.in/careers|
+Cars24|Startup|https://www.cars24.com/careers/|
+Urban Company|Startup|https://www.urbancompany.com/careers|
+PhysicsWallah|Startup|https://www.pw.live/careers|
+Lenskart|Startup|https://www.lenskart.com/careers|
+Nykaa|Startup|https://www.nykaa.com/careers|
+BharatPe|Startup|https://bharatpe.com/careers|
+Navi|Startup|https://navi.com/careers|
+ShareChat|Startup|https://sharechat.com/careers|
