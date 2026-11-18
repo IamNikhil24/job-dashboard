@@ -1,75 +1,198 @@
 {
- "generated_at": "2026-11-18T05:19:12+00:00",
+ "generated_at": "2026-11-18T19:52:28+00:00",
  "jobs": [
   {
-   "id": "0b3ac604ba11",
+   "id": "116f97786cf9",
+   "company": "Goldman Sachs",
+   "type": "Bank & Finance",
+   "title": "Global Banking & Markets - Software Engineer - Systematic Market Making - Analyst/ Associate - Bengaluru",
+   "location": "Global Banking & Markets - Software Engineer - Systematic Market Making - Analyst/ Associate - Bengaluru\nBengaluru·India\n·Associate\nSoftware Engineering\nshare\nShare\nbookmark_border\nSave",
+   "city": "Bengaluru",
+   "exp": "Not stated",
+   "url": "https://higher.gs.com/roles/185273",
+   "ext_id": "https://higher.gs.com/roles/185273",
+   "desc": "",
+   "keywords": [],
+   "first_seen": "2026-11-18T19:52:28+00:00"
+  },
+  {
+   "id": "aa09fcb8c9bc",
+   "company": "Citi",
+   "type": "Bank & Finance",
+   "title": "Apps Dev Intmd Programmer Analyst - C11 - PUNE",
+   "location": "Hybrid\nApps Dev Intmd Programmer Analyst - C11 - PUNE\nPune, Maharashtra, India",
+   "city": "Pune",
+   "exp": "Not stated",
+   "url": "https://jobs.citi.com/job/pune/apps-dev-intmd-programmer-analyst-c11-pune/287/103474329200",
+   "ext_id": "rammer-analyst-c11-pune/287/103474329200",
+   "desc": "",
+   "keywords": [],
+   "first_seen": "2026-11-18T19:52:28+00:00"
+  },
+  {
+   "id": "a230b2c43b9f",
+   "company": "Citi",
+   "type": "Bank & Finance",
+   "title": "Java Angular full stack developer - Assistant Vice President",
+   "location": "Hybrid\nJava Angular full stack developer - Assistant Vice President\nChennai, Tamil Nadu, India",
+   "city": "Chennai",
+   "exp": "Not stated",
+   "url": "https://jobs.citi.com/job/chennai/java-angular-full-stack-developer-assistant-vice-president/287/103467908928",
+   "ext_id": "ssistant-vice-president/287/103467908928",
+   "desc": "",
+   "keywords": [
+    "Java",
+    "Angular"
+   ],
+   "first_seen": "2026-11-18T19:52:28+00:00"
+  },
+  {
+   "id": "99a1135fbd8d",
+   "company": "Barclays",
+   "type": "Bank & Finance",
+   "title": "Software Engineer - Mainframe",
+   "location": "Software Engineer - Mainframe\n                                        Pune (India)",
+   "city": "Pune",
+   "exp": "Not stated",
+   "url": "https://search.jobs.barclays/job/pune/software-engineer-mainframe/13015/103473668992",
+   "ext_id": "re-engineer-mainframe/13015/103473668992",
+   "desc": "",
+   "keywords": [],
+   "first_seen": "2026-11-18T19:52:28+00:00"
+  },
+  {
+   "id": "7bf7e0b428aa",
+   "company": "BNY",
+   "type": "Bank & Finance",
+   "title": "Vice President, Full-Stack Engineer",
+   "location": "Pune, MH, India",
+   "city": "Pune",
+   "exp": "Not stated",
+   "url": "https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BNY-Careers/job/79481",
+   "ext_id": "79481",
+   "desc": "",
+   "keywords": [],
+   "first_seen": "2026-11-18T19:52:28+00:00"
+  },
+  {
+   "id": "c5b358c9048e",
    "company": "PayPal",
    "type": "Bank & Finance",
-   "title": "Software Engineer",
+   "title": "Software Engineer - iOS",
+   "location": "Software Engineer - iOS\nBangalore, Karnataka, India + 1 more\nSoftware Engineering\nPosted 20 hours ago",
+   "city": "Bengaluru",
+   "exp": "Not stated",
+   "url": "https://paypal.eightfold.ai/careers/job/274923120550",
+   "ext_id": "al.eightfold.ai/careers/job/274923120550",
+   "desc": "",
+   "keywords": [],
+   "first_seen": "2026-11-18T19:52:28+00:00"
+  },
+  {
+   "id": "975c83607502",
+   "company": "PayPal",
+   "type": "Bank & Finance",
+   "title": "Software Engineer - Backend (Java)",
+   "location": "Software Engineer - Backend (Java)\nBangalore, Karnataka, India\nSoftware Engineering\nPosted 20 hours ago",
+   "city": "Bengaluru",
+   "exp": "Not stated",
+   "url": "https://paypal.eightfold.ai/careers/job/274922789363",
+   "ext_id": "al.eightfold.ai/careers/job/274922789363",
+   "desc": "",
+   "keywords": [
+    "Java"
+   ],
+   "first_seen": "2026-11-18T19:52:28+00:00"
+  },
+  {
+   "id": "378f689f3707",
+   "company": "Microsoft",
+   "type": "GCC",
+   "title": "Software Engineer - CTJ - POLY",
    "location": "India",
    "city": "",
    "exp": "Not stated",
-   "url": "https://paypal.eightfold.ai/careers/job/274923336364",
-   "ext_id": "al.eightfold.ai/careers/job/274923336364",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557070491?lc=India&q=software+engineer",
+   "ext_id": "93557070491?lc=India&q=software+engineer",
    "desc": "",
    "keywords": [],
-   "first_seen": "2026-11-18T05:19:12+00:00"
+   "first_seen": "2026-11-18T19:52:28+00:00"
   },
   {
-   "id": "0b2ba1280367",
-   "company": "Goldman Sachs",
-   "type": "Bank & Finance",
-   "title": "GBM - Prime Services Custody Engineering - Bengaluru - Vice President - Software Engineering",
-   "location": "GBM - Prime Services Custody Engineering - Bengaluru - Vice President - Software Engineering\nBengaluru·India\n·Vice President\nSoftware Engineering\nshare\nShare\nbookmark_border\nSave",
-   "city": "Bengaluru",
-   "exp": "Not stated",
-   "url": "https://higher.gs.com/roles/183217",
-   "ext_id": "https://higher.gs.com/roles/183217",
-   "desc": "",
-   "keywords": [],
-   "first_seen": "2026-11-17T20:16:27+00:00"
-  },
-  {
-   "id": "38b283399c32",
-   "company": "Goldman Sachs",
-   "type": "Bank & Finance",
-   "title": "GBM - TxB Platform Eng - Bengaluru - Vice President - Software Engineering",
-   "location": "GBM - TxB Platform Eng - Bengaluru - Vice President - Software Engineering\nBengaluru·India\n·Vice President\nSoftware Engineering\nshare\nShare\nbookmark_border\nSave",
-   "city": "Bengaluru",
-   "exp": "Not stated",
-   "url": "https://higher.gs.com/roles/176088",
-   "ext_id": "https://higher.gs.com/roles/176088",
-   "desc": "",
-   "keywords": [],
-   "first_seen": "2026-11-17T20:16:27+00:00"
-  },
-  {
-   "id": "6de416ed13e9",
-   "company": "Citi",
-   "type": "Bank & Finance",
-   "title": "Application Developer Programmer Analyst",
-   "location": "Hybrid\nApplication Developer Programmer Analyst\nPune, Maharashtra, India",
-   "city": "Pune",
-   "exp": "Not stated",
-   "url": "https://jobs.citi.com/job/pune/application-developer-programmer-analyst/287/103418090064",
-   "ext_id": "oper-programmer-analyst/287/103418090064",
-   "desc": "",
-   "keywords": [],
-   "first_seen": "2026-11-17T20:16:27+00:00"
-  },
-  {
-   "id": "19cde73fc7b5",
+   "id": "fbf0cc6c77ce",
    "company": "Amazon",
    "type": "GCC",
-   "title": "Software Development Engineer , UTR - Pick Stage",
-   "location": "IN, HR, Gurugram",
-   "city": "Gurugram",
-   "exp": "1+ yrs",
-   "url": "https://www.amazon.jobs/en/jobs/10588285/software-development-engineer-utr-pick-stage",
-   "ext_id": "10588285",
-   "desc": "- 1+ years of non-internship professional software development experience - Experience programming with at least one software programming language Are you passionate about writing code that makes a real difference for millions of people? Do you thrive when tackling complex problems and turning them into simple, elegant solutions? As a Software Development",
+   "title": "Software Development Engineer, ASA",
+   "location": "IN, KA, Bengaluru",
+   "city": "Bengaluru",
+   "exp": "2+ yrs",
+   "url": "https://www.amazon.jobs/en/jobs/10606051/software-development-engineer-asa",
+   "ext_id": "10606051",
+   "desc": "- 3+ years of non-internship professional software development experience - 2+ years of non-internship design or architecture (design patterns, reliability and scaling) of new and existing systems experience - Experience programming with at least one software programming language Retail Business Services (RBS) supports Amazon’s Retail business growth WW through three core tasks. These are (a) Selection, where RBS sources, creates and enrich ASINs to drive GMS growth; (b) Defect",
    "keywords": [],
-   "first_seen": "2026-11-17T20:16:27+00:00"
+   "first_seen": "2026-11-18T19:52:28+00:00"
+  },
+  {
+   "id": "bf5eefaa1073",
+   "company": "Amazon",
+   "type": "GCC",
+   "title": "Software Development Engineer, Amazon Time & Pay Innovation",
+   "location": "IN, TS, Hyderabad",
+   "city": "Hyderabad",
+   "exp": "2+ yrs",
+   "url": "https://www.amazon.jobs/en/jobs/10427781/software-development-engineer-amazon-time-pay-innovation",
+   "ext_id": "10427781",
+   "desc": "- 3+ years of non-internship professional software development experience - 2+ years of non-internship design or architecture (design patterns, reliability and scaling) of new and existing systems experience - Experience programming with at least one software programming language Amazon Time & Pay Innovation (T&PA) organisation is looking for Software Development Engineers who enjoy working in a green field environment building large-scale intelligent products and services that",
+   "keywords": [],
+   "first_seen": "2026-11-18T19:52:28+00:00"
+  },
+  {
+   "id": "befb4f7d8303",
+   "company": "Amazon",
+   "type": "GCC",
+   "title": "Software Development Engineer I, FinOps FP&A",
+   "location": "IN, KA, Bengaluru",
+   "city": "Bengaluru",
+   "exp": "1+ yrs",
+   "url": "https://www.amazon.jobs/en/jobs/10432823/software-development-engineer-i-finops-fp-a",
+   "ext_id": "10432823",
+   "desc": "- Experience programming with at least one software programming language - 1+ years of non-internship professional software development experience About the Organization: Amazon is a US-based multinational electronic commerce company headquartered in Seattle, Washington. Amazon.com started as an online bookstore, but soon diversified into many other",
+   "keywords": [],
+   "first_seen": "2026-11-18T19:52:28+00:00"
+  },
+  {
+   "id": "8d860f7cec20",
+   "company": "ServiceNow",
+   "type": "GCC",
+   "title": "Software Engineer",
+   "location": "Hyderabad, India",
+   "city": "Hyderabad",
+   "exp": "Not stated",
+   "url": "https://jobs.smartrecruiters.com/ServiceNow/744000162226349",
+   "ext_id": "744000162226349",
+   "desc": "",
+   "keywords": [],
+   "first_seen": "2026-11-18T19:52:28+00:00"
+  },
+  {
+   "id": "1b2ce8fa4c31",
+   "company": "Razorpay",
+   "type": "Startup",
+   "title": "Frontend Engineer ",
+   "location": "Bengaluru",
+   "city": "Bengaluru",
+   "exp": "1+ yrs",
+   "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4731054005",
+   "ext_id": "4731054005",
+   "desc": "Razorpay is one of India’s leading full-stack financial technology companies, powering the way businesses move, manage, and grow money. Founded in 2014 by Harshil Mathur and Shashank Kumar with a simple vision - to simplify payments for Indian businesses - we’ve since grown into a fintech powerhouse driving India’s digital payment revolution. Razorpay powers millions of businesses with a smarter, scalable stack that goes beyond transactions to help them truly build and grow. From building AI-native agentic payments, to AI-assisted fraud detection and real-time risk intelligence to automated reconciliation, smart payouts, and predictive financial insights, we are embedding intelligence across our stack to make money movement faster, safer, and more efficient. In close collaboration with ecosystem partners - including banks, networks, regulators - we are pioneering industry-first solutions that are shaping the next era of fintech Across India, Singapore and Malaysia, our products span everything from seamless checkouts to payroll automation - powering a fintech ecosystem that’s redefining how money moves across Asia. Today, that ecosystem supports everyone from early-stage startups to some of India’s largest enterprises, enabling them to accept, process, and disburse payments at scale while expanding into new ways of managing money more efficiently. Our scale speaks volumes: Razorpay processes $180+ billion in annualized transactions, powering leading businesses like Airbnb, Fa",
+   "keywords": [
+    "Go",
+    "JavaScript",
+    "React",
+    "Angular",
+    "REST"
+   ],
+   "first_seen": "2026-11-18T19:52:28+00:00"
   },
   {
    "id": "a391c121bb46",
@@ -83,44 +206,6 @@
    "ext_id": "10589217",
    "desc": "- 3+ years of non-internship professional software development experience - 2+ years of non-internship design or architecture (design patterns, reliability and scaling) of new and existing systems experience - Experience programming with at least one software programming language Are you seeking an environment where you can apply state-of-the-art computer science techniques, build large-scale distributed systems, and directly impact how millions of customers experience ultra-fast",
    "keywords": [],
-   "first_seen": "2026-11-17T20:16:27+00:00"
-  },
-  {
-   "id": "8c964dc0b4f1",
-   "company": "Amazon",
-   "type": "GCC",
-   "title": "Software Development Engineer, Ship With Amazon",
-   "location": "IN, TS, Hyderabad",
-   "city": "Hyderabad",
-   "exp": "2+ yrs",
-   "url": "https://www.amazon.jobs/en/jobs/10586124/software-development-engineer-ship-with-amazon",
-   "ext_id": "10586124",
-   "desc": "- 3+ years of non-internship professional software development experience - 2+ years of non-internship design or architecture (design patterns, reliability and scaling) of new and existing systems experience - Experience programming with at least one software programming language Amazon’s global fulfillment network enables any merchant to ship items that are ordered on Amazon to any place on earth. There is a complex network of ways in which items move between vendor locations,",
-   "keywords": [],
-   "first_seen": "2026-11-17T20:16:27+00:00"
-  },
-  {
-   "id": "906d81bb82df",
-   "company": "Rubrik",
-   "type": "Product",
-   "title": "Software Engineer Product Infra: Core Services",
-   "location": "Bengaluru",
-   "city": "Bengaluru",
-   "exp": "Not stated",
-   "url": "https://www.rubrik.com/company/careers/departments/job.8282005?gh_jid=8282005",
-   "ext_id": "8282005",
-   "desc": "About the team The Polaris Platform Bangalore team (a.k.a. Legion team) at Rubrik provides the core platforms and systems that enable product engineers to efficiently build and operate scalable and reliable applications in the cloud and also the on-prem version of the control plane. Polaris Platform has a horizontal charter with our customers being both external customers as well as Rubrik internal teams. Presently, the Legion team is working on enabling product led trials, license management & enforcement, making its cloud deployment infrastructure more efficient. Legion team also owns the on-prem RSC (RSC-P) version and is currently working on supporting it on different deployments, while ensuring it scales and is performant like its cloud counterpart. About the role We are looking for a Software Engineer to join our team. We believe in giving engineers responsibility, not tasks. Our goal is to motivate and challenge people to do their best work. To do that, we have a very fluid structure and give people flexibility to work on projects that they enjoy the most. This develops more capable engineers, and keeps everyone engaged and happy. To address challenges of huge year over year growth, our team is constantly re-imagining our platform. This is an exciting time to join as we are constantly improving and innovating on each of our core layers. Some recent projects include: Enabling product assisted trials to decrease sales cycles Bringing in Licensing visibility and enforceme",
-   "keywords": [
-    "Java",
-    "Python",
-    "C++",
-    "C#",
-    "AWS",
-    "Azure",
-    "Docker",
-    "Kubernetes",
-    "Linux"
-   ],
    "first_seen": "2026-11-17T20:16:27+00:00"
   },
   {
@@ -391,7 +476,7 @@
    "company": "PayPal",
    "type": "Bank & Finance",
    "title": "Software Engineer",
-   "location": "Software Engineer\nBangalore, Karnataka, India\nSoftware Engineering\nHybrid\nPosted 5 days ago",
+   "location": "Software Engineer\nBangalore, Karnataka, India\nSoftware Engineering\nHybrid\nPosted 6 days ago",
    "city": "Bengaluru",
    "exp": "Not stated",
    "url": "https://paypal.eightfold.ai/careers/job/274923287904",
@@ -977,20 +1062,6 @@
    "first_seen": "2026-11-14T12:37:50+00:00"
   },
   {
-   "id": "e3e001d959e9",
-   "company": "Amazon",
-   "type": "GCC",
-   "title": "Software Development Engineer, Everyday Essentials Experiences",
-   "location": "IN, KA, Bengaluru",
-   "city": "Bengaluru",
-   "exp": "2+ yrs",
-   "url": "https://www.amazon.jobs/en/jobs/10534417/software-development-engineer-everyday-essentials-experiences",
-   "ext_id": "10534417",
-   "desc": "- 3+ years of non-internship professional software development experience - 2+ years of non-internship design or architecture (design patterns, reliability and scaling) of new and existing systems experience - Experience programming with at least one software programming language - Bachelor's degree in computer science or equivalent The Everyday Essentials Experience Org delivers a world-class shopping experience for everyday essentials that is efficient, habitual, and economical for customers and selling partners. We are looking",
-   "keywords": [],
-   "first_seen": "2026-11-14T12:37:50+00:00"
-  },
-  {
    "id": "6dfa12a766e6",
    "company": "Amazon",
    "type": "GCC",
@@ -1015,48 +1086,6 @@
    "url": "https://www.amazon.jobs/en/jobs/10381000/software-development-engineer-buyer-safety-experience",
    "ext_id": "10381000",
    "desc": "- 3+ years of non-internship professional software development experience - 2+ years of non-internship design or architecture (design patterns, reliability and scaling) of new and existing systems experience - 3+ years of building complex software systems experience - Experience programming with at least one software programming language “WARNING: Choking Hazard — small parts. Not for children under 3 years.”“WARNING: This product can expose you to chemicals including antimony trioxide, which are known to cause cancer or birth defects",
-   "keywords": [],
-   "first_seen": "2026-11-14T12:37:50+00:00"
-  },
-  {
-   "id": "9b34af6264b1",
-   "company": "Amazon",
-   "type": "GCC",
-   "title": "Software Development Engineer, FBA Defect Prevention",
-   "location": "IN, KA, Bengaluru",
-   "city": "Bengaluru",
-   "exp": "2+ yrs",
-   "url": "https://www.amazon.jobs/en/jobs/10575325/software-development-engineer-fba-defect-prevention",
-   "ext_id": "10575325",
-   "desc": "- 3+ years of non-internship professional software development experience - 2+ years of non-internship design or architecture (design patterns, reliability and scaling) of new and existing systems experience - Experience programming with at least one software programming language Join a new team and make a huge difference for Amazon, our sellers, and our supply chain. We are the team that deals with the exceptions to the exceptions in a complex process, saving Amazon and our sellers",
-   "keywords": [],
-   "first_seen": "2026-11-14T12:37:50+00:00"
-  },
-  {
-   "id": "26dec664efeb",
-   "company": "Amazon",
-   "type": "GCC",
-   "title": "Software Development Engineer, Returns and Recommerce",
-   "location": "IN, TS, Hyderabad",
-   "city": "Hyderabad",
-   "exp": "2+ yrs",
-   "url": "https://www.amazon.jobs/en/jobs/10571940/software-development-engineer-returns-and-recommerce",
-   "ext_id": "10571940",
-   "desc": "- 3+ years of non-internship professional software development experience - 2+ years of non-internship design or architecture (design patterns, reliability and scaling) of new and existing systems experience - Experience programming with at least one software programming language Not many teams aspire to zero. Welcome to the Worldwide Returns and ReCommerce team (WWR&R) at Amazon.com.WW R&R is an agile, innovative organization dedicated to ‘making zero happen’ to benefit our customers,",
-   "keywords": [],
-   "first_seen": "2026-11-14T12:37:50+00:00"
-  },
-  {
-   "id": "5e54037577d8",
-   "company": "Amazon",
-   "type": "GCC",
-   "title": "Software Development Engineer, AFT External Fulfillment",
-   "location": "IN, KA, Bengaluru",
-   "city": "Bengaluru",
-   "exp": "2+ yrs",
-   "url": "https://www.amazon.jobs/en/jobs/10509821/software-development-engineer-aft-external-fulfillment",
-   "ext_id": "10509821",
-   "desc": "- 3+ years of non-internship professional software development experience - 2+ years of non-internship design or architecture (design patterns, reliability and scaling) of new and existing systems experience - Experience programming with at least one software programming language Are you seeking an environment where you can apply state-of-the-art computer science techniques, build large-scale distributed systems, and directly impact how millions of customers experience ultra-fast",
    "keywords": [],
    "first_seen": "2026-11-14T12:37:50+00:00"
   },
@@ -1134,6 +1163,48 @@
    "url": "https://www.amazon.jobs/en/jobs/10557759/software-development-engineer-tax-engine-services",
    "ext_id": "10557759",
    "desc": "- 3+ years of non-internship professional software development experience - 2+ years of non-internship design or architecture (design patterns, reliability and scaling) of new and existing systems experience - Experience programming with at least one software programming language You'll work on one of the world's largest transactional distributed systems, solving complex tax calculation challenges that impact millions of customers globally. Join a team building mission-critical",
+   "keywords": [],
+   "first_seen": "2026-11-14T12:37:50+00:00"
+  },
+  {
+   "id": "9b34af6264b1",
+   "company": "Amazon",
+   "type": "GCC",
+   "title": "Software Development Engineer, FBA Defect Prevention",
+   "location": "IN, KA, Bengaluru",
+   "city": "Bengaluru",
+   "exp": "2+ yrs",
+   "url": "https://www.amazon.jobs/en/jobs/10575325/software-development-engineer-fba-defect-prevention",
+   "ext_id": "10575325",
+   "desc": "- 3+ years of non-internship professional software development experience - 2+ years of non-internship design or architecture (design patterns, reliability and scaling) of new and existing systems experience - Experience programming with at least one software programming language Join a new team and make a huge difference for Amazon, our sellers, and our supply chain. We are the team that deals with the exceptions to the exceptions in a complex process, saving Amazon and our sellers",
+   "keywords": [],
+   "first_seen": "2026-11-14T12:37:50+00:00"
+  },
+  {
+   "id": "26dec664efeb",
+   "company": "Amazon",
+   "type": "GCC",
+   "title": "Software Development Engineer, Returns and Recommerce",
+   "location": "IN, TS, Hyderabad",
+   "city": "Hyderabad",
+   "exp": "2+ yrs",
+   "url": "https://www.amazon.jobs/en/jobs/10571940/software-development-engineer-returns-and-recommerce",
+   "ext_id": "10571940",
+   "desc": "- 3+ years of non-internship professional software development experience - 2+ years of non-internship design or architecture (design patterns, reliability and scaling) of new and existing systems experience - Experience programming with at least one software programming language Not many teams aspire to zero. Welcome to the Worldwide Returns and ReCommerce team (WWR&R) at Amazon.com.WW R&R is an agile, innovative organization dedicated to ‘making zero happen’ to benefit our customers,",
+   "keywords": [],
+   "first_seen": "2026-11-14T12:37:50+00:00"
+  },
+  {
+   "id": "5e54037577d8",
+   "company": "Amazon",
+   "type": "GCC",
+   "title": "Software Development Engineer, AFT External Fulfillment",
+   "location": "IN, KA, Bengaluru",
+   "city": "Bengaluru",
+   "exp": "2+ yrs",
+   "url": "https://www.amazon.jobs/en/jobs/10509821/software-development-engineer-aft-external-fulfillment",
+   "ext_id": "10509821",
+   "desc": "- 3+ years of non-internship professional software development experience - 2+ years of non-internship design or architecture (design patterns, reliability and scaling) of new and existing systems experience - Experience programming with at least one software programming language Are you seeking an environment where you can apply state-of-the-art computer science techniques, build large-scale distributed systems, and directly impact how millions of customers experience ultra-fast",
    "keywords": [],
    "first_seen": "2026-11-14T12:37:50+00:00"
   },
@@ -1391,9 +1462,9 @@
    "system": "",
    "method": "page",
    "status": "ok",
-   "count": 2,
+   "count": 1,
    "error": "",
-   "checked_at": "2026-11-18T05:19:12+00:00"
+   "checked_at": "2026-11-18T19:52:28+00:00"
   },
   {
    "name": "JPMorgan Chase",
@@ -1404,7 +1475,7 @@
    "status": "ok",
    "count": 0,
    "error": "",
-   "checked_at": "2026-11-18T05:19:12+00:00"
+   "checked_at": "2026-11-18T19:52:28+00:00"
   },
   {
    "name": "Morgan Stanley",
@@ -1415,7 +1486,7 @@
    "status": "failed",
    "count": 0,
    "error": "eightfold: HTTP 403 '{\"message\": \"Not authorized for PCSX\"}\\n' | browser: Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.morganstanley.com/careers/career-opportunities-search\nCall log:\n  - navigating to \"https://www.morganstanley.com/careers/career-op",
-   "checked_at": "2026-11-18T05:19:12+00:00"
+   "checked_at": "2026-11-18T19:52:28+00:00"
   },
   {
    "name": "Citi",
@@ -1424,9 +1495,9 @@
    "system": "workday",
    "method": "page",
    "status": "ok",
-   "count": 1,
+   "count": 2,
    "error": "",
-   "checked_at": "2026-11-18T05:19:12+00:00"
+   "checked_at": "2026-11-18T19:52:28+00:00"
   },
   {
    "name": "Deutsche Bank",
@@ -1437,7 +1508,7 @@
    "status": "ok",
    "count": 0,
    "error": "",
-   "checked_at": "2026-11-18T05:19:12+00:00"
+   "checked_at": "2026-11-18T19:52:28+00:00"
   },
   {
    "name": "Barclays",
@@ -1446,9 +1517,9 @@
    "system": "workday",
    "method": "page",
    "status": "ok",
-   "count": 0,
+   "count": 1,
    "error": "",
-   "checked_at": "2026-11-18T05:19:12+00:00"
+   "checked_at": "2026-11-18T19:52:28+00:00"
   },
   {
    "name": "HSBC",
@@ -1459,7 +1530,7 @@
    "status": "ok",
    "count": 0,
    "error": "",
-   "checked_at": "2026-11-18T05:19:12+00:00"
+   "checked_at": "2026-11-18T19:52:28+00:00"
   },
   {
    "name": "Wells Fargo",
@@ -1470,7 +1541,7 @@
    "status": "ok",
    "count": 0,
    "error": "",
-   "checked_at": "2026-11-18T05:19:12+00:00"
+   "checked_at": "2026-11-18T19:52:28+00:00"
   },
   {
    "name": "Standard Chartered",
@@ -1481,7 +1552,7 @@
    "status": "ok",
    "count": 0,
    "error": "",
-   "checked_at": "2026-11-18T05:19:12+00:00"
+   "checked_at": "2026-11-18T19:52:28+00:00"
   },
   {
    "name": "BNY",
@@ -1490,9 +1561,9 @@
    "system": "oracle",
    "method": "feed",
    "status": "ok",
-   "count": 14,
+   "count": 15,
    "error": "",
-   "checked_at": "2026-11-18T05:19:12+00:00"
+   "checked_at": "2026-11-18T19:52:28+00:00"
   },
   {
    "name": "State Street",
@@ -1503,7 +1574,7 @@
    "status": "ok",
    "count": 0,
    "error": "",
-   "checked_at": "2026-11-18T05:19:12+00:00"
+   "checked_at": "2026-11-18T19:52:28+00:00"
   },
   {
    "name": "Fidelity Investments",
@@ -1514,7 +1585,7 @@
    "status": "ok",
    "count": 0,
    "error": "",
-   "checked_at": "2026-11-18T05:19:12+00:00"
+   "checked_at": "2026-11-18T19:52:28+00:00"
   },
   {
    "name": "Capital One",
@@ -1525,7 +1596,7 @@
    "status": "ok",
    "count": 0,
    "error": "",
-   "checked_at": "2026-11-18T05:19:12+00:00"
+   "checked_at": "2026-11-18T19:52:28+00:00"
   },
   {
    "name": "American Express",
@@ -1536,7 +1607,7 @@
    "status": "failed",
    "count": 0,
    "error": "eightfold: HTTP 404 '<!DOCTYPE html>\\n<html lang=\"en\">\\n\\n  <head>\\n    <meta charset=\"utf-8\">\\n' | eightfold: HTTP 404 '<!DOCTYPE html>\\n<html lang=\"en\">\\n\\n  <head>\\n    <meta charset=\"utf-8\">\\n' | browser: page showed no job list (needs a custom scraper) ei",
-   "checked_at": "2026-11-18T05:19:12+00:00"
+   "checked_at": "2026-11-18T19:52:28+00:00"
   },
   {
    "name": "Visa",
@@ -1547,7 +1618,7 @@
    "status": "ok",
    "count": 0,
    "error": "",
-   "checked_at": "2026-11-18T05:19:12+00:00"
+   "checked_at": "2026-11-18T19:52:28+00:00"
   },
   {
    "name": "Mastercard",
@@ -1558,7 +1629,7 @@
    "status": "ok",
    "count": 0,
    "error": "",
-   "checked_at": "2026-11-18T05:19:12+00:00"
+   "checked_at": "2026-11-18T19:52:28+00:00"
   },
   {
    "name": "PayPal",
@@ -1567,9 +1638,9 @@
    "system": "eightfold",
    "method": "page",
    "status": "ok",
-   "count": 2,
+   "count": 3,
    "error": "",
-   "checked_at": "2026-11-18T05:19:12+00:00"
+   "checked_at": "2026-11-18T19:52:28+00:00"
   },
   {
    "name": "HDFC Bank",
@@ -1580,7 +1651,7 @@
    "status": "ok",
    "count": 0,
    "error": "",
-   "checked_at": "2026-11-18T05:19:12+00:00"
+   "checked_at": "2026-11-18T19:52:28+00:00"
   },
   {
    "name": "ICICI Bank",
@@ -1591,7 +1662,7 @@
    "status": "ok",
    "count": 0,
    "error": "",
-   "checked_at": "2026-11-18T05:19:12+00:00"
+   "checked_at": "2026-11-18T19:52:28+00:00"
   },
   {
    "name": "Axis Bank",
@@ -1602,7 +1673,7 @@
    "status": "ok",
    "count": 0,
    "error": "",
-   "checked_at": "2026-11-18T05:19:12+00:00"
+   "checked_at": "2026-11-18T19:52:28+00:00"
   },
   {
    "name": "Kotak Mahindra Bank",
@@ -1613,7 +1684,7 @@
    "status": "ok",
    "count": 0,
    "error": "",
-   "checked_at": "2026-11-18T05:19:12+00:00"
+   "checked_at": "2026-11-18T19:52:28+00:00"
   },
   {
    "name": "Bajaj Finserv",
@@ -1624,7 +1695,7 @@
    "status": "failed",
    "count": 0,
    "error": " | browser: page showed no job list (needs a custom scraper) ",
-   "checked_at": "2026-11-18T05:19:12+00:00"
+   "checked_at": "2026-11-18T19:52:28+00:00"
   },
   {
    "name": "Microsoft",
@@ -1633,9 +1704,9 @@
    "system": "eightfold",
    "method": "page",
    "status": "ok",
-   "count": 0,
+   "count": 1,
    "error": "",
-   "checked_at": "2026-11-18T05:19:12+00:00"
+   "checked_at": "2026-11-18T19:52:28+00:00"
   },
   {
    "name": "Amazon",
@@ -1646,7 +1717,7 @@
    "status": "ok",
    "count": 52,
    "error": "",
-   "checked_at": "2026-11-18T05:19:12+00:00"
+   "checked_at": "2026-11-18T19:52:28+00:00"
   },
   {
    "name": "Google",
@@ -1657,7 +1728,7 @@
    "status": "ok",
    "count": 7,
    "error": "",
-   "checked_at": "2026-11-18T05:19:12+00:00"
+   "checked_at": "2026-11-18T19:52:28+00:00"
   },
   {
    "name": "Walmart Global Tech",
@@ -1668,7 +1739,7 @@
    "status": "ok",
    "count": 0,
    "error": "",
-   "checked_at": "2026-11-18T05:19:12+00:00"
+   "checked_at": "2026-11-18T19:52:28+00:00"
   },
   {
    "name": "Target",
@@ -1679,7 +1750,7 @@
    "status": "ok",
    "count": 0,
    "error": "",
-   "checked_at": "2026-11-18T05:19:12+00:00"
+   "checked_at": "2026-11-18T19:52:28+00:00"
   },
   {
    "name": "Lowe's",
@@ -1690,7 +1761,7 @@
    "status": "ok",
    "count": 0,
    "error": "",
-   "checked_at": "2026-11-18T05:19:12+00:00"
+   "checked_at": "2026-11-18T19:52:28+00:00"
   },
   {
    "name": "Intuit",
@@ -1701,7 +1772,7 @@
    "status": "ok",
    "count": 1,
    "error": "",
-   "checked_at": "2026-11-18T05:19:12+00:00"
+   "checked_at": "2026-11-18T19:52:28+00:00"
   },
   {
    "name": "Adobe",
@@ -1712,7 +1783,7 @@
    "status": "ok",
    "count": 0,
    "error": "",
-   "checked_at": "2026-11-18T05:19:12+00:00"
+   "checked_at": "2026-11-18T19:52:28+00:00"
   },
   {
    "name": "Salesforce",
@@ -1723,7 +1794,7 @@
    "status": "failed",
    "count": 6,
    "error": "workday: HTTP 429 '<!DOCTYPE html>\\n<html>\\n\\n<head>\\n    <style>\\n        body {\\n            ' | browser: page showed no job list (needs a custom scraper) ",
-   "checked_at": "2026-11-18T05:19:12+00:00"
+   "checked_at": "2026-11-18T19:52:28+00:00"
   },
   {
    "name": "Oracle",
@@ -1734,7 +1805,7 @@
    "status": "ok",
    "count": 0,
    "error": "",
-   "checked_at": "2026-11-18T05:19:12+00:00"
+   "checked_at": "2026-11-18T19:52:28+00:00"
   },
   {
    "name": "SAP Labs India",
@@ -1745,7 +1816,7 @@
    "status": "failed",
    "count": 0,
    "error": " | browser: page showed no job list (needs a custom scraper) ",
-   "checked_at": "2026-11-18T05:19:12+00:00"
+   "checked_at": "2026-11-18T19:52:28+00:00"
   },
   {
    "name": "Cisco",
@@ -1756,7 +1827,7 @@
    "status": "ok",
    "count": 0,
    "error": "",
-   "checked_at": "2026-11-18T05:19:12+00:00"
+   "checked_at": "2026-11-18T19:52:28+00:00"
   },
   {
    "name": "Intel",
@@ -1767,7 +1838,7 @@
    "status": "ok",
    "count": 0,
    "error": "",
-   "checked_at": "2026-11-18T05:19:12+00:00"
+   "checked_at": "2026-11-18T19:52:28+00:00"
   },
   {
    "name": "NVIDIA",
@@ -1778,7 +1849,7 @@
    "status": "ok",
    "count": 0,
    "error": "",
-   "checked_at": "2026-11-18T05:19:12+00:00"
+   "checked_at": "2026-11-18T19:52:28+00:00"
   },
   {
    "name": "Qualcomm",
@@ -1789,7 +1860,7 @@
    "status": "ok",
    "count": 0,
    "error": "",
-   "checked_at": "2026-11-18T05:19:12+00:00"
+   "checked_at": "2026-11-18T19:52:28+00:00"
   },
   {
    "name": "AMD",
@@ -1800,7 +1871,7 @@
    "status": "ok",
    "count": 0,
    "error": "",
-   "checked_at": "2026-11-18T05:19:12+00:00"
+   "checked_at": "2026-11-18T19:52:28+00:00"
   },
   {
    "name": "Micron",
@@ -1811,7 +1882,7 @@
    "status": "ok",
    "count": 0,
    "error": "",
-   "checked_at": "2026-11-18T05:19:12+00:00"
+   "checked_at": "2026-11-18T19:52:28+00:00"
   },
   {
    "name": "Dell",
@@ -1822,7 +1893,7 @@
    "status": "ok",
    "count": 0,
    "error": "",
-   "checked_at": "2026-11-18T05:19:12+00:00"
+   "checked_at": "2026-11-18T19:52:28+00:00"
   },
   {
    "name": "Broadcom",
@@ -1833,7 +1904,7 @@
    "status": "ok",
    "count": 0,
    "error": "",
-   "checked_at": "2026-11-18T05:19:12+00:00"
+   "checked_at": "2026-11-18T19:52:28+00:00"
   },
   {
    "name": "Synopsys",
@@ -1844,7 +1915,7 @@
    "status": "ok",
    "count": 0,
    "error": "",
-   "checked_at": "2026-11-18T05:19:12+00:00"
+   "checked_at": "2026-11-18T19:52:28+00:00"
   },
   {
    "name": "Cadence",
@@ -1855,7 +1926,7 @@
    "status": "ok",
    "count": 0,
    "error": "",
-   "checked_at": "2026-11-18T05:19:12+00:00"
+   "checked_at": "2026-11-18T19:52:28+00:00"
   },
   {
    "name": "Autodesk",
@@ -1866,7 +1937,7 @@
    "status": "failed",
    "count": 0,
    "error": "workday: HTTP 429 '<!DOCTYPE html>\\n<html>\\n\\n<head>\\n    <style>\\n        body {\\n            ' | browser: page showed no job list (needs a custom scraper) ",
-   "checked_at": "2026-11-18T05:19:12+00:00"
+   "checked_at": "2026-11-18T19:52:28+00:00"
   },
   {
    "name": "Atlassian",
@@ -1877,7 +1948,7 @@
    "status": "ok",
    "count": 0,
    "error": "",
-   "checked_at": "2026-11-18T05:19:12+00:00"
+   "checked_at": "2026-11-18T19:52:28+00:00"
   },
   {
    "name": "Uber",
@@ -1888,7 +1959,7 @@
    "status": "failed",
    "count": 0,
    "error": " | browser: page showed no job list (needs a custom scraper) ",
-   "checked_at": "2026-11-18T05:19:12+00:00"
+   "checked_at": "2026-11-18T19:52:28+00:00"
   },
   {
    "name": "ServiceNow",
@@ -1897,9 +1968,9 @@
    "system": "smartrecruiters",
    "method": "feed",
    "status": "ok",
-   "count": 0,
+   "count": 1,
    "error": "",
-   "checked_at": "2026-11-18T05:19:12+00:00"
+   "checked_at": "2026-11-18T19:52:28+00:00"
   },
   {
    "name": "Workday",
@@ -1910,7 +1981,7 @@
    "status": "ok",
    "count": 0,
    "error": "",
-   "checked_at": "2026-11-18T05:19:12+00:00"
+   "checked_at": "2026-11-18T19:52:28+00:00"
   },
   {
    "name": "Thomson Reuters",
@@ -1921,7 +1992,7 @@
    "status": "ok",
    "count": 0,
    "error": "",
-   "checked_at": "2026-11-18T05:19:12+00:00"
+   "checked_at": "2026-11-18T19:52:28+00:00"
   },
   {
    "name": "Flipkart",
@@ -1932,7 +2003,7 @@
    "status": "ok",
    "count": 0,
    "error": "",
-   "checked_at": "2026-11-18T05:19:12+00:00"
+   "checked_at": "2026-11-18T19:52:28+00:00"
   },
   {
    "name": "Swiggy",
@@ -1943,7 +2014,7 @@
    "status": "ok",
    "count": 0,
    "error": "",
-   "checked_at": "2026-11-18T05:19:12+00:00"
+   "checked_at": "2026-11-18T19:52:28+00:00"
   },
   {
    "name": "Zomato",
@@ -1954,18 +2025,18 @@
    "status": "failed",
    "count": 0,
    "error": " | browser: page showed no job list (needs a custom scraper) ",
-   "checked_at": "2026-11-18T05:19:12+00:00"
+   "checked_at": "2026-11-18T19:52:28+00:00"
   },
   {
    "name": "Ola",
    "type": "Product",
    "url": "https://www.olacabs.com/careers",
    "system": "",
-   "method": "",
-   "status": "failed",
+   "method": "page",
+   "status": "ok",
    "count": 0,
-   "error": " | browser: page showed no job list (needs a custom scraper) ",
-   "checked_at": "2026-11-18T05:19:12+00:00"
+   "error": "",
+   "checked_at": "2026-11-18T19:52:28+00:00"
   },
   {
    "name": "Freshworks",
@@ -1976,7 +2047,7 @@
    "status": "ok",
    "count": 0,
    "error": "",
-   "checked_at": "2026-11-18T05:19:12+00:00"
+   "checked_at": "2026-11-18T19:52:28+00:00"
   },
   {
    "name": "Zoho",
@@ -1987,7 +2058,7 @@
    "status": "ok",
    "count": 0,
    "error": "",
-   "checked_at": "2026-11-18T05:19:12+00:00"
+   "checked_at": "2026-11-18T19:52:28+00:00"
   },
   {
    "name": "Postman",
@@ -1998,7 +2069,7 @@
    "status": "ok",
    "count": 0,
    "error": "",
-   "checked_at": "2026-11-18T05:19:12+00:00"
+   "checked_at": "2026-11-18T19:52:28+00:00"
   },
   {
    "name": "BrowserStack",
@@ -2009,7 +2080,7 @@
    "status": "ok",
    "count": 0,
    "error": "",
-   "checked_at": "2026-11-18T05:19:12+00:00"
+   "checked_at": "2026-11-18T19:52:28+00:00"
   },
   {
    "name": "Druva",
@@ -2020,7 +2091,7 @@
    "status": "ok",
    "count": 0,
    "error": "",
-   "checked_at": "2026-11-18T05:19:12+00:00"
+   "checked_at": "2026-11-18T19:52:28+00:00"
   },
   {
    "name": "Nutanix",
@@ -2031,7 +2102,7 @@
    "status": "ok",
    "count": 0,
    "error": "",
-   "checked_at": "2026-11-18T05:19:12+00:00"
+   "checked_at": "2026-11-18T19:52:28+00:00"
   },
   {
    "name": "Rubrik",
@@ -2040,9 +2111,9 @@
    "system": "greenhouse",
    "method": "feed",
    "status": "ok",
-   "count": 4,
+   "count": 3,
    "error": "",
-   "checked_at": "2026-11-18T05:19:12+00:00"
+   "checked_at": "2026-11-18T19:52:28+00:00"
   },
   {
    "name": "Databricks",
@@ -2053,7 +2124,7 @@
    "status": "ok",
    "count": 0,
    "error": "",
-   "checked_at": "2026-11-18T05:19:12+00:00"
+   "checked_at": "2026-11-18T19:52:28+00:00"
   },
   {
    "name": "Stripe",
@@ -2064,7 +2135,7 @@
    "status": "ok",
    "count": 0,
    "error": "",
-   "checked_at": "2026-11-18T05:19:12+00:00"
+   "checked_at": "2026-11-18T19:52:28+00:00"
   },
   {
    "name": "Cloudflare",
@@ -2075,7 +2146,7 @@
    "status": "ok",
    "count": 0,
    "error": "",
-   "checked_at": "2026-11-18T05:19:12+00:00"
+   "checked_at": "2026-11-18T19:52:28+00:00"
   },
   {
    "name": "Datadog",
@@ -2086,7 +2157,7 @@
    "status": "ok",
    "count": 0,
    "error": "",
-   "checked_at": "2026-11-18T05:19:12+00:00"
+   "checked_at": "2026-11-18T19:52:28+00:00"
   },
   {
    "name": "MongoDB",
@@ -2097,7 +2168,7 @@
    "status": "ok",
    "count": 0,
    "error": "",
-   "checked_at": "2026-11-18T05:19:12+00:00"
+   "checked_at": "2026-11-18T19:52:28+00:00"
   },
   {
    "name": "Okta",
@@ -2108,7 +2179,7 @@
    "status": "ok",
    "count": 0,
    "error": "",
-   "checked_at": "2026-11-18T05:19:12+00:00"
+   "checked_at": "2026-11-18T19:52:28+00:00"
   },
   {
    "name": "GitLab",
@@ -2119,7 +2190,7 @@
    "status": "ok",
    "count": 2,
    "error": "",
-   "checked_at": "2026-11-18T05:19:12+00:00"
+   "checked_at": "2026-11-18T19:52:28+00:00"
   },
   {
    "name": "Twilio",
@@ -2130,7 +2201,7 @@
    "status": "ok",
    "count": 0,
    "error": "",
-   "checked_at": "2026-11-18T05:19:12+00:00"
+   "checked_at": "2026-11-18T19:52:28+00:00"
   },
   {
    "name": "Coinbase",
@@ -2141,7 +2212,7 @@
    "status": "ok",
    "count": 0,
    "error": "",
-   "checked_at": "2026-11-18T05:19:12+00:00"
+   "checked_at": "2026-11-18T19:52:28+00:00"
   },
   {
    "name": "Pinterest",
@@ -2152,7 +2223,7 @@
    "status": "ok",
    "count": 0,
    "error": "",
-   "checked_at": "2026-11-18T05:19:12+00:00"
+   "checked_at": "2026-11-18T19:52:28+00:00"
   },
   {
    "name": "Airbnb",
@@ -2163,7 +2234,7 @@
    "status": "ok",
    "count": 0,
    "error": "",
-   "checked_at": "2026-11-18T05:19:12+00:00"
+   "checked_at": "2026-11-18T19:52:28+00:00"
   },
   {
    "name": "Elastic",
@@ -2174,7 +2245,7 @@
    "status": "ok",
    "count": 0,
    "error": "",
-   "checked_at": "2026-11-18T05:19:12+00:00"
+   "checked_at": "2026-11-18T19:52:28+00:00"
   },
   {
    "name": "ThoughtSpot",
@@ -2185,7 +2256,7 @@
    "status": "ok",
    "count": 0,
    "error": "",
-   "checked_at": "2026-11-18T05:19:12+00:00"
+   "checked_at": "2026-11-18T19:52:28+00:00"
   },
   {
    "name": "TCS",
@@ -2196,7 +2267,7 @@
    "status": "failed",
    "count": 0,
    "error": " | browser: page showed no job list (needs a custom scraper) ",
-   "checked_at": "2026-11-18T05:19:12+00:00"
+   "checked_at": "2026-11-18T19:52:28+00:00"
   },
   {
    "name": "Infosys",
@@ -2207,7 +2278,7 @@
    "status": "failed",
    "count": 0,
    "error": " | browser: page showed no job list (needs a custom scraper) ",
-   "checked_at": "2026-11-18T05:19:12+00:00"
+   "checked_at": "2026-11-18T19:52:28+00:00"
   },
   {
    "name": "Wipro",
@@ -2218,7 +2289,7 @@
    "status": "ok",
    "count": 0,
    "error": "",
-   "checked_at": "2026-11-18T05:19:12+00:00"
+   "checked_at": "2026-11-18T19:52:28+00:00"
   },
   {
    "name": "HCLTech",
@@ -2229,7 +2300,7 @@
    "status": "ok",
    "count": 0,
    "error": "",
-   "checked_at": "2026-11-18T05:19:12+00:00"
+   "checked_at": "2026-11-18T19:52:28+00:00"
   },
   {
    "name": "Tech Mahindra",
@@ -2240,7 +2311,7 @@
    "status": "ok",
    "count": 0,
    "error": "",
-   "checked_at": "2026-11-18T05:19:12+00:00"
+   "checked_at": "2026-11-18T19:52:28+00:00"
   },
   {
    "name": "Cognizant",
@@ -2251,7 +2322,7 @@
    "status": "ok",
    "count": 0,
    "error": "",
-   "checked_at": "2026-11-18T05:19:12+00:00"
+   "checked_at": "2026-11-18T19:52:28+00:00"
   },
   {
    "name": "Accenture",
@@ -2262,7 +2333,7 @@
    "status": "ok",
    "count": 0,
    "error": "",
-   "checked_at": "2026-11-18T05:19:12+00:00"
+   "checked_at": "2026-11-18T19:52:28+00:00"
   },
   {
    "name": "Capgemini",
@@ -2273,7 +2344,7 @@
    "status": "ok",
    "count": 0,
    "error": "",
-   "checked_at": "2026-11-18T05:19:12+00:00"
+   "checked_at": "2026-11-18T19:52:28+00:00"
   },
   {
    "name": "LTIMindtree",
@@ -2284,7 +2355,7 @@
    "status": "ok",
    "count": 0,
    "error": "",
-   "checked_at": "2026-11-18T05:19:12+00:00"
+   "checked_at": "2026-11-18T19:52:28+00:00"
   },
   {
    "name": "Persistent Systems",
@@ -2295,7 +2366,7 @@
    "status": "failed",
    "count": 0,
    "error": " | browser: Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.persistent.com/careers/\nCall log:\n  - navigating to \"https://www.persistent.com/careers/\", waiting until \"domcontentloaded\"\n",
-   "checked_at": "2026-11-18T05:19:12+00:00"
+   "checked_at": "2026-11-18T19:52:28+00:00"
   },
   {
    "name": "Mphasis",
@@ -2306,7 +2377,7 @@
    "status": "ok",
    "count": 0,
    "error": "",
-   "checked_at": "2026-11-18T05:19:12+00:00"
+   "checked_at": "2026-11-18T19:52:28+00:00"
   },
   {
    "name": "Hexaware",
@@ -2317,7 +2388,7 @@
    "status": "ok",
    "count": 0,
    "error": "",
-   "checked_at": "2026-11-18T05:19:12+00:00"
+   "checked_at": "2026-11-18T19:52:28+00:00"
   },
   {
    "name": "Zensar",
@@ -2328,7 +2399,7 @@
    "status": "ok",
    "count": 2,
    "error": "",
-   "checked_at": "2026-11-18T05:19:12+00:00"
+   "checked_at": "2026-11-18T19:52:28+00:00"
   },
   {
    "name": "Coforge",
@@ -2339,7 +2410,7 @@
    "status": "failed",
    "count": 0,
    "error": " | browser: Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://careers.coforge.com/\nCall log:\n  - navigating to \"https://careers.coforge.com/\", waiting until \"domcontentloaded\"\n",
-   "checked_at": "2026-11-18T05:19:12+00:00"
+   "checked_at": "2026-11-18T19:52:28+00:00"
   },
   {
    "name": "Birlasoft",
@@ -2350,7 +2421,7 @@
    "status": "ok",
    "count": 0,
    "error": "",
-   "checked_at": "2026-11-18T05:19:12+00:00"
+   "checked_at": "2026-11-18T19:52:28+00:00"
   },
   {
    "name": "Razorpay",
@@ -2359,9 +2430,9 @@
    "system": "greenhouse",
    "method": "feed",
    "status": "ok",
-   "count": 0,
+   "count": 1,
    "error": "",
-   "checked_at": "2026-11-18T05:19:12+00:00"
+   "checked_at": "2026-11-18T19:52:28+00:00"
   },
   {
    "name": "PhonePe",
@@ -2372,7 +2443,7 @@
    "status": "ok",
    "count": 0,
    "error": "",
-   "checked_at": "2026-11-18T05:19:12+00:00"
+   "checked_at": "2026-11-18T19:52:28+00:00"
   },
   {
    "name": "CRED",
@@ -2383,7 +2454,7 @@
    "status": "ok",
    "count": 0,
    "error": "",
-   "checked_at": "2026-11-18T05:19:12+00:00"
+   "checked_at": "2026-11-18T19:52:28+00:00"
   },
   {
    "name": "Groww",
@@ -2394,7 +2465,7 @@
    "status": "ok",
    "count": 0,
    "error": "",
-   "checked_at": "2026-11-18T05:19:12+00:00"
+   "checked_at": "2026-11-18T19:52:28+00:00"
   },
   {
    "name": "Zerodha",
@@ -2405,7 +2476,7 @@
    "status": "ok",
    "count": 0,
    "error": "",
-   "checked_at": "2026-11-18T05:19:12+00:00"
+   "checked_at": "2026-11-18T19:52:28+00:00"
   },
   {
    "name": "Meesho",
@@ -2416,7 +2487,7 @@
    "status": "ok",
    "count": 0,
    "error": "",
-   "checked_at": "2026-11-18T05:19:12+00:00"
+   "checked_at": "2026-11-18T19:52:28+00:00"
   },
   {
    "name": "Paytm",
@@ -2427,7 +2498,7 @@
    "status": "ok",
    "count": 0,
    "error": "",
-   "checked_at": "2026-11-18T05:19:12+00:00"
+   "checked_at": "2026-11-18T19:52:28+00:00"
   },
   {
    "name": "Slice",
@@ -2438,7 +2509,7 @@
    "status": "ok",
    "count": 0,
    "error": "",
-   "checked_at": "2026-11-18T05:19:12+00:00"
+   "checked_at": "2026-11-18T19:52:28+00:00"
   },
   {
    "name": "Jupiter",
@@ -2449,7 +2520,7 @@
    "status": "ok",
    "count": 0,
    "error": "",
-   "checked_at": "2026-11-18T05:19:12+00:00"
+   "checked_at": "2026-11-18T19:52:28+00:00"
   },
   {
    "name": "Zepto",
@@ -2460,7 +2531,7 @@
    "status": "failed",
    "count": 0,
    "error": " | browser: page showed no job list (needs a custom scraper) ",
-   "checked_at": "2026-11-18T05:19:12+00:00"
+   "checked_at": "2026-11-18T19:52:28+00:00"
   },
   {
    "name": "Dream11",
@@ -2471,7 +2542,7 @@
    "status": "ok",
    "count": 0,
    "error": "",
-   "checked_at": "2026-11-18T05:19:12+00:00"
+   "checked_at": "2026-11-18T19:52:28+00:00"
   },
   {
    "name": "Juspay",
@@ -2482,7 +2553,7 @@
    "status": "ok",
    "count": 0,
    "error": "",
-   "checked_at": "2026-11-18T05:19:12+00:00"
+   "checked_at": "2026-11-18T19:52:28+00:00"
   },
   {
    "name": "Cars24",
@@ -2493,7 +2564,7 @@
    "status": "ok",
    "count": 0,
    "error": "",
-   "checked_at": "2026-11-18T05:19:12+00:00"
+   "checked_at": "2026-11-18T19:52:28+00:00"
   },
   {
    "name": "Urban Company",
@@ -2504,18 +2575,18 @@
    "status": "ok",
    "count": 0,
    "error": "",
-   "checked_at": "2026-11-18T05:19:12+00:00"
+   "checked_at": "2026-11-18T19:52:28+00:00"
   },
   {
    "name": "PhysicsWallah",
    "type": "Startup",
    "url": "https://www.pw.live/careers",
    "system": "",
-   "method": "",
-   "status": "failed",
+   "method": "page",
+   "status": "ok",
    "count": 0,
-   "error": " | browser: page showed no job list (needs a custom scraper) ",
-   "checked_at": "2026-11-18T05:19:12+00:00"
+   "error": "",
+   "checked_at": "2026-11-18T19:52:28+00:00"
   },
   {
    "name": "Lenskart",
@@ -2526,7 +2597,7 @@
    "status": "ok",
    "count": 0,
    "error": "",
-   "checked_at": "2026-11-18T05:19:12+00:00"
+   "checked_at": "2026-11-18T19:52:28+00:00"
   },
   {
    "name": "Nykaa",
@@ -2537,7 +2608,7 @@
    "status": "failed",
    "count": 0,
    "error": " | browser: Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.nykaa.com/careers\nCall log:\n  - navigating to \"https://www.nykaa.com/careers\", waiting until \"domcontentloaded\"\n",
-   "checked_at": "2026-11-18T05:19:12+00:00"
+   "checked_at": "2026-11-18T19:52:28+00:00"
   },
   {
    "name": "BharatPe",
@@ -2548,7 +2619,7 @@
    "status": "ok",
    "count": 0,
    "error": "",
-   "checked_at": "2026-11-18T05:19:12+00:00"
+   "checked_at": "2026-11-18T19:52:28+00:00"
   },
   {
    "name": "Navi",
@@ -2559,7 +2630,7 @@
    "status": "failed",
    "count": 0,
    "error": " | browser: page showed no job list (needs a custom scraper) ",
-   "checked_at": "2026-11-18T05:19:12+00:00"
+   "checked_at": "2026-11-18T19:52:28+00:00"
   },
   {
    "name": "ShareChat",
@@ -2570,7 +2641,7 @@
    "status": "ok",
    "count": 0,
    "error": "",
-   "checked_at": "2026-11-18T05:19:12+00:00"
+   "checked_at": "2026-11-18T19:52:28+00:00"
   }
  ]
 }
