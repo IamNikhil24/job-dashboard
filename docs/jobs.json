@@ -1,6 +1,20 @@
 {
- "generated_at": "2026-11-24T21:45:58+00:00",
+ "generated_at": "2026-11-25T06:12:12+00:00",
  "jobs": [
+  {
+   "id": "2c7166ee08c0",
+   "company": "PayPal",
+   "type": "Bank & Finance",
+   "title": "Software Engineer, Web",
+   "location": "Software Engineer, Web\nBangalore, Karnataka, India + 1 more\nSoftware Engineering\nPosted 6 hours ago",
+   "city": "Bengaluru",
+   "exp": "Not stated",
+   "url": "https://paypal.eightfold.ai/careers/job/274923420765",
+   "ext_id": "al.eightfold.ai/careers/job/274923420765",
+   "desc": "",
+   "keywords": [],
+   "first_seen": "2026-11-25T06:12:12+00:00"
+  },
   {
    "id": "0cc98bcde872",
    "company": "Amazon",
@@ -72,48 +86,6 @@
    "first_seen": "2026-11-24T07:41:24+00:00"
   },
   {
-   "id": "d2e987a0b4d4",
-   "company": "Micron",
-   "type": "GCC",
-   "title": "Associate Engineer, IT Eng System Mgr",
-   "location": "Hyderabad - Phoenix Aquila, India",
-   "city": "Hyderabad",
-   "exp": "Not stated",
-   "url": "https://micron.wd1.myworkdayjobs.com/External/job/Hyderabad---Phoenix-Aquila-India/Associate-Engineer--IT-Eng-System-Mgr_JR112672",
-   "ext_id": "/job/Hyderabad---Phoenix-Aquila-India/Associate-Engineer--IT-Eng-System-Mgr_JR112672",
-   "desc": "",
-   "keywords": [],
-   "first_seen": "2026-11-24T07:41:24+00:00"
-  },
-  {
-   "id": "9f389e2a9484",
-   "company": "Micron",
-   "type": "GCC",
-   "title": "PDE CEM Graduate Engineering Technician",
-   "location": "Sanand - 303A - AT/SSD/MOD, India",
-   "city": "",
-   "exp": "Not stated",
-   "url": "https://micron.wd1.myworkdayjobs.com/External/job/Sanand---303A---ATSSDMOD-India/PDE-CEM-Graduate-Engineering-Technician_JR105741",
-   "ext_id": "/job/Sanand---303A---ATSSDMOD-India/PDE-CEM-Graduate-Engineering-Technician_JR105741",
-   "desc": "",
-   "keywords": [],
-   "first_seen": "2026-11-24T07:41:24+00:00"
-  },
-  {
-   "id": "d410adac6229",
-   "company": "Micron",
-   "type": "GCC",
-   "title": "Software Engineer - IT Enterprise Applications",
-   "location": "Hyderabad - Phoenix Aquila, India",
-   "city": "Hyderabad",
-   "exp": "Not stated",
-   "url": "https://micron.wd1.myworkdayjobs.com/External/job/Hyderabad---Phoenix-Aquila-India/Software-Engineer---IT-Enterprise-Applications_JR112270",
-   "ext_id": "/job/Hyderabad---Phoenix-Aquila-India/Software-Engineer---IT-Enterprise-Applications_JR112270",
-   "desc": "",
-   "keywords": [],
-   "first_seen": "2026-11-24T07:41:24+00:00"
-  },
-  {
    "id": "ee9e80b2ecad",
    "company": "ServiceNow",
    "type": "GCC",
@@ -167,264 +139,6 @@
     "Data Structures"
    ],
    "first_seen": "2026-11-23T04:52:11+00:00"
-  },
-  {
-   "id": "6173b889a6bd",
-   "company": "Intel",
-   "type": "GCC",
-   "title": "System Debug Software Engineer",
-   "location": "India, Bangalore",
-   "city": "Bengaluru",
-   "exp": "Not stated",
-   "url": "https://intel.wd1.myworkdayjobs.com/External/job/India-Bangalore/System-Debug-Software-Engineer_JR0289184",
-   "ext_id": "/job/India-Bangalore/System-Debug-Software-Engineer_JR0289184",
-   "desc": "",
-   "keywords": [],
-   "first_seen": "2026-11-22T18:52:08+00:00"
-  },
-  {
-   "id": "0cfb91c49a2c",
-   "company": "Intel",
-   "type": "GCC",
-   "title": "Linux System Software Engineer",
-   "location": "India, Bangalore",
-   "city": "Bengaluru",
-   "exp": "Not stated",
-   "url": "https://intel.wd1.myworkdayjobs.com/External/job/India-Bangalore/Linux-System-Software-Engineer_JR0289180",
-   "ext_id": "/job/India-Bangalore/Linux-System-Software-Engineer_JR0289180",
-   "desc": "",
-   "keywords": [
-    "Linux"
-   ],
-   "first_seen": "2026-11-22T18:52:08+00:00"
-  },
-  {
-   "id": "dc95eb74c83d",
-   "company": "Intel",
-   "type": "GCC",
-   "title": "Cloud Software Development Engineer",
-   "location": "India, Bangalore",
-   "city": "Bengaluru",
-   "exp": "Not stated",
-   "url": "https://intel.wd1.myworkdayjobs.com/External/job/India-Bangalore/Cloud-Software-Development-Engineer_JR0287692",
-   "ext_id": "/job/India-Bangalore/Cloud-Software-Development-Engineer_JR0287692",
-   "desc": "",
-   "keywords": [],
-   "first_seen": "2026-11-22T18:52:08+00:00"
-  },
-  {
-   "id": "033389849db8",
-   "company": "Intel",
-   "type": "GCC",
-   "title": "Cloud Software Development Engineer",
-   "location": "India, Bangalore",
-   "city": "Bengaluru",
-   "exp": "Not stated",
-   "url": "https://intel.wd1.myworkdayjobs.com/External/job/India-Bangalore/Cloud-Software-Development-Engineer_JR0287694",
-   "ext_id": "/job/India-Bangalore/Cloud-Software-Development-Engineer_JR0287694",
-   "desc": "",
-   "keywords": [],
-   "first_seen": "2026-11-22T18:52:08+00:00"
-  },
-  {
-   "id": "1014f12a3773",
-   "company": "Intel",
-   "type": "GCC",
-   "title": "GPU Software Development Engineer",
-   "location": "India, Bangalore",
-   "city": "Bengaluru",
-   "exp": "Not stated",
-   "url": "https://intel.wd1.myworkdayjobs.com/External/job/India-Bangalore/GPU-Software-Development-Engineer_JR0287726",
-   "ext_id": "/job/India-Bangalore/GPU-Software-Development-Engineer_JR0287726",
-   "desc": "",
-   "keywords": [],
-   "first_seen": "2026-11-22T18:52:08+00:00"
-  },
-  {
-   "id": "5b83d058cfed",
-   "company": "Intel",
-   "type": "GCC",
-   "title": "GPU Software Development Engineer",
-   "location": "India, Bangalore",
-   "city": "Bengaluru",
-   "exp": "Not stated",
-   "url": "https://intel.wd1.myworkdayjobs.com/External/job/India-Bangalore/GPU-Software-Development-Engineer_JR0287724",
-   "ext_id": "/job/India-Bangalore/GPU-Software-Development-Engineer_JR0287724",
-   "desc": "",
-   "keywords": [],
-   "first_seen": "2026-11-22T18:52:08+00:00"
-  },
-  {
-   "id": "6173b889a6bd",
-   "company": "Intel",
-   "type": "GCC",
-   "title": "System Debug Software Engineer",
-   "location": "India, Bangalore",
-   "city": "Bengaluru",
-   "exp": "Not stated",
-   "url": "https://intel.wd1.myworkdayjobs.com/External/job/India-Bangalore/System-Debug-Software-Engineer_JR0289184",
-   "ext_id": "/job/India-Bangalore/System-Debug-Software-Engineer_JR0289184",
-   "desc": "",
-   "keywords": [],
-   "first_seen": "2026-11-22T18:52:08+00:00"
-  },
-  {
-   "id": "0cfb91c49a2c",
-   "company": "Intel",
-   "type": "GCC",
-   "title": "Linux System Software Engineer",
-   "location": "India, Bangalore",
-   "city": "Bengaluru",
-   "exp": "Not stated",
-   "url": "https://intel.wd1.myworkdayjobs.com/External/job/India-Bangalore/Linux-System-Software-Engineer_JR0289180",
-   "ext_id": "/job/India-Bangalore/Linux-System-Software-Engineer_JR0289180",
-   "desc": "",
-   "keywords": [
-    "Linux"
-   ],
-   "first_seen": "2026-11-22T18:52:08+00:00"
-  },
-  {
-   "id": "dc95eb74c83d",
-   "company": "Intel",
-   "type": "GCC",
-   "title": "Cloud Software Development Engineer",
-   "location": "India, Bangalore",
-   "city": "Bengaluru",
-   "exp": "Not stated",
-   "url": "https://intel.wd1.myworkdayjobs.com/External/job/India-Bangalore/Cloud-Software-Development-Engineer_JR0287692",
-   "ext_id": "/job/India-Bangalore/Cloud-Software-Development-Engineer_JR0287692",
-   "desc": "",
-   "keywords": [],
-   "first_seen": "2026-11-22T18:52:08+00:00"
-  },
-  {
-   "id": "033389849db8",
-   "company": "Intel",
-   "type": "GCC",
-   "title": "Cloud Software Development Engineer",
-   "location": "India, Bangalore",
-   "city": "Bengaluru",
-   "exp": "Not stated",
-   "url": "https://intel.wd1.myworkdayjobs.com/External/job/India-Bangalore/Cloud-Software-Development-Engineer_JR0287694",
-   "ext_id": "/job/India-Bangalore/Cloud-Software-Development-Engineer_JR0287694",
-   "desc": "",
-   "keywords": [],
-   "first_seen": "2026-11-22T18:52:08+00:00"
-  },
-  {
-   "id": "1014f12a3773",
-   "company": "Intel",
-   "type": "GCC",
-   "title": "GPU Software Development Engineer",
-   "location": "India, Bangalore",
-   "city": "Bengaluru",
-   "exp": "Not stated",
-   "url": "https://intel.wd1.myworkdayjobs.com/External/job/India-Bangalore/GPU-Software-Development-Engineer_JR0287726",
-   "ext_id": "/job/India-Bangalore/GPU-Software-Development-Engineer_JR0287726",
-   "desc": "",
-   "keywords": [],
-   "first_seen": "2026-11-22T18:52:08+00:00"
-  },
-  {
-   "id": "5b83d058cfed",
-   "company": "Intel",
-   "type": "GCC",
-   "title": "GPU Software Development Engineer",
-   "location": "India, Bangalore",
-   "city": "Bengaluru",
-   "exp": "Not stated",
-   "url": "https://intel.wd1.myworkdayjobs.com/External/job/India-Bangalore/GPU-Software-Development-Engineer_JR0287724",
-   "ext_id": "/job/India-Bangalore/GPU-Software-Development-Engineer_JR0287724",
-   "desc": "",
-   "keywords": [],
-   "first_seen": "2026-11-22T18:52:08+00:00"
-  },
-  {
-   "id": "6173b889a6bd",
-   "company": "Intel",
-   "type": "GCC",
-   "title": "System Debug Software Engineer",
-   "location": "India, Bangalore",
-   "city": "Bengaluru",
-   "exp": "Not stated",
-   "url": "https://intel.wd1.myworkdayjobs.com/External/job/India-Bangalore/System-Debug-Software-Engineer_JR0289184",
-   "ext_id": "/job/India-Bangalore/System-Debug-Software-Engineer_JR0289184",
-   "desc": "",
-   "keywords": [],
-   "first_seen": "2026-11-22T18:52:08+00:00"
-  },
-  {
-   "id": "0cfb91c49a2c",
-   "company": "Intel",
-   "type": "GCC",
-   "title": "Linux System Software Engineer",
-   "location": "India, Bangalore",
-   "city": "Bengaluru",
-   "exp": "Not stated",
-   "url": "https://intel.wd1.myworkdayjobs.com/External/job/India-Bangalore/Linux-System-Software-Engineer_JR0289180",
-   "ext_id": "/job/India-Bangalore/Linux-System-Software-Engineer_JR0289180",
-   "desc": "",
-   "keywords": [
-    "Linux"
-   ],
-   "first_seen": "2026-11-22T18:52:08+00:00"
-  },
-  {
-   "id": "dc95eb74c83d",
-   "company": "Intel",
-   "type": "GCC",
-   "title": "Cloud Software Development Engineer",
-   "location": "India, Bangalore",
-   "city": "Bengaluru",
-   "exp": "Not stated",
-   "url": "https://intel.wd1.myworkdayjobs.com/External/job/India-Bangalore/Cloud-Software-Development-Engineer_JR0287692",
-   "ext_id": "/job/India-Bangalore/Cloud-Software-Development-Engineer_JR0287692",
-   "desc": "",
-   "keywords": [],
-   "first_seen": "2026-11-22T18:52:08+00:00"
-  },
-  {
-   "id": "033389849db8",
-   "company": "Intel",
-   "type": "GCC",
-   "title": "Cloud Software Development Engineer",
-   "location": "India, Bangalore",
-   "city": "Bengaluru",
-   "exp": "Not stated",
-   "url": "https://intel.wd1.myworkdayjobs.com/External/job/India-Bangalore/Cloud-Software-Development-Engineer_JR0287694",
-   "ext_id": "/job/India-Bangalore/Cloud-Software-Development-Engineer_JR0287694",
-   "desc": "",
-   "keywords": [],
-   "first_seen": "2026-11-22T18:52:08+00:00"
-  },
-  {
-   "id": "1014f12a3773",
-   "company": "Intel",
-   "type": "GCC",
-   "title": "GPU Software Development Engineer",
-   "location": "India, Bangalore",
-   "city": "Bengaluru",
-   "exp": "Not stated",
-   "url": "https://intel.wd1.myworkdayjobs.com/External/job/India-Bangalore/GPU-Software-Development-Engineer_JR0287726",
-   "ext_id": "/job/India-Bangalore/GPU-Software-Development-Engineer_JR0287726",
-   "desc": "",
-   "keywords": [],
-   "first_seen": "2026-11-22T18:52:08+00:00"
-  },
-  {
-   "id": "5b83d058cfed",
-   "company": "Intel",
-   "type": "GCC",
-   "title": "GPU Software Development Engineer",
-   "location": "India, Bangalore",
-   "city": "Bengaluru",
-   "exp": "Not stated",
-   "url": "https://intel.wd1.myworkdayjobs.com/External/job/India-Bangalore/GPU-Software-Development-Engineer_JR0287724",
-   "ext_id": "/job/India-Bangalore/GPU-Software-Development-Engineer_JR0287724",
-   "desc": "",
-   "keywords": [],
-   "first_seen": "2026-11-22T18:52:08+00:00"
   },
   {
    "id": "44aac30b384e",
@@ -1035,6 +749,34 @@
    "first_seen": "2026-11-14T12:37:50+00:00"
   },
   {
+   "id": "6ed996f8649e",
+   "company": "Amazon",
+   "type": "GCC",
+   "title": "Software Development Engineer, ESI",
+   "location": "IN, TS, Hyderabad",
+   "city": "Hyderabad",
+   "exp": "2+ yrs",
+   "url": "https://www.amazon.jobs/en/jobs/10601866/software-development-engineer-esi",
+   "ext_id": "10601866",
+   "desc": "- 3+ years of non-internship professional software development experience - 2+ years of non-internship design or architecture (design patterns, reliability and scaling) of new and existing systems experience - Experience programming with at least one software programming language The Amazon Business team is looking for candidates who are passionate about delivering an amazing experience to our international business customers. We focus on merging the customer experience, selection,",
+   "keywords": [],
+   "first_seen": "2026-11-14T12:37:50+00:00"
+  },
+  {
+   "id": "85c49f49c11c",
+   "company": "Amazon",
+   "type": "GCC",
+   "title": "Software Development Engineer I",
+   "location": "IN, TS, Hyderabad",
+   "city": "Hyderabad",
+   "exp": "1+ yrs",
+   "url": "https://www.amazon.jobs/en/jobs/10580008/software-development-engineer-i",
+   "ext_id": "10580008",
+   "desc": "- 1+ years of non-internship professional software development experience - Experience programming with at least one software programming language Are you a software engineer who is excited about writing clean, well-tested code that ships to production and impacts millions of customers? At Amazon, you will have the opportunity to build software that",
+   "keywords": [],
+   "first_seen": "2026-11-14T12:37:50+00:00"
+  },
+  {
    "id": "7898debab9fc",
    "company": "Amazon",
    "type": "GCC",
@@ -1073,48 +815,6 @@
    "url": "https://www.amazon.jobs/en/jobs/10554323/software-development-engineer-amazon",
    "ext_id": "10554323",
    "desc": "- 3+ years of non-internship professional software development experience - 2+ years of non-internship design or architecture (design patterns, reliability and scaling) of new and existing systems experience - Experience programming with at least one software programming language The Amazon Purchase Experience team is seeking a full stack software development engineer with a passion for engineering excellence. We offer you the opportunity to deliver and lead high visibility & high-impact",
-   "keywords": [],
-   "first_seen": "2026-11-14T12:37:50+00:00"
-  },
-  {
-   "id": "6ed996f8649e",
-   "company": "Amazon",
-   "type": "GCC",
-   "title": "Software Development Engineer, ESI",
-   "location": "IN, TS, Hyderabad",
-   "city": "Hyderabad",
-   "exp": "2+ yrs",
-   "url": "https://www.amazon.jobs/en/jobs/10601866/software-development-engineer-esi",
-   "ext_id": "10601866",
-   "desc": "- 3+ years of non-internship professional software development experience - 2+ years of non-internship design or architecture (design patterns, reliability and scaling) of new and existing systems experience - Experience programming with at least one software programming language The Amazon Business team is looking for candidates who are passionate about delivering an amazing experience to our international business customers. We focus on merging the customer experience, selection,",
-   "keywords": [],
-   "first_seen": "2026-11-14T12:37:50+00:00"
-  },
-  {
-   "id": "85c49f49c11c",
-   "company": "Amazon",
-   "type": "GCC",
-   "title": "Software Development Engineer I",
-   "location": "IN, TS, Hyderabad",
-   "city": "Hyderabad",
-   "exp": "1+ yrs",
-   "url": "https://www.amazon.jobs/en/jobs/10580008/software-development-engineer-i",
-   "ext_id": "10580008",
-   "desc": "- 1+ years of non-internship professional software development experience - Experience programming with at least one software programming language Are you a software engineer who is excited about writing clean, well-tested code that ships to production and impacts millions of customers? At Amazon, you will have the opportunity to build software that",
-   "keywords": [],
-   "first_seen": "2026-11-14T12:37:50+00:00"
-  },
-  {
-   "id": "2228f6dadc15",
-   "company": "Amazon",
-   "type": "GCC",
-   "title": "Software Development Engineer, ESI",
-   "location": "IN, TS, Hyderabad",
-   "city": "Hyderabad",
-   "exp": "2+ yrs",
-   "url": "https://www.amazon.jobs/en/jobs/10601876/software-development-engineer-esi",
-   "ext_id": "10601876",
-   "desc": "- 3+ years of non-internship professional software development experience - 2+ years of non-internship design or architecture (design patterns, reliability and scaling) of new and existing systems experience - 3+ years of Video Games Industry (supporting title Development, Release, or Live Ops) experience - Experience programming with at least one software programming language The Amazon Business team is looking for candidates who are passionate about delivering an amazing experience to our international business customers. We focus on merging the customer experience, selection,",
    "keywords": [],
    "first_seen": "2026-11-14T12:37:50+00:00"
   },
@@ -1406,6 +1106,38 @@
    "first_seen": "2026-11-14T12:37:50+00:00"
   },
   {
+   "id": "235ef17d24de",
+   "company": "Amazon",
+   "type": "GCC",
+   "title": "Software Development Engineer, SW-Device OS",
+   "location": "IN, KA, Bengaluru",
+   "city": "Bengaluru",
+   "exp": "2+ yrs",
+   "url": "https://www.amazon.jobs/en/jobs/10605092/software-development-engineer-sw-device-os",
+   "ext_id": "10605092",
+   "desc": "- 3+ years of non-internship professional software development experience - 2+ years of non-internship design or architecture (design patterns, reliability and scaling) of new and existing systems experience - Experience programming with at least one software programming language Amazon Lab126 is an inventive research and development company that designs and engineers high-profile consumer electronics. Lab126 began in 2004 as a subsidiary of Amazon.com, Inc., originally creating",
+   "keywords": [],
+   "first_seen": "2026-11-14T12:37:50+00:00"
+  },
+  {
+   "id": "0a2465e29a14",
+   "company": "Amazon",
+   "type": "GCC",
+   "title": "Software Development Engineer, Time & Pay Innovation",
+   "location": "IN, TS, Hyderabad",
+   "city": "Hyderabad",
+   "exp": "1+ yrs",
+   "url": "https://www.amazon.jobs/en/jobs/10561007/software-development-engineer-time-pay-innovation",
+   "ext_id": "10561007",
+   "desc": "- 3+ years of non-internship professional software development experience - 2+ years of non-internship design or architecture (design patterns, reliability and scaling) of new and existing systems experience - 1+ years of software development engineer or related occupational experience - 1+ years of designing and developing large-scale, multi-tiered, multi-threaded, embedded or distributed software applications, tools, systems, and services using: C#, C++, Java, or Perl experience - 1+ years of Object Oriented Design experience - Bachelor's degree or foreign equivalent in Computer Science, Engineering, Mathematics, or a related field - Experience programming with at least one software programming language Amazon is one of the largest employers on the planet with hundreds of thousands of employees across the globe. Come join us in our journey to deliver solutions for one of the most complex domains in People",
+   "keywords": [
+    "Java",
+    "C++",
+    "C#"
+   ],
+   "first_seen": "2026-11-14T12:37:50+00:00"
+  },
+  {
    "id": "9b34af6264b1",
    "company": "Amazon",
    "type": "GCC",
@@ -1473,38 +1205,6 @@
    "ext_id": "10381000",
    "desc": "- 3+ years of non-internship professional software development experience - 2+ years of non-internship design or architecture (design patterns, reliability and scaling) of new and existing systems experience - 3+ years of building complex software systems experience - Experience programming with at least one software programming language “WARNING: Choking Hazard — small parts. Not for children under 3 years.”“WARNING: This product can expose you to chemicals including antimony trioxide, which are known to cause cancer or birth defects",
    "keywords": [],
-   "first_seen": "2026-11-14T12:37:50+00:00"
-  },
-  {
-   "id": "235ef17d24de",
-   "company": "Amazon",
-   "type": "GCC",
-   "title": "Software Development Engineer, SW-Device OS",
-   "location": "IN, KA, Bengaluru",
-   "city": "Bengaluru",
-   "exp": "2+ yrs",
-   "url": "https://www.amazon.jobs/en/jobs/10605092/software-development-engineer-sw-device-os",
-   "ext_id": "10605092",
-   "desc": "- 3+ years of non-internship professional software development experience - 2+ years of non-internship design or architecture (design patterns, reliability and scaling) of new and existing systems experience - Experience programming with at least one software programming language Amazon Lab126 is an inventive research and development company that designs and engineers high-profile consumer electronics. Lab126 began in 2004 as a subsidiary of Amazon.com, Inc., originally creating",
-   "keywords": [],
-   "first_seen": "2026-11-14T12:37:50+00:00"
-  },
-  {
-   "id": "0a2465e29a14",
-   "company": "Amazon",
-   "type": "GCC",
-   "title": "Software Development Engineer, Time & Pay Innovation",
-   "location": "IN, TS, Hyderabad",
-   "city": "Hyderabad",
-   "exp": "1+ yrs",
-   "url": "https://www.amazon.jobs/en/jobs/10561007/software-development-engineer-time-pay-innovation",
-   "ext_id": "10561007",
-   "desc": "- 3+ years of non-internship professional software development experience - 2+ years of non-internship design or architecture (design patterns, reliability and scaling) of new and existing systems experience - 1+ years of software development engineer or related occupational experience - 1+ years of designing and developing large-scale, multi-tiered, multi-threaded, embedded or distributed software applications, tools, systems, and services using: C#, C++, Java, or Perl experience - 1+ years of Object Oriented Design experience - Bachelor's degree or foreign equivalent in Computer Science, Engineering, Mathematics, or a related field - Experience programming with at least one software programming language Amazon is one of the largest employers on the planet with hundreds of thousands of employees across the globe. Come join us in our journey to deliver solutions for one of the most complex domains in People",
-   "keywords": [
-    "Java",
-    "C++",
-    "C#"
-   ],
    "first_seen": "2026-11-14T12:37:50+00:00"
   },
   {
@@ -1713,11 +1413,11 @@
    "type": "Bank & Finance",
    "url": "https://higher.gs.com/roles",
    "system": "",
-   "method": "page",
-   "status": "ok",
+   "method": "",
+   "status": "failed",
    "count": 0,
-   "error": "",
-   "checked_at": "2026-11-24T21:45:58+00:00"
+   "error": " | browser: page showed no job list (needs a custom scraper) ",
+   "checked_at": "2026-11-25T06:12:12+00:00"
   },
   {
    "name": "JPMorgan Chase",
@@ -1728,7 +1428,7 @@
    "status": "ok",
    "count": 0,
    "error": "",
-   "checked_at": "2026-11-24T21:45:58+00:00"
+   "checked_at": "2026-11-25T06:12:12+00:00"
   },
   {
    "name": "Morgan Stanley",
@@ -1739,7 +1439,7 @@
    "status": "failed",
    "count": 0,
    "error": "eightfold: HTTP 403 '{\"message\": \"Not authorized for PCSX\"}\\n' | browser: Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.morganstanley.com/careers/career-opportunities-search\nCall log:\n  - navigating to \"https://www.morganstanley.com/careers/career-op",
-   "checked_at": "2026-11-24T21:45:58+00:00"
+   "checked_at": "2026-11-25T06:12:12+00:00"
   },
   {
    "name": "Citi",
@@ -1750,7 +1450,7 @@
    "status": "ok",
    "count": 0,
    "error": "",
-   "checked_at": "2026-11-24T21:45:58+00:00"
+   "checked_at": "2026-11-25T06:12:12+00:00"
   },
   {
    "name": "Deutsche Bank",
@@ -1761,7 +1461,7 @@
    "status": "ok",
    "count": 0,
    "error": "",
-   "checked_at": "2026-11-24T21:45:58+00:00"
+   "checked_at": "2026-11-25T06:12:12+00:00"
   },
   {
    "name": "Barclays",
@@ -1772,7 +1472,7 @@
    "status": "ok",
    "count": 0,
    "error": "",
-   "checked_at": "2026-11-24T21:45:58+00:00"
+   "checked_at": "2026-11-25T06:12:12+00:00"
   },
   {
    "name": "HSBC",
@@ -1783,7 +1483,7 @@
    "status": "ok",
    "count": 0,
    "error": "",
-   "checked_at": "2026-11-24T21:45:58+00:00"
+   "checked_at": "2026-11-25T06:12:12+00:00"
   },
   {
    "name": "Wells Fargo",
@@ -1794,7 +1494,7 @@
    "status": "ok",
    "count": 0,
    "error": "",
-   "checked_at": "2026-11-24T21:45:58+00:00"
+   "checked_at": "2026-11-25T06:12:12+00:00"
   },
   {
    "name": "Standard Chartered",
@@ -1805,7 +1505,7 @@
    "status": "ok",
    "count": 0,
    "error": "",
-   "checked_at": "2026-11-24T21:45:58+00:00"
+   "checked_at": "2026-11-25T06:12:12+00:00"
   },
   {
    "name": "BNY",
@@ -1816,7 +1516,7 @@
    "status": "ok",
    "count": 13,
    "error": "",
-   "checked_at": "2026-11-24T21:45:58+00:00"
+   "checked_at": "2026-11-25T06:12:12+00:00"
   },
   {
    "name": "State Street",
@@ -1827,7 +1527,7 @@
    "status": "ok",
    "count": 0,
    "error": "",
-   "checked_at": "2026-11-24T21:45:58+00:00"
+   "checked_at": "2026-11-25T06:12:12+00:00"
   },
   {
    "name": "Fidelity Investments",
@@ -1838,18 +1538,18 @@
    "status": "ok",
    "count": 0,
    "error": "",
-   "checked_at": "2026-11-24T21:45:58+00:00"
+   "checked_at": "2026-11-25T06:12:12+00:00"
   },
   {
    "name": "Capital One",
    "type": "Bank & Finance",
    "url": "https://www.capitalonecareers.com/",
    "system": "workday",
-   "method": "page",
+   "method": "feed",
    "status": "ok",
    "count": 0,
    "error": "",
-   "checked_at": "2026-11-24T21:45:58+00:00"
+   "checked_at": "2026-11-25T06:12:12+00:00"
   },
   {
    "name": "American Express",
@@ -1860,7 +1560,7 @@
    "status": "failed",
    "count": 0,
    "error": "eightfold: HTTP 404 '<!DOCTYPE html>\\n<html lang=\"en\">\\n\\n  <head>\\n    <meta charset=\"utf-8\">\\n' | eightfold: HTTP 404 '<!DOCTYPE html>\\n<html lang=\"en\">\\n\\n  <head>\\n    <meta charset=\"utf-8\">\\n' | browser: page showed no job list (needs a custom scraper) ei",
-   "checked_at": "2026-11-24T21:45:58+00:00"
+   "checked_at": "2026-11-25T06:12:12+00:00"
   },
   {
    "name": "Visa",
@@ -1871,7 +1571,7 @@
    "status": "ok",
    "count": 0,
    "error": "",
-   "checked_at": "2026-11-24T21:45:58+00:00"
+   "checked_at": "2026-11-25T06:12:12+00:00"
   },
   {
    "name": "Mastercard",
@@ -1882,7 +1582,7 @@
    "status": "ok",
    "count": 0,
    "error": "",
-   "checked_at": "2026-11-24T21:45:58+00:00"
+   "checked_at": "2026-11-25T06:12:12+00:00"
   },
   {
    "name": "PayPal",
@@ -1891,9 +1591,9 @@
    "system": "eightfold",
    "method": "page",
    "status": "ok",
-   "count": 1,
+   "count": 2,
    "error": "",
-   "checked_at": "2026-11-24T21:45:58+00:00"
+   "checked_at": "2026-11-25T06:12:12+00:00"
   },
   {
    "name": "HDFC Bank",
@@ -1904,7 +1604,7 @@
    "status": "ok",
    "count": 0,
    "error": "",
-   "checked_at": "2026-11-24T21:45:58+00:00"
+   "checked_at": "2026-11-25T06:12:12+00:00"
   },
   {
    "name": "ICICI Bank",
@@ -1915,7 +1615,7 @@
    "status": "ok",
    "count": 0,
    "error": "",
-   "checked_at": "2026-11-24T21:45:58+00:00"
+   "checked_at": "2026-11-25T06:12:12+00:00"
   },
   {
    "name": "Axis Bank",
@@ -1926,7 +1626,7 @@
    "status": "ok",
    "count": 0,
    "error": "",
-   "checked_at": "2026-11-24T21:45:58+00:00"
+   "checked_at": "2026-11-25T06:12:12+00:00"
   },
   {
    "name": "Kotak Mahindra Bank",
@@ -1937,7 +1637,7 @@
    "status": "ok",
    "count": 0,
    "error": "",
-   "checked_at": "2026-11-24T21:45:58+00:00"
+   "checked_at": "2026-11-25T06:12:12+00:00"
   },
   {
    "name": "Bajaj Finserv",
@@ -1948,7 +1648,7 @@
    "status": "failed",
    "count": 0,
    "error": " | browser: page showed no job list (needs a custom scraper) ",
-   "checked_at": "2026-11-24T21:45:58+00:00"
+   "checked_at": "2026-11-25T06:12:12+00:00"
   },
   {
    "name": "Microsoft",
@@ -1959,7 +1659,7 @@
    "status": "ok",
    "count": 0,
    "error": "",
-   "checked_at": "2026-11-24T21:45:58+00:00"
+   "checked_at": "2026-11-25T06:12:12+00:00"
   },
   {
    "name": "Amazon",
@@ -1968,9 +1668,9 @@
    "system": "amazon",
    "method": "feed",
    "status": "ok",
-   "count": 53,
+   "count": 52,
    "error": "",
-   "checked_at": "2026-11-24T21:45:58+00:00"
+   "checked_at": "2026-11-25T06:12:12+00:00"
   },
   {
    "name": "Google",
@@ -1981,7 +1681,7 @@
    "status": "ok",
    "count": 7,
    "error": "",
-   "checked_at": "2026-11-24T21:45:58+00:00"
+   "checked_at": "2026-11-25T06:12:12+00:00"
   },
   {
    "name": "Walmart Global Tech",
@@ -1992,7 +1692,7 @@
    "status": "ok",
    "count": 0,
    "error": "",
-   "checked_at": "2026-11-24T21:45:58+00:00"
+   "checked_at": "2026-11-25T06:12:12+00:00"
   },
   {
    "name": "Target",
@@ -2003,7 +1703,7 @@
    "status": "ok",
    "count": 0,
    "error": "",
-   "checked_at": "2026-11-24T21:45:58+00:00"
+   "checked_at": "2026-11-25T06:12:12+00:00"
   },
   {
    "name": "Lowe's",
@@ -2014,7 +1714,7 @@
    "status": "ok",
    "count": 0,
    "error": "",
-   "checked_at": "2026-11-24T21:45:58+00:00"
+   "checked_at": "2026-11-25T06:12:12+00:00"
   },
   {
    "name": "Intuit",
@@ -2025,18 +1725,18 @@
    "status": "ok",
    "count": 1,
    "error": "",
-   "checked_at": "2026-11-24T21:45:58+00:00"
+   "checked_at": "2026-11-25T06:12:12+00:00"
   },
   {
    "name": "Adobe",
    "type": "GCC",
    "url": "https://careers.adobe.com/",
    "system": "workday",
-   "method": "page",
+   "method": "feed",
    "status": "ok",
    "count": 0,
    "error": "",
-   "checked_at": "2026-11-24T21:45:58+00:00"
+   "checked_at": "2026-11-25T06:12:12+00:00"
   },
   {
    "name": "Salesforce",
@@ -2047,7 +1747,7 @@
    "status": "failed",
    "count": 8,
    "error": "workday: HTTP 429 '<!DOCTYPE html>\\n<html>\\n\\n<head>\\n    <style>\\n        body {\\n            ' | browser: page showed no job list (needs a custom scraper) ",
-   "checked_at": "2026-11-24T21:45:58+00:00"
+   "checked_at": "2026-11-25T06:12:12+00:00"
   },
   {
    "name": "Oracle",
@@ -2058,7 +1758,7 @@
    "status": "ok",
    "count": 0,
    "error": "",
-   "checked_at": "2026-11-24T21:45:58+00:00"
+   "checked_at": "2026-11-25T06:12:12+00:00"
   },
   {
    "name": "SAP Labs India",
@@ -2069,7 +1769,7 @@
    "status": "ok",
    "count": 0,
    "error": "",
-   "checked_at": "2026-11-24T21:45:58+00:00"
+   "checked_at": "2026-11-25T06:12:12+00:00"
   },
   {
    "name": "Cisco",
@@ -2080,18 +1780,18 @@
    "status": "ok",
    "count": 0,
    "error": "",
-   "checked_at": "2026-11-24T21:45:58+00:00"
+   "checked_at": "2026-11-25T06:12:12+00:00"
   },
   {
    "name": "Intel",
    "type": "GCC",
    "url": "https://jobs.intel.com/",
    "system": "workday",
-   "method": "feed",
+   "method": "page",
    "status": "ok",
-   "count": 18,
+   "count": 0,
    "error": "",
-   "checked_at": "2026-11-24T21:45:58+00:00"
+   "checked_at": "2026-11-25T06:12:12+00:00"
   },
   {
    "name": "NVIDIA",
@@ -2102,7 +1802,7 @@
    "status": "ok",
    "count": 0,
    "error": "",
-   "checked_at": "2026-11-24T21:45:58+00:00"
+   "checked_at": "2026-11-25T06:12:12+00:00"
   },
   {
    "name": "Qualcomm",
@@ -2113,7 +1813,7 @@
    "status": "ok",
    "count": 0,
    "error": "",
-   "checked_at": "2026-11-24T21:45:58+00:00"
+   "checked_at": "2026-11-25T06:12:12+00:00"
   },
   {
    "name": "AMD",
@@ -2124,18 +1824,18 @@
    "status": "ok",
    "count": 0,
    "error": "",
-   "checked_at": "2026-11-24T21:45:58+00:00"
+   "checked_at": "2026-11-25T06:12:12+00:00"
   },
   {
    "name": "Micron",
    "type": "GCC",
    "url": "https://careers.micron.com/careers",
    "system": "workday",
-   "method": "feed",
+   "method": "page",
    "status": "ok",
-   "count": 3,
+   "count": 0,
    "error": "",
-   "checked_at": "2026-11-24T21:45:58+00:00"
+   "checked_at": "2026-11-25T06:12:12+00:00"
   },
   {
    "name": "Dell",
@@ -2146,18 +1846,18 @@
    "status": "ok",
    "count": 0,
    "error": "",
-   "checked_at": "2026-11-24T21:45:58+00:00"
+   "checked_at": "2026-11-25T06:12:12+00:00"
   },
   {
    "name": "Broadcom",
    "type": "GCC",
    "url": "https://www.broadcom.com/company/careers",
    "system": "workday",
-   "method": "page",
+   "method": "feed",
    "status": "ok",
    "count": 0,
    "error": "",
-   "checked_at": "2026-11-24T21:45:58+00:00"
+   "checked_at": "2026-11-25T06:12:12+00:00"
   },
   {
    "name": "Synopsys",
@@ -2168,7 +1868,7 @@
    "status": "ok",
    "count": 0,
    "error": "",
-   "checked_at": "2026-11-24T21:45:58+00:00"
+   "checked_at": "2026-11-25T06:12:12+00:00"
   },
   {
    "name": "Cadence",
@@ -2179,7 +1879,7 @@
    "status": "ok",
    "count": 0,
    "error": "",
-   "checked_at": "2026-11-24T21:45:58+00:00"
+   "checked_at": "2026-11-25T06:12:12+00:00"
   },
   {
    "name": "Autodesk",
@@ -2190,7 +1890,7 @@
    "status": "failed",
    "count": 0,
    "error": "workday: HTTP 429 '<!DOCTYPE html>\\n<html>\\n\\n<head>\\n    <style>\\n        body {\\n            ' | browser: page showed no job list (needs a custom scraper) ",
-   "checked_at": "2026-11-24T21:45:58+00:00"
+   "checked_at": "2026-11-25T06:12:12+00:00"
   },
   {
    "name": "Atlassian",
@@ -2201,7 +1901,7 @@
    "status": "ok",
    "count": 0,
    "error": "",
-   "checked_at": "2026-11-24T21:45:58+00:00"
+   "checked_at": "2026-11-25T06:12:12+00:00"
   },
   {
    "name": "Uber",
@@ -2212,7 +1912,7 @@
    "status": "ok",
    "count": 0,
    "error": "",
-   "checked_at": "2026-11-24T21:45:58+00:00"
+   "checked_at": "2026-11-25T06:12:12+00:00"
   },
   {
    "name": "ServiceNow",
@@ -2223,18 +1923,18 @@
    "status": "ok",
    "count": 1,
    "error": "",
-   "checked_at": "2026-11-24T21:45:58+00:00"
+   "checked_at": "2026-11-25T06:12:12+00:00"
   },
   {
    "name": "Workday",
    "type": "GCC",
    "url": "https://www.workday.com/en-us/company/careers.html",
    "system": "workday",
-   "method": "page",
+   "method": "feed",
    "status": "ok",
    "count": 0,
    "error": "",
-   "checked_at": "2026-11-24T21:45:58+00:00"
+   "checked_at": "2026-11-25T06:12:12+00:00"
   },
   {
    "name": "Thomson Reuters",
@@ -2245,7 +1945,7 @@
    "status": "ok",
    "count": 0,
    "error": "",
-   "checked_at": "2026-11-24T21:45:58+00:00"
+   "checked_at": "2026-11-25T06:12:12+00:00"
   },
   {
    "name": "Flipkart",
@@ -2256,7 +1956,7 @@
    "status": "ok",
    "count": 0,
    "error": "",
-   "checked_at": "2026-11-24T21:45:58+00:00"
+   "checked_at": "2026-11-25T06:12:12+00:00"
   },
   {
    "name": "Swiggy",
@@ -2267,7 +1967,7 @@
    "status": "ok",
    "count": 0,
    "error": "",
-   "checked_at": "2026-11-24T21:45:58+00:00"
+   "checked_at": "2026-11-25T06:12:12+00:00"
   },
   {
    "name": "Zomato",
@@ -2278,7 +1978,7 @@
    "status": "failed",
    "count": 0,
    "error": " | browser: page showed no job list (needs a custom scraper) ",
-   "checked_at": "2026-11-24T21:45:58+00:00"
+   "checked_at": "2026-11-25T06:12:12+00:00"
   },
   {
    "name": "Ola",
@@ -2289,7 +1989,7 @@
    "status": "failed",
    "count": 0,
    "error": " | browser: page showed no job list (needs a custom scraper) ",
-   "checked_at": "2026-11-24T21:45:58+00:00"
+   "checked_at": "2026-11-25T06:12:12+00:00"
   },
   {
    "name": "Freshworks",
@@ -2300,7 +2000,7 @@
    "status": "ok",
    "count": 0,
    "error": "",
-   "checked_at": "2026-11-24T21:45:58+00:00"
+   "checked_at": "2026-11-25T06:12:12+00:00"
   },
   {
    "name": "Zoho",
@@ -2311,7 +2011,7 @@
    "status": "ok",
    "count": 0,
    "error": "",
-   "checked_at": "2026-11-24T21:45:58+00:00"
+   "checked_at": "2026-11-25T06:12:12+00:00"
   },
   {
    "name": "Postman",
@@ -2322,7 +2022,7 @@
    "status": "ok",
    "count": 0,
    "error": "",
-   "checked_at": "2026-11-24T21:45:58+00:00"
+   "checked_at": "2026-11-25T06:12:12+00:00"
   },
   {
    "name": "BrowserStack",
@@ -2333,7 +2033,7 @@
    "status": "ok",
    "count": 0,
    "error": "",
-   "checked_at": "2026-11-24T21:45:58+00:00"
+   "checked_at": "2026-11-25T06:12:12+00:00"
   },
   {
    "name": "Druva",
@@ -2344,7 +2044,7 @@
    "status": "ok",
    "count": 0,
    "error": "",
-   "checked_at": "2026-11-24T21:45:58+00:00"
+   "checked_at": "2026-11-25T06:12:12+00:00"
   },
   {
    "name": "Nutanix",
@@ -2355,7 +2055,7 @@
    "status": "ok",
    "count": 0,
    "error": "",
-   "checked_at": "2026-11-24T21:45:58+00:00"
+   "checked_at": "2026-11-25T06:12:12+00:00"
   },
   {
    "name": "Rubrik",
@@ -2366,7 +2066,7 @@
    "status": "ok",
    "count": 3,
    "error": "",
-   "checked_at": "2026-11-24T21:45:58+00:00"
+   "checked_at": "2026-11-25T06:12:12+00:00"
   },
   {
    "name": "Databricks",
@@ -2377,7 +2077,7 @@
    "status": "ok",
    "count": 0,
    "error": "",
-   "checked_at": "2026-11-24T21:45:58+00:00"
+   "checked_at": "2026-11-25T06:12:12+00:00"
   },
   {
    "name": "Stripe",
@@ -2388,7 +2088,7 @@
    "status": "ok",
    "count": 1,
    "error": "",
-   "checked_at": "2026-11-24T21:45:58+00:00"
+   "checked_at": "2026-11-25T06:12:12+00:00"
   },
   {
    "name": "Cloudflare",
@@ -2399,7 +2099,7 @@
    "status": "ok",
    "count": 0,
    "error": "",
-   "checked_at": "2026-11-24T21:45:58+00:00"
+   "checked_at": "2026-11-25T06:12:12+00:00"
   },
   {
    "name": "Datadog",
@@ -2410,7 +2110,7 @@
    "status": "ok",
    "count": 0,
    "error": "",
-   "checked_at": "2026-11-24T21:45:58+00:00"
+   "checked_at": "2026-11-25T06:12:12+00:00"
   },
   {
    "name": "MongoDB",
@@ -2421,7 +2121,7 @@
    "status": "ok",
    "count": 0,
    "error": "",
-   "checked_at": "2026-11-24T21:45:58+00:00"
+   "checked_at": "2026-11-25T06:12:12+00:00"
   },
   {
    "name": "Okta",
@@ -2432,7 +2132,7 @@
    "status": "ok",
    "count": 0,
    "error": "",
-   "checked_at": "2026-11-24T21:45:58+00:00"
+   "checked_at": "2026-11-25T06:12:12+00:00"
   },
   {
    "name": "GitLab",
@@ -2443,7 +2143,7 @@
    "status": "ok",
    "count": 2,
    "error": "",
-   "checked_at": "2026-11-24T21:45:58+00:00"
+   "checked_at": "2026-11-25T06:12:12+00:00"
   },
   {
    "name": "Twilio",
@@ -2454,7 +2154,7 @@
    "status": "ok",
    "count": 1,
    "error": "",
-   "checked_at": "2026-11-24T21:45:58+00:00"
+   "checked_at": "2026-11-25T06:12:12+00:00"
   },
   {
    "name": "Coinbase",
@@ -2465,7 +2165,7 @@
    "status": "ok",
    "count": 0,
    "error": "",
-   "checked_at": "2026-11-24T21:45:58+00:00"
+   "checked_at": "2026-11-25T06:12:12+00:00"
   },
   {
    "name": "Pinterest",
@@ -2476,7 +2176,7 @@
    "status": "ok",
    "count": 0,
    "error": "",
-   "checked_at": "2026-11-24T21:45:58+00:00"
+   "checked_at": "2026-11-25T06:12:12+00:00"
   },
   {
    "name": "Airbnb",
@@ -2487,7 +2187,7 @@
    "status": "ok",
    "count": 0,
    "error": "",
-   "checked_at": "2026-11-24T21:45:58+00:00"
+   "checked_at": "2026-11-25T06:12:12+00:00"
   },
   {
    "name": "Elastic",
@@ -2498,7 +2198,7 @@
    "status": "ok",
    "count": 0,
    "error": "",
-   "checked_at": "2026-11-24T21:45:58+00:00"
+   "checked_at": "2026-11-25T06:12:12+00:00"
   },
   {
    "name": "ThoughtSpot",
@@ -2509,7 +2209,7 @@
    "status": "ok",
    "count": 0,
    "error": "",
-   "checked_at": "2026-11-24T21:45:58+00:00"
+   "checked_at": "2026-11-25T06:12:12+00:00"
   },
   {
    "name": "TCS",
@@ -2520,7 +2220,7 @@
    "status": "failed",
    "count": 0,
    "error": " | browser: page showed no job list (needs a custom scraper) ",
-   "checked_at": "2026-11-24T21:45:58+00:00"
+   "checked_at": "2026-11-25T06:12:12+00:00"
   },
   {
    "name": "Infosys",
@@ -2531,7 +2231,7 @@
    "status": "failed",
    "count": 0,
    "error": " | browser: page showed no job list (needs a custom scraper) ",
-   "checked_at": "2026-11-24T21:45:58+00:00"
+   "checked_at": "2026-11-25T06:12:12+00:00"
   },
   {
    "name": "Wipro",
@@ -2542,7 +2242,7 @@
    "status": "ok",
    "count": 0,
    "error": "",
-   "checked_at": "2026-11-24T21:45:58+00:00"
+   "checked_at": "2026-11-25T06:12:12+00:00"
   },
   {
    "name": "HCLTech",
@@ -2553,7 +2253,7 @@
    "status": "ok",
    "count": 0,
    "error": "",
-   "checked_at": "2026-11-24T21:45:58+00:00"
+   "checked_at": "2026-11-25T06:12:12+00:00"
   },
   {
    "name": "Tech Mahindra",
@@ -2564,7 +2264,7 @@
    "status": "ok",
    "count": 0,
    "error": "",
-   "checked_at": "2026-11-24T21:45:58+00:00"
+   "checked_at": "2026-11-25T06:12:12+00:00"
   },
   {
    "name": "Cognizant",
@@ -2575,7 +2275,7 @@
    "status": "ok",
    "count": 0,
    "error": "",
-   "checked_at": "2026-11-24T21:45:58+00:00"
+   "checked_at": "2026-11-25T06:12:12+00:00"
   },
   {
    "name": "Accenture",
@@ -2586,7 +2286,7 @@
    "status": "ok",
    "count": 0,
    "error": "",
-   "checked_at": "2026-11-24T21:45:58+00:00"
+   "checked_at": "2026-11-25T06:12:12+00:00"
   },
   {
    "name": "Capgemini",
@@ -2597,7 +2297,7 @@
    "status": "ok",
    "count": 0,
    "error": "",
-   "checked_at": "2026-11-24T21:45:58+00:00"
+   "checked_at": "2026-11-25T06:12:12+00:00"
   },
   {
    "name": "LTIMindtree",
@@ -2608,7 +2308,7 @@
    "status": "ok",
    "count": 0,
    "error": "",
-   "checked_at": "2026-11-24T21:45:58+00:00"
+   "checked_at": "2026-11-25T06:12:12+00:00"
   },
   {
    "name": "Persistent Systems",
@@ -2619,7 +2319,7 @@
    "status": "failed",
    "count": 0,
    "error": " | browser: Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.persistent.com/careers/\nCall log:\n  - navigating to \"https://www.persistent.com/careers/\", waiting until \"domcontentloaded\"\n",
-   "checked_at": "2026-11-24T21:45:58+00:00"
+   "checked_at": "2026-11-25T06:12:12+00:00"
   },
   {
    "name": "Mphasis",
@@ -2630,7 +2330,7 @@
    "status": "ok",
    "count": 0,
    "error": "",
-   "checked_at": "2026-11-24T21:45:58+00:00"
+   "checked_at": "2026-11-25T06:12:12+00:00"
   },
   {
    "name": "Hexaware",
@@ -2641,7 +2341,7 @@
    "status": "ok",
    "count": 0,
    "error": "",
-   "checked_at": "2026-11-24T21:45:58+00:00"
+   "checked_at": "2026-11-25T06:12:12+00:00"
   },
   {
    "name": "Zensar",
@@ -2652,7 +2352,7 @@
    "status": "ok",
    "count": 3,
    "error": "",
-   "checked_at": "2026-11-24T21:45:58+00:00"
+   "checked_at": "2026-11-25T06:12:12+00:00"
   },
   {
    "name": "Coforge",
@@ -2663,7 +2363,7 @@
    "status": "failed",
    "count": 0,
    "error": " | browser: Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://careers.coforge.com/\nCall log:\n  - navigating to \"https://careers.coforge.com/\", waiting until \"domcontentloaded\"\n",
-   "checked_at": "2026-11-24T21:45:58+00:00"
+   "checked_at": "2026-11-25T06:12:12+00:00"
   },
   {
    "name": "Birlasoft",
@@ -2674,7 +2374,7 @@
    "status": "ok",
    "count": 0,
    "error": "",
-   "checked_at": "2026-11-24T21:45:58+00:00"
+   "checked_at": "2026-11-25T06:12:12+00:00"
   },
   {
    "name": "Razorpay",
@@ -2685,7 +2385,7 @@
    "status": "ok",
    "count": 0,
    "error": "",
-   "checked_at": "2026-11-24T21:45:58+00:00"
+   "checked_at": "2026-11-25T06:12:12+00:00"
   },
   {
    "name": "PhonePe",
@@ -2696,7 +2396,7 @@
    "status": "ok",
    "count": 0,
    "error": "",
-   "checked_at": "2026-11-24T21:45:58+00:00"
+   "checked_at": "2026-11-25T06:12:12+00:00"
   },
   {
    "name": "CRED",
@@ -2707,7 +2407,7 @@
    "status": "ok",
    "count": 0,
    "error": "",
-   "checked_at": "2026-11-24T21:45:58+00:00"
+   "checked_at": "2026-11-25T06:12:12+00:00"
   },
   {
    "name": "Groww",
@@ -2718,7 +2418,7 @@
    "status": "ok",
    "count": 0,
    "error": "",
-   "checked_at": "2026-11-24T21:45:58+00:00"
+   "checked_at": "2026-11-25T06:12:12+00:00"
   },
   {
    "name": "Zerodha",
@@ -2729,7 +2429,7 @@
    "status": "ok",
    "count": 0,
    "error": "",
-   "checked_at": "2026-11-24T21:45:58+00:00"
+   "checked_at": "2026-11-25T06:12:12+00:00"
   },
   {
    "name": "Meesho",
@@ -2740,7 +2440,7 @@
    "status": "ok",
    "count": 0,
    "error": "",
-   "checked_at": "2026-11-24T21:45:58+00:00"
+   "checked_at": "2026-11-25T06:12:12+00:00"
   },
   {
    "name": "Paytm",
@@ -2751,7 +2451,7 @@
    "status": "ok",
    "count": 0,
    "error": "",
-   "checked_at": "2026-11-24T21:45:58+00:00"
+   "checked_at": "2026-11-25T06:12:12+00:00"
   },
   {
    "name": "Slice",
@@ -2762,7 +2462,7 @@
    "status": "ok",
    "count": 0,
    "error": "",
-   "checked_at": "2026-11-24T21:45:58+00:00"
+   "checked_at": "2026-11-25T06:12:12+00:00"
   },
   {
    "name": "Jupiter",
@@ -2773,7 +2473,7 @@
    "status": "ok",
    "count": 0,
    "error": "",
-   "checked_at": "2026-11-24T21:45:58+00:00"
+   "checked_at": "2026-11-25T06:12:12+00:00"
   },
   {
    "name": "Zepto",
@@ -2784,7 +2484,7 @@
    "status": "failed",
    "count": 0,
    "error": " | browser: page showed no job list (needs a custom scraper) ",
-   "checked_at": "2026-11-24T21:45:58+00:00"
+   "checked_at": "2026-11-25T06:12:12+00:00"
   },
   {
    "name": "Dream11",
@@ -2795,7 +2495,7 @@
    "status": "ok",
    "count": 0,
    "error": "",
-   "checked_at": "2026-11-24T21:45:58+00:00"
+   "checked_at": "2026-11-25T06:12:12+00:00"
   },
   {
    "name": "Juspay",
@@ -2806,7 +2506,7 @@
    "status": "ok",
    "count": 0,
    "error": "",
-   "checked_at": "2026-11-24T21:45:58+00:00"
+   "checked_at": "2026-11-25T06:12:12+00:00"
   },
   {
    "name": "Cars24",
@@ -2817,7 +2517,7 @@
    "status": "ok",
    "count": 0,
    "error": "",
-   "checked_at": "2026-11-24T21:45:58+00:00"
+   "checked_at": "2026-11-25T06:12:12+00:00"
   },
   {
    "name": "Urban Company",
@@ -2828,7 +2528,7 @@
    "status": "ok",
    "count": 0,
    "error": "",
-   "checked_at": "2026-11-24T21:45:58+00:00"
+   "checked_at": "2026-11-25T06:12:12+00:00"
   },
   {
    "name": "PhysicsWallah",
@@ -2839,7 +2539,7 @@
    "status": "failed",
    "count": 0,
    "error": " | browser: page showed no job list (needs a custom scraper) ",
-   "checked_at": "2026-11-24T21:45:58+00:00"
+   "checked_at": "2026-11-25T06:12:12+00:00"
   },
   {
    "name": "Lenskart",
@@ -2850,7 +2550,7 @@
    "status": "ok",
    "count": 0,
    "error": "",
-   "checked_at": "2026-11-24T21:45:58+00:00"
+   "checked_at": "2026-11-25T06:12:12+00:00"
   },
   {
    "name": "Nykaa",
@@ -2861,7 +2561,7 @@
    "status": "failed",
    "count": 0,
    "error": " | browser: Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.nykaa.com/careers\nCall log:\n  - navigating to \"https://www.nykaa.com/careers\", waiting until \"domcontentloaded\"\n",
-   "checked_at": "2026-11-24T21:45:58+00:00"
+   "checked_at": "2026-11-25T06:12:12+00:00"
   },
   {
    "name": "BharatPe",
@@ -2872,7 +2572,7 @@
    "status": "ok",
    "count": 0,
    "error": "",
-   "checked_at": "2026-11-24T21:45:58+00:00"
+   "checked_at": "2026-11-25T06:12:12+00:00"
   },
   {
    "name": "Navi",
@@ -2883,7 +2583,7 @@
    "status": "failed",
    "count": 0,
    "error": " | browser: page showed no job list (needs a custom scraper) ",
-   "checked_at": "2026-11-24T21:45:58+00:00"
+   "checked_at": "2026-11-25T06:12:12+00:00"
   },
   {
    "name": "ShareChat",
@@ -2894,7 +2594,7 @@
    "status": "ok",
    "count": 0,
    "error": "",
-   "checked_at": "2026-11-24T21:45:58+00:00"
+   "checked_at": "2026-11-25T06:12:12+00:00"
   }
  ]
 }
